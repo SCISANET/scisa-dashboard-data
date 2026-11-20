@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:00:29.118Z",
+  "generated_at": "2026-11-20T16:25:14.785Z",
   "epics": [
     {
       "epic_id": 170,
@@ -10900,8 +10900,8 @@
           "id": 11965,
           "titulo": "[RF-07] Conservar la captura manual del TC 48H Compra y habilitar la captura manual del TC 48H Venta como contingencia",
           "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-10-23",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-10-22",
           "asignado": "José Celestino",
@@ -12170,6 +12170,17 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Ibrahim Esparza",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12461"
+        },
+        {
+          "id": 12482,
+          "titulo": "[SOLICITUD] SIGLO Web - Habilitar usuario promotor adicional a SYSADM",
+          "tipo": "Task",
+          "estado": "To Do",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "Ibrahim Esparza",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12482"
         }
       ]
     },
@@ -12286,7 +12297,7 @@
           "id": 12244,
           "titulo": "[RF-08] - Configuración de SIPRELAD",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-13",
           "fecha_fin": "2026-11-19",
           "fecha_objetivo": "2026-11-20",
