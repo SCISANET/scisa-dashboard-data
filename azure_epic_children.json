@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:28:17.120Z",
+  "generated_at": "2026-11-20T18:50:04.436Z",
   "epics": [
     {
       "epic_id": 170,
@@ -13660,6 +13660,17 @@
           "fecha_objetivo": "2026-11-19",
           "asignado": "Antonio Pequeño",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12458"
+        },
+        {
+          "id": 12493,
+          "titulo": "Error en archivo de cierre contable",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-23",
+          "asignado": "Neidy Hernandez",
+          "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12493"
         }
       ]
     },
@@ -14004,6 +14015,23 @@
           "fecha_objetivo": "2026-11-11",
           "asignado": "Hervey Moreno",
           "url": "https://dev.azure.com/scisa/BANCREA_GIT/_workitems/edit/12163"
+        }
+      ]
+    },
+    {
+      "epic_id": 12495,
+      "proyecto_azure": "BANCREA_GIT",
+      "hijos": [
+        {
+          "id": 12496,
+          "titulo": "[RF-01]-Generación MT300 de compras en “por Confirmar”",
+          "tipo": "Feature",
+          "estado": "To Do",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-26",
+          "asignado": "Hervey Moreno",
+          "url": "https://dev.azure.com/scisa/BANCREA_GIT/_workitems/edit/12496"
         }
       ]
     }
