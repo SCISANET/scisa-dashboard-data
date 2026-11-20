@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:00:29.084Z",
+  "generated_at": "2026-11-20T16:25:14.759Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -473,9 +473,9 @@
           "fecha_inicio": "2026-11-11",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
-          "total_hijos": 20,
+          "total_hijos": 21,
           "hijos_cerrados": 10,
-          "pct_progreso": 50,
+          "pct_progreso": 48,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
