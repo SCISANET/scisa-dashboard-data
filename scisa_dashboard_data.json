@@ -2786,7 +2786,7 @@
       ],
       "due_date_ms": 1795514400000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae8fc1",
       "desarrollador_real": null
@@ -6587,7 +6587,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1785146400000,
-      "dias_sin_actualizar": 57,
+      "dias_sin_actualizar": 58,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ak13zet",
       "desarrollador_real": null
