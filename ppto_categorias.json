@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:34:53.365Z",
+  "generated_at": "2026-11-20T17:54:19.434Z",
   "proyectos": [
     {
       "proj_code": "SCISA_00000",
@@ -278,11 +278,11 @@
     },
     {
       "proj_code": "SCISA_02795",
-      "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1bZ97LdcX4h_3d86RoyFpdcnFG2wax7Qo/edit?usp=drivesdk&ouid=111774667229432120538&rtpof=true&sd=true",
+      "doc_encontrado": true,
+      "doc_url": "https://drive.google.com/file/d/19F7qwIGUPTwBNgsZKqTHnFBPR6JrfaQD/view",
       "categorias": {},
       "total": 0,
-      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
+      "nota": "PT localizado manualmente: SCISA_02795_Plan_Actividades_Tarjeta Wallet Multidivisa.xlsx"
     },
     {
       "proj_code": "SCISA_02796",
@@ -345,11 +345,11 @@
     },
     {
       "proj_code": "SCISA_02810",
-      "doc_encontrado": false,
-      "doc_url": null,
+      "doc_encontrado": true,
+      "doc_url": "https://drive.google.com/file/d/1ZgkzAw-aSUQggxnANmvyIf75Tr2RHcCe/view",
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "PT localizado manualmente: PT_SCISA_02810_Validación de Operaciones Internacionales.xlsx"
     },
     {
       "proj_code": "SCISA_02811",
@@ -3276,11 +3276,11 @@
     },
     {
       "proj_code": "SCISA_03203",
-      "doc_encontrado": false,
-      "doc_url": null,
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1GiploTg-EtUtEbPN9WiBdo3SSEM9-AsR/edit?gid=373589777#gid=373589777",
       "categorias": {},
       "total": 0,
-      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
+      "nota": "PT localizado manualmente (busqueda automatica no lo encontro)"
     },
     {
       "proj_code": "SCISA_03207",
@@ -4109,11 +4109,11 @@
     },
     {
       "proj_code": "SCISA_03284",
-      "doc_encontrado": false,
-      "doc_url": "https://drive.google.com/file/d/1FrtRFNImutqzMW-wO4B0pBw6TrbEho9b/view?usp=drivesdk",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1FrtRFNImutqzMW-wO4B0pBw6TrbEho9b/edit?usp=drive_link",
       "categorias": {},
       "total": 0,
-      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
+      "nota": "PT localizado manualmente (busqueda automatica no lo encontro)"
     },
     {
       "proj_code": "SCISA_03293",
