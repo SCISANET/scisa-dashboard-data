@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:57:58.440Z",
+  "generated_at": "2026-11-20T17:09:25.457Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12032,8 +12032,8 @@
           "id": 12232,
           "titulo": "[RF-00] - SIGLONET - Documentación",
           "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-11-10",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-09",
           "asignado": "Michelle Ramirez",
@@ -12372,61 +12372,6 @@
       "proyecto_azure": "BANKAOOL_GIT",
       "hijos": [
         {
-          "id": 12256,
-          "titulo": "[RF-01] - Nueva Funcionalidad Pagos Corpay",
-          "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-09",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-10",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12256"
-        },
-        {
-          "id": 12257,
-          "titulo": "[RF-02] - Procesamiento de múltiples pagos Corpay",
-          "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-11",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-16",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12257"
-        },
-        {
-          "id": 12258,
-          "titulo": "[RE-01] - Opción para seleccionar todos los registros",
-          "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-10-28",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-12-01",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12258"
-        },
-        {
-          "id": 12259,
-          "titulo": "[RE-02] - Actualización automática del estatus en el listado de registros de ventana “Ejecutar Pago”",
-          "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-10-28",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-12-02",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12259"
-        },
-        {
-          "id": 12262,
-          "titulo": "[RE-03] - Mejoras a funcionalidad de ventana “Instrucción de Liquidacion”",
-          "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-04",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-06",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12262"
-        },
-        {
           "id": 12263,
           "titulo": "[RF-00] - Documentación",
           "tipo": "Feature",
@@ -12438,17 +12383,6 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12263"
         },
         {
-          "id": 12459,
-          "titulo": "[RF-03] - Filtro de Operaciones de Salida y Exclusión de Ajustes / Comisiones",
-          "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-11-19",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-20",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12459"
-        },
-        {
           "id": 12460,
           "titulo": "[RF-03] - Filtro de Operaciones de Salida en Ventana de Generación Batch Corpay",
           "tipo": "Feature",
@@ -12458,6 +12392,39 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12460"
+        },
+        {
+          "id": 12486,
+          "titulo": "[RF-01] - Clasificación del Tipo de Persona para Beneficiarios Internacionales",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12486"
+        },
+        {
+          "id": 12487,
+          "titulo": "[RF-02] - Validaciones Bancarias",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12487"
+        },
+        {
+          "id": 12488,
+          "titulo": "[RF-03] - Homologación y Mapeo Configurable de Catálogo \"Propósito de Pago\"",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12488"
         }
       ]
     },
