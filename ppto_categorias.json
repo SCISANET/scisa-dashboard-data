@@ -1,0 +1,5913 @@
+{
+  "generated_at": "2026-11-18T20:11:39.008Z",
+  "proyectos": [
+    {
+      "proj_code": "SCISA_00000",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1pXs7unV0DJW1GSi5ibiAub6M28Y7oZVbA-7Z6M1JAW8/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla distinta (hoja 'Plan de Trabajo' con lista de tareas, sin pestaña Estimación Final); no se pudo mapear a categorías"
+    },
+    {
+      "proj_code": "SCISA_02376",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02423",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02570",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02603",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02625",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02660",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02661",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02670",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02672",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02674",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02695",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1szrfFuKJjb6ReWYw5wg_JE3tmSvnrB8dlBRa0gWpr0Q/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02697",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02713",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02717",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02725",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02727",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02731",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1L_0U3k7xygnd1TMqJ4BqTF-gS8CJsWfXJ1tN1ulGmmg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 359,
+        "DEV": 1548
+      },
+      "total": 1907,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02734",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02741",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02742",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02743",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02746",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02750",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02764",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/163kJ1nWJbG8QpuyrcYlEaqmhg3pHI-iA/edit?usp=drivesdk&ouid=108565361878819935277&rtpof=true&sd=true",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 360
+      },
+      "total": 400,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02765",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02770",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02779",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02786",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02789",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02793",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02794",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Uis7US35c2zKvS1OltmOtM4wvIwSh0KLS8sUC0FFH0g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 148
+      },
+      "total": 168,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02795",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1bZ97LdcX4h_3d86RoyFpdcnFG2wax7Qo/edit?usp=drivesdk&ouid=111774667229432120538&rtpof=true&sd=true",
+      "categorias": {
+        "ANL": 80,
+        "DEV": 652
+      },
+      "total": 732,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02796",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/136eFwi0gQeoOXqxFz2ma4voWlv9fbavu/edit?usp=drivesdk&ouid=108565361878819935277&rtpof=true&sd=true",
+      "categorias": {},
+      "total": 0,
+      "nota": "sin hoja 2"
+    },
+    {
+      "proj_code": "SCISA_02798",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02799",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1gMO3_ltGjdUglPTugE_ZatSCyTSLuzJB/edit?usp=drivesdk&ouid=108565361878819935277&rtpof=true&sd=true",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 120
+      },
+      "total": 136,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02803",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1aTFtMxKxu_Zl_E9dGyTqpWg6sHYHGvo4/edit?usp=drivesdk&ouid=111774667229432120538&rtpof=true&sd=true",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 156
+      },
+      "total": 172,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02805",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02806",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1QUN124hze7sxVDr4nCHH8wryaxZmFAPhNPanFgxjLn8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02810",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02811",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02814",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1D5EKN_ONGt7bbApg583D_j5JLhfZG7TBR9PS6OgbqW8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 108
+      },
+      "total": 124,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02818",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZtQoRVAdh2vDgea544rJsTODfQ4R24AbJp9mraJCf1I/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02819",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02820",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02822",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02824",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02826",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02827",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1lywGJuvCwWG8V-3EtGXzgxnhq2-bomNpOsy6D4IYBAE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 60,
+        "DEV": 508
+      },
+      "total": 568,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02828",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02831",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1k0Vp-ks29vvlhV8CiNWcxJfJ5gEecHRPx9sN2rfPOXA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02833",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02834",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ksytKoINV5tqOFk_uMgUOXkkYLTeXwmQ2X8gMu1vWSk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02837",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02839",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02840",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1YNnXUaFnHHfdyVbjqMXmXEqMLVWmNiZKwWrha9qXL1Q/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 44,
+        "DEV": 88
+      },
+      "total": 132,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02841",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1vCAsEA6XCiqQg_TwW1TRU1LSPLBpn_VQejV1m0ZxAy4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 66,
+        "DEV": 596
+      },
+      "total": 662,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02842",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1iXC99VpjLEjEzVVFb48Y2Rg_5uUxSkBX9uS8ZUecjTs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 316
+      },
+      "total": 356,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02843",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02846",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1q54b7XBwtpSqK23ueQ85kz97HAXTP_7qaUiKRIlVfFM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 54,
+        "DEV": 444
+      },
+      "total": 498,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02847",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02848",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02849",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1B0VWCz5KaMo1PkrAO0quzFJIH_jS4_ub0dszAzekTRU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 8,
+        "DEV": 54,
+        "TST": 6,
+        "DOC": 0,
+        "ADV": 12,
+        "ACO": 8,
+        "ADM": 2
+      },
+      "total": 90,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02850",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1EqYB8jJWoySCjjizLIV5bUVzZtYbJSk_3Re2mWfVi-A/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "DEV": 28,
+        "TST": 4,
+        "DOC": 0,
+        "ADV": 1,
+        "ACO": 4,
+        "ADM": 1
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02851",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Im44dF26q4dERt1t1z3CqvNWdNX-qCDN/edit?usp=drivesdk&ouid=108565361878819935277&rtpof=true&sd=true",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02852",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1pUBhDz76xjB09EEH4FUirLNXQ444LvDbYEcQ0LjizCQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_02853",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02854",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Dmza6fS4D3yJDgAjyQUMJMrRyag-mhWpUdAsH1zVF_Q/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 60,
+        "DEV": 508
+      },
+      "total": 568,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02855",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Tj2mGDha3KlOKEyMm8hWbGkU2ui-Qvu7RZJ4sNnBDaU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 100,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 20,
+        "ACO": 14,
+        "ADM": 4
+      },
+      "total": 164,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02856",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1MlDV_afzaUCcnKCAyYb84UKGEOLoGagH0Eqx9nbCZyk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 36,
+        "DEV": 292
+      },
+      "total": 328,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02857",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1E5hgXqqtO_0rMfJ_4GeZZFy-Es_9DhkAN6z_v5IKgAc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 28,
+        "DEV": 324
+      },
+      "total": 352,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02859",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1aRWuUjHjsIOnIM-dEowYH3gl5_OZeU9gm8SSbLqCCpc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 36,
+        "DEV": 292
+      },
+      "total": 328,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02860",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ipT1j2fLLHRki3lcgzlpAoB11LooAsl9zQin87U2CvA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 14,
+        "DEV": 98,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 20,
+        "ACO": 16,
+        "ADM": 4
+      },
+      "total": 162,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02863",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1speiRQQAqH2XfuCELmxnuH_rPnvxWZY07l4eN95fHgg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02864",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02865",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02866",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02867",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1reQFTHPFFbpr2NEtQb1kLf8tuQ2esDr1qrVeUSAEwSQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 76,
+        "DEV": 828
+      },
+      "total": 904,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02868",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1HS6itiASTB_YFKp1Yrzm-T-kefgjDP0mOfP20bebTCk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02869",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1SkLj2f6RVBD7MZFw6uMWLXi24mtTqqoylKIHN3Vt6Xs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_02870",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1byef7ILNu-gCJmNhHr_QDo4l3l-bQnmkrSJ4NIwZf8I/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02872",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1DTo9rhOOJsWYvTo7Tve926N7BzCmkLhVNaaFtCSCPeg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 48,
+        "DEV": 408
+      },
+      "total": 456,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02873",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Ls3kTRCRGQywecwVoVXZSwDNXA6wMoVVALb8ZirMxvo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 38,
+        "DEV": 310
+      },
+      "total": 348,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02874",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02875",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1mxisNu85-eqwoAqbSNwUV0wYmJk6-RxL-lCjmN8sTnQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02876",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02877",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/138lT2QgNGcgjuw3ZpQw88tUCVyRTpCft-KbzboosZYQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 128
+      },
+      "total": 144,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02878",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Gu4UnooYpMeiNnQC9p37cqj52OfHmdQfTJWRLTjKJH4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 32,
+        "DEV": 260
+      },
+      "total": 292,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02879",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ecpAZRbZbarWLfwNbcmYskx8Irh_DyynRcnsgpoqwd8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02880",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1YfER5GfU2SGJCbDC1ftcKkWQlLYHTgsOYBm-NY40JmY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 36,
+        "DEV": 292
+      },
+      "total": 328,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02884",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02885",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02886",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02889",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02890",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Y39C3DLy1mnqBYDv68ltBufoWnPg0NSviW4R8VSyTMI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02891",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02892",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02897",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02898",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02899",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ekaaqEguzaE-ZpP4Wyek36RuYycf64lQYWuGdjap1-4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02900",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11fLOr1y4fEgI98R84y455LHmYOR00qZ-iOz2VX-aGu8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 24,
+        "DEV": 172
+      },
+      "total": 196,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02902",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1M95GFiqpqR68RWMdgz-sh4Ko6RHoVy-3L64IC-5TyzQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_02906",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02907",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02909",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02910",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02917",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1nzH18fOud-Mv4fxKqGRs57zlMDiYrLD06sIpvwHVLu0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 24,
+        "DEV": 136
+      },
+      "total": 160,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02918",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1swt4d3tceKAet9QB8FZulFPacum8YjlMvVB3NCLSWI8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 8,
+        "DEV": 64
+      },
+      "total": 72,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02920",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02921",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/10ux9jHUse830ClT2wZZ3zAIuKoqBkacI71PXFbE56zI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02923",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZIu9SXqJreVloC8VuOFEs7CqzS7dXjsEicde3xDYRAA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_02924",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02925",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1gvd89PZWJ4ExByLHpZFlXjguSxl2fqHNRYroOYntQ4c/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 116
+      },
+      "total": 132,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02926",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Tf_ZiLvDODomXEbInI6HQ7Cv39edlWm7KldWSitWavE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02927",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02928",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02930",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1xvY3VF3lpFqyr5YtKTC2mXMFOybmAXDM_OLNX_X7X_s/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02932",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/10R42lJ_9o6aqmC5IB-0sSkLPgYZ9MGIHC6lH2iJ2eko/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02933",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02934",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1hOa82wewCwjKr4g1dCP8H1K5Eo-aezUJHJ9OiKX_o9c/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02935",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1gCuR4aP5v4_U2hCfvN0IqHa95FXkY7V0C6XU3fCkB3k/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02936",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1IosfZVm9Q4AA4MblJZLyMK7NZ_wy64-8LotvLSCMUlo/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02938",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17ey65p22PyYBSy_QkdMy7kM7lT0VEinsMOZ6qSwTcmU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_02939",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1FAecXm286jZ_1OYgtChsUMCPWOuDhwNzm8Goa9_I3IE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02940",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02941",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1qLrFgjIkzuDmyQwbiF1KuU84xDqhIdC7Oif54-uy3cM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02942",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02943",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1w1JdXU4Mb5iDuyPZzE-hC6k7DqueMd0VnUqSYM4iqA0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02944",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1GLjVe4c5jhTO9tv9hzortVtzrhMwZEnXkwd_hEpFo-o/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "sin hoja 2"
+    },
+    {
+      "proj_code": "SCISA_02945",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02946",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02948",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02949",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1joqsEw6wxVb2Dfv61dbbo9QOmTPz4hfucsC7rlzbSBs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02950",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02951",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1DzaPkBL-TBe2MBEbwuL3ZyZOopp3e0vWlk4U6SwYhOU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 8,
+        "DEV": 64
+      },
+      "total": 72,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02952",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fpIzqeLJ8CcJDOrReMy_0KGFggpK8_51F3AuOY0wsMo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_02953",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/18wu0I4eYuV6PPabnEpFZKa088pZX70hLpFkVEeLvDKk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02961",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02962",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1NpcXXyUFIhHmvv7Sn-YKmnaQh_yImEMXdXeAG0Sf_-c/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02963",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1FopsA28ypVhf6TiNzvmnKFQGms5KmdsjvwW0UXSGPQY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 1286,
+        "TST": 154
+      },
+      "total": 1460,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02964",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1jbPQWrNyp502d8j-aY7M2gBqYLv8eQbV7OFFR4bp9DE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 156,
+        "PTC": 8,
+        "DEV": 96,
+        "TST": 8,
+        "DOC": 4,
+        "ADV": 6,
+        "ACO": 8,
+        "ADM": 6
+      },
+      "total": 292,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02966",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02967",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02973",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZtQoRVAdh2vDgea544rJsTODfQ4R24AbJp9mraJCf1I/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02974",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02977",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02978",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02979",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02982",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02989",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02992",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02993",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02995",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/16XQQ6_mQ6ttKQ5HAa_G7NdOg2x8RQHefH3L1r76qrkw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 194,
+        "DEV": 5544,
+        "TST": 0,
+        "ACO": 70,
+        "ADV": 0,
+        "ADM": 88,
+        "DOC": 5
+      },
+      "total": 5903,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02996",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1z__-2DJTYj_kOS4poMI2RUwHIPebJblWmt-weDZZe24/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02997",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_02998",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Gjkjm-_T77yX_WlFfYCMvYeO7qmnxteSoLPtGHlIZmE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_02999",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1lnDkSSi8EJyTzQoT7wpjK3hUaK49YT2lJs3WzdYNt8E/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03000",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1wG1e3Dazk37Md1fINNNQu8Br8pNJFyaY_GuPiGk1Eas/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "sin hoja 2"
+    },
+    {
+      "proj_code": "SCISA_03001",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1b6VDKIVuZAPHLGvdFOzj7QZj8MKb9l8I_QKZsfiw8MY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_03003",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1_7w9HqUfG1kRBfvRG2QqkZh0_P0tq_qAu61g5rznoOI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03005",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1N6A71ZEDDgSnqApehgtfDssmMwCG99P6WqLTiNMkbTM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03006",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Q67yvGAF7fqb3ziu7cK5EqJN3lMvVnOfcCk9GV1Ou2w/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03007",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11ejpHug35pzLOTNv0hzzu9Pw7Ot2lxl6RfppX3VxxCU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 100,
+        "DEV": 326
+      },
+      "total": 426,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03008",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1IXccLBvwoV66Xulyx0giSBSUOEP46BH70ELQ0RF7dkA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03009",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1U_Zc7Nxn58ME4kpDWB4YhsfXjZwviiR-D6sWK9AaEaU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 7,
+        "PTC": 5,
+        "DEV": 10,
+        "TST": 15,
+        "DOC": 4,
+        "ADV": 2,
+        "ACO": 14,
+        "ADM": 7
+      },
+      "total": 64,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03010",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03011",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1gftEa0r7QXUJxQwFnqNmqaHc09glNU3tGGeA84bRcgg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03012",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03016",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1upfxTnsP2Dpv_pf6vdJreYpcZ_z-54SzKR2kmUq1YgA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 278,
+        "DEV": 344,
+        "TST": 32
+      },
+      "total": 654,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03017",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1oyvAgnCxga9jibPILzRy3hFbGpKqAyPYnpFc_Q3wZ04/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "sin hoja 2"
+    },
+    {
+      "proj_code": "SCISA_03018",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1vYW3AjrsJ5LZX1RNQZY365xM55pOkTvDg662U3aZENA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03019",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1xEXHWaxUC36GvlqdUa3KfvFxarGN7AaGsY1UYJFZTlo/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03020",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1skGXKZZSjo-l7AkBHc3uSWvDrd1GoyFIB6LxCh10EeY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 48,
+        "DEV": 24,
+        "TST": 16
+      },
+      "total": 88,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03022",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1vldfg3my9GhFpCB9mDNxm5RnaZdTq9Ph_930kC1FwYI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "DEV": 24,
+        "TST": 4
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03023",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03024",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03025",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03026",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03027",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03028",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Bc6yoLZdZJpwkbM-HTVje9KBJkRWCsLv1iSjV5sqcII/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03031",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03034",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Ad-XrWIvvDszT_6jzef-L8ohINAprIKHlHfyQg-BNlk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 64,
+        "DEV": 48,
+        "TST": 8
+      },
+      "total": 120,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03036",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Fd0xT37tLh2ckyqCMNZIrjigW8Qi8nlM3WIrYRCzKCM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03037",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1qNMAhjxw-wwG2R-P3JBmN6c0JW0r6wuGCqgrB4A5X1g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03038",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1f8YiJt_eMoHqybz0zdGSF7Z4v79U4885dDVgtiJ8TPM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03039",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1YG4D0lXaIl-AIgIkDGJLTuzdaP2zJ7hy54EVd5-y8bE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03040",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1SjDuYtRvLqDtBaANqApmgjRx7SuoBZhaXkH0JLudYnY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_03044",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1iIahUdUT7Zt0eJlBA1RK1Mx1GsFfJFpXnKrvwWd60to/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03045",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/12MOQfZvC1RMDRr4SCRCuEq4dTgwQzLuXZKx0tA-mPeM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03047",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17UoHmulRH_bNcQqY_hF_dlsvRuBpE5iC1rX7GIbs9n8/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03049",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03050",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1AwUDcqYbr7uKKI7or7NHKC3Y9txW2iX3X9qMpwFW48s/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03051",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Ldy_sgQtrAskmdHkMVCa5nihENbKZeHRFy2XsjpGTFk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160
+      },
+      "total": 180,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03052",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fcZeJ_att1Uezg6ldmcQvC0Y48rcJiME3iLbEOQkAdM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 39,
+        "DEV": 204
+      },
+      "total": 243,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03054",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03055",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1n-iOEWl8G-DodYxd8ktUUaN7kv-ZlTH-Y-Oy1NWBf3s/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 181,
+        "TST": 58
+      },
+      "total": 260,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03057",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ivP0drS2psNHOHy_pFDAhwqbp_bPUeQhzlWPHVzJmFA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 222,
+        "DEV": 200,
+        "TST": 8
+      },
+      "total": 430,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03058",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03060",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1q5Fdc1aapYOZppTpRd9nAP4ZXhx_hG6fyb4tlSWLpic/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320
+      },
+      "total": 360,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03062",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1wtYHFkX31MwdbWXnv1mLsQCn6H0Kequph_PhA5d3ceY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03063",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03064",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1WXzdY4Vbgf4vD_CJABImZuOXHrbSMLqIQXcPY3Xf6as/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "sin hoja 2"
+    },
+    {
+      "proj_code": "SCISA_03065",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03067",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1DJQllKZiA1WU52AUnZ1vfz_LrSSlrHPnUk11vVSRhbE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03068",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1vvKTGBLg3XCESMBDy3ETYhJWvL3VCX_z9CCeldVGlqc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_03069",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Z66EAKZW5WwVnGXXPMMQU6vzxIrh4Wr1wQzc2nD2HDs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03072",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1JhyAaVeBNN0CscATPEDO7MBptT2DCnOkBT_GYFS2VJ8/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03074",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1rXXTnOhR_EpyhhxL24zfQkW2DoMC1hVdBt5dfkf2lt0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03080",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1x57qA3_rsrsox2AafByDayXKcwmTRwjSX7-c8hWSDTs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03081",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1k4Vyz6afGlrbtINrnlMoTPhlImscvZ7fktOvn2e0ZDk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 320,
+        "TST": 20
+      },
+      "total": 380,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03082",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1p9pq-5qx-Z-gg0o8ARHd7GW6B3Zi78MF_T9AF0uyOpw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 84,
+        "DEV": 250,
+        "TST": 32,
+        "DOC": 0,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 7
+      },
+      "total": 377,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03083",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1BtrysxNc3irD0I-hbXnEujKtFjy_hrJxntEJJIKJQAk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 48,
+        "DEV": 40,
+        "TST": 12
+      },
+      "total": 100,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03086",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Gqub99NoXyIcvu9IAnAY7Iw5jJ8wpPdzNjoJnMxMsnc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 23,
+        "DEV": 33,
+        "TST": 7,
+        "DOC": 0,
+        "ADV": 5,
+        "ACO": 0,
+        "ADM": 2
+      },
+      "total": 70,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03088",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1MUugepR3Xtm7_wiTxaEggmjucPPqCIzhgN_JctTeg-g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 136,
+        "DEV": 162
+      },
+      "total": 298,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03089",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03090",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03091",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1unw_YJfiWntUn95XxNEgPiBA1QBshU5KD5dTAmot9NE/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03094",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1OES4tA4YomBT3BSmU-trNzIIKwJZV6B2U1pudrENyz4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
+      },
+      "total": 268,
+      "nota": "variante de plantilla con filas fusionadas ('Envío y Documentación', 'Ambientación y acompañamiento...', 'Despliegue en producción'); mapeo aproximado por equivalencia semántica"
+    },
+    {
+      "proj_code": "SCISA_03095",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03098",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11r0tm0DMjB7VGpHHGTl8oh5NXqg13cdFY2hkzZr16bs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 94,
+        "DEV": 196
+      },
+      "total": 290,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03099",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03100",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1z7sffySOhq5Wp4UX171dsj474Dy4Aw_djnkKyNEqiiE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03101",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1FP5qxt41qtTfCqE9pXONrzm8x37it5OlFD8_fZjOhLs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 24,
+        "DEV": 80
+      },
+      "total": 104,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03106",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Yo1SP5ZijZ6VjOipW4e7nhA6ZHAp28mKpLsYa6D3hlo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 164,
+        "TST": 12
+      },
+      "total": 197,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03108",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03109",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1kFbRzh63UUDSdLcLVL9qIS6kajdQBNFm-y89N3bfY-k/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 28,
+        "DEV": 168,
+        "TST": 15
+      },
+      "total": 211,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03112",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03113",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03114",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03115",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03116",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03117",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03118",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03119",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03121",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yE9w_ssvlXbA4HTP8K-ZzmkGmxd6FP2XxydeoA2z6BM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 26,
+        "DEV": 167,
+        "TST": 12
+      },
+      "total": 205,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03122",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fydW1f41-EvOE2-TCGFwoQQfS07E21_aSq53NwwX8K0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final 'Horas Ajustadas' es legible"
+    },
+    {
+      "proj_code": "SCISA_03124",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03125",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1962-Orsnria_yOp1fKFb2-SfcyzgNXBjk04tC1z3VXc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03127",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1-euKYPAJzbNO_1A8y_8cB3YucaT6MfwxXsUKDjggcm0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03128",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yt9w7G66cGpevAISp5enyKlPoCxIWqTVR55wPC6yXRw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03129",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1XomZc17Chvh5HpPU24kACs7Xuh6QnvkSr5uhQ1LdX7E/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03130",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1CTHtXgRjh7TZ6F6nIX4kjrpa-8jJ98tcLKP-RzYDwbk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03132",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1T3x0LayIlwpWUNClPZJARn1jlke_bL7F2TXhL_ETbXQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03133",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1RDcneb7MjGc0zjQ4-VOzD7bnDKs6iu7kh_GmFlv7NjM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03134",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17HMphWy8cqazF6j5SG0uB7HJ1DQdoym2yY0YtjKA-NU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03135",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1da385zLw346jeHp6y96vWxs4GXsk4aE5cjfMlViB820/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 12,
+        "DEV": 28,
+        "TST": 4,
+        "DOC": 1,
+        "ADV": 2,
+        "ACO": 6,
+        "ADM": 1
+      },
+      "total": 64,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03136",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZdZcUj-DBUpnfyu2kVTz98rGFytPKjXSeCZV61VXH1w/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 13,
+        "PTC": 3,
+        "DEV": 26,
+        "TST": 3,
+        "DOC": 2,
+        "ADV": 1,
+        "ACO": 6,
+        "ADM": 1
+      },
+      "total": 55,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03137",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1jfOI163nIx9WrVlIcajqe1DbsrHCuJvSgzH2ZVwNiJk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "DEV": 112,
+        "TST": 32
+      },
+      "total": 184,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03140",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/14BciNu4aM59gcCsSxyVHWWP311lrd-mLd_nCtgYGlmY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03142",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03143",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1NOlQKMxKaJvSWcjocp5AVRQ9JEzAL3kM6rUphVg79cQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03148",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17KYIzTcR-zOsJJQewO9m6ZliPuVm1VuKHNN8qIFFOmA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03149",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1EoOaTyJbELrIoiBbbtlgaGQ9arvvs8Fqn3DuElcciVQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03150",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1QUPgte60dqIKpxYj5T86EAQ9elgJ9XGe5du3Lmkh098/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03151",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03154",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03156",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1WNZ_n38uatghRiSRPNga982H8jBcQP3uQ_cNI6AKCiA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03157",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1uHiL-_lVF3yVZOOYSxB6nTDmtQFpDuVZ1tK7oujQkNg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 15,
+        "PTC": 3,
+        "DEV": 15,
+        "TST": 2,
+        "DOC": 2,
+        "ADV": 1,
+        "ACO": 0,
+        "ADM": 1
+      },
+      "total": 39,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03158",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1noW8zZ2TYLhmGC8V-vrO1O313NJeah3GW--EvlnxdSk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 10
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03159",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1oP67-1sWP-13uEmjxaZyL2BkkaTj-2nB_hrUsLTTWao/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "PTC": 18,
+        "DEV": 39,
+        "TST": 29,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 7
+      },
+      "total": 125,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03165",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1TYBPHuYgSIvZpXcPPdRfQSxBLjknxrZ5TjSAyoP7A3g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
+    },
+    {
+      "proj_code": "SCISA_03166",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ymFlmWuoxvhHvHak4Rc5rk4t67aOkSapyDQFhC0oLE4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 31,
+        "DEV": 176,
+        "TST": 5
+      },
+      "total": 212,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03171",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1MkHP_KWCM83lgB-xLY8gnAhSIfp3L70jVQoLmYYoJIE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03172",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03173",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03174",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ccUarV1n5uj56pf873lOzGxvnGPHht7sst-44gX1TUo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03179",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1P8qYdnB4KZ3f3wmZkaAmGW5EscdOvO9meaalAhtMcQI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03180",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1VDtAmij76OlRifiNjFj0eR84MpjvOHSkMUOzht6ceWY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 5,
+        "PTC": 3,
+        "DEV": 7,
+        "TST": 2,
+        "DOC": 1,
+        "ADV": 2,
+        "ACO": 2,
+        "ADM": 0
+      },
+      "total": 22,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03181",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/18CByglKIFylS09Vs3Z3ILejW-d8_TAuFH2b1L4zsp3o/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03182",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1A2U-HRbKmhIvbA0GmqXKhRJCAG-QerLN4cMtWZ1hN7M/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03183",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1qVIw6TAi8CYEmJ-37nGv4lFLj-15cilctU_uT1Bq2Lc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03184",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PdoXY6y6LEd4-X_cIr-nokE-AaBnPIJfwbV87ATOmk8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03185",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1rbcuQM-VJdVyKsatQzdmlNR8Hfmv7O8JWWoZl_UJaHw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 316,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03190",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03192",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1eeYBJ2QDdoQ42DFhvxG_B15TdhVmNnVAHH3PfPqsNUI/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "la hoja muestra valores que no corresponden correctamente a sus etiquetas (posible desalineo de fórmulas/columnas) y el total es inconsistente (7 / 290 / 283 según la sección); no se pudo mapear con confianza"
+    },
+    {
+      "proj_code": "SCISA_03193",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1QNvPa2LwRcTgnfU81WnvmaEgcA5PRf5EwnuajTjKmac/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 297,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03194",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1iWQXIO50vAFxx1h7SAQBfPjUvk-SGUyAqsq-X4yLw5Y/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 163,
+        "DEV": 11,
+        "TST": 16,
+        "DOC": 40,
+        "ADV": 49,
+        "ACO": 16,
+        "ADM": 0
+      },
+      "total": 297,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03195",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1UVhh9imKheiwPWer06Ja_Ty0oTQyrAHeKANYx6q6pCU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 3,
+        "DEV": 23,
+        "TST": 4,
+        "DOC": 2,
+        "ADV": 1,
+        "ACO": 3,
+        "ADM": 1
+      },
+      "total": 47,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03196",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1bVJzxirxmKyrxAJo_VQMfPMk3viRVPHHEFz158TwNYI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 14,
+        "PTC": 8,
+        "DEV": 38,
+        "TST": 8,
+        "DOC": 8,
+        "ADV": 16,
+        "ACO": 4,
+        "ADM": 2
+      },
+      "total": 98,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03197",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1_8ZJr4EaNQCBng0UhL3MUnH4fllPxYLPVorJV8OR-Iw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 8,
+        "PTC": 26,
+        "DEV": 144,
+        "TST": 8,
+        "DOC": 6,
+        "ADV": 22,
+        "ACO": 36,
+        "ADM": 4
+      },
+      "total": 254,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03198",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03199",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03200",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1tzUIpF4zwQxgKAV1eUDFzqtcF4Ngr3orhCIkQlW0sAo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 22,
+        "PTC": 28,
+        "DEV": 20,
+        "TST": 12,
+        "DOC": 6,
+        "ADV": 18,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 114,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03201",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03202",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1IzjAPlhmC2-FhLRGKQ2QC0ASK1t_FinImIaQrcaTAlk/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03203",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03207",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1T93FayuJit_G_diIG27fSzJsvSf3BG04j0_SantUfZE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 26,
+        "DEV": 431,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 8
+      },
+      "total": 471,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03210",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1LVEWBQ7YKkocq_XjrWZ2EhRIWPG1r900XFo7_6EQlts/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03211",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/12Ja7AJtFmafXB8SuFBN5UqSiaUCAqwOldYr_Healx44/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 34,
+        "PTC": 15,
+        "DEV": 20,
+        "TST": 7,
+        "DOC": 3,
+        "ADV": 3,
+        "ACO": 37,
+        "ADM": 2
+      },
+      "total": 121,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03212",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03213",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1S4w7qylKR7VUbOjq_N3wx_xxE-4125CHDjVEtO-Gp90/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03214",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03215",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1qTCnSBa2RcTBN4pLY3ptr4cJ6Vsm_XODy6fBzpAMRmE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 4,
+        "PTC": 26,
+        "DEV": 192,
+        "TST": 16,
+        "DOC": 18,
+        "ADV": 20,
+        "ACO": 0,
+        "ADM": 6
+      },
+      "total": 282,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03216",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03217",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1wbwGGDXa5MDMVrGqMF16egV5XqS7GxUC40fBWfeiih0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 44,
+        "PTC": 26,
+        "DEV": 422,
+        "TST": 252,
+        "DOC": 42,
+        "ADV": 25,
+        "ACO": 29,
+        "ADM": 17
+      },
+      "total": 857,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03218",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1VSaotSdz1biyVxQ-4TzlHvt-iIGbbUhD_X3XiCvO7ag/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 0
+      },
+      "total": 17,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03219",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1XdJD58GYlzBP8gB0nD9s24o_hSwWWLYQG-kyUKi8rOQ/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03220",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZvcngMq58KZJI6cdu__DZyHYsv2jNJsgDnjMgA3EOVQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 0
+      },
+      "total": 17,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03222",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1lFlKRg437zFbC-rCu6m-dxnQ7JiGP13zPN4TWDs2hT0/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de sprints por RF con columnas Horas Desarrollo/Horas Arquitecto, no usa el esquema de categorías de Estimación Final; no se pudo mapear"
+    },
+    {
+      "proj_code": "SCISA_03223",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1zZ9-MQOWIRojIlPgGYvoXKKcwb6BpzeyRLxzNP324tc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 22,
+        "PTC": 40,
+        "DEV": 90,
+        "TST": 8,
+        "DOC": 8,
+        "ADV": 12,
+        "ACO": 0,
+        "ADM": 8
+      },
+      "total": 188,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03225",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1JO6HVJFj6vM1SLvVPqIkJx3UajAJND41nfoI1wZAAyc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 35,
+        "PTC": 15,
+        "DEV": 44,
+        "TST": 9,
+        "DOC": 2,
+        "ADV": 2,
+        "ACO": 51,
+        "ADM": 7
+      },
+      "total": 165,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03226",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1awHUdBhkm6_iprSGC35M9qm2VLUftemEALwgAPT_bsE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 18,
+        "PTC": 14,
+        "DEV": 34,
+        "TST": 7,
+        "DOC": 2,
+        "ADV": 3,
+        "ACO": 34,
+        "ADM": 2
+      },
+      "total": 114,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03227",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PXo_4BvfmRrMcZwwslZYFuCormeCCVACgnXqvudISy4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 26,
+        "DEV": 64,
+        "TST": 16,
+        "DOC": 8,
+        "ADV": 6,
+        "ACO": 34,
+        "ADM": 8
+      },
+      "total": 172,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03228",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1V9L4gfLBedff4AVM3K7JERJL5K7imuw75HFubiDX1-g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 35,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03229",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/107vrzt20gziIFukyOc2RlyHJRy_RXQaM93ze0dNI1tU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 74,
+        "PTC": 12,
+        "DEV": 43,
+        "TST": 7,
+        "DOC": 4,
+        "ADV": 2,
+        "ACO": 5,
+        "ADM": 3
+      },
+      "total": 150,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03230",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1pMVJeTZnLkqqIvoILO9BNGLb2BC5jbg5O7q42Apn10k/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 12,
+        "DEV": 3,
+        "TST": 1,
+        "DOC": 1,
+        "ADV": 2,
+        "ACO": 2,
+        "ADM": 1
+      },
+      "total": 24,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03232",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZK80mwabVqaQlIgjPVbp27vEhE_PpzleV6p6gc7EI2o/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 26,
+        "DEV": 2,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 0
+      },
+      "total": 34,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03233",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1rmwbSGIVoZ8EijmeO_OpZly4V6S8bYQ3Hkj4aMRAcfY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 0
+      },
+      "total": 17,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03235",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1CiuQNmL6VH_fKQ5dHM1GaNmNtmZo80Ekz0EqbTe4cCU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 4,
+        "PTC": 30,
+        "DEV": 108,
+        "TST": 8,
+        "DOC": 4,
+        "ADV": 28,
+        "ACO": 0,
+        "ADM": 4
+      },
+      "total": 186,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03236",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1tgsOrG8f0YW5X2f4rxWtAYVD2f9UpmWlnlWjLuCtqIw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 14,
+        "DEV": 1,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 0
+      },
+      "total": 18,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03237",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1OeuHHrIwFOyzX2zboSvEuefKSpdJO_cj-FfltpP5SdY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 194,
+        "ACO": 0,
+        "ADM": 88,
+        "DEV": 3,
+        "TST": 4,
+        "DOC": 5
+      },
+      "total": 296,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03238",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1OWS9va6wrrnaEK0At6uJQfPDG8gmxGu3PY_hhXoZCDo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 26,
+        "PTC": 13,
+        "DEV": 8,
+        "TST": 3,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 19,
+        "ADM": 4
+      },
+      "total": 84,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03239",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1c2XqKpzan9fFO-nPl3OR9qcfNmqI_VmcBBxNj99ATS0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03241",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/181u3mnuZf1zwxUUbzRKx76nRMNNvWTveZNQmVcEy5p8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 15,
+        "PTC": 13,
+        "DEV": 41,
+        "TST": 9,
+        "DOC": 4,
+        "ADV": 2,
+        "ACO": 5,
+        "ADM": 2
+      },
+      "total": 91,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03242",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1rjKLyqRvV4TAQ6DhXxhbRfovgkbfGLd1DT8x1K1yg34/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 13,
+        "PTC": 11,
+        "DEV": 4,
+        "TST": 2,
+        "DOC": 2,
+        "ADV": 3,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 50,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03244",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ut_3-YuuOclX54UqEDpYruCX9j84QK4-KoAp-7Vil00/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03245",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1VvqtCp22hOAVeAtIwIXElyckuxxCGuJOCOnsKIKh5EY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 5,
+        "PTC": 13,
+        "DEV": 146,
+        "TST": 6,
+        "DOC": 1,
+        "ADV": 2,
+        "ACO": 6,
+        "ADM": 3
+      },
+      "total": 182,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03246",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11pzCjYS2buAzUy87hXsEZB-k1vFbAWIZqASaH0I4bgA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 26,
+        "DEV": 2,
+        "TST": 0,
+        "DOC": 18,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 2
+      },
+      "total": 54,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03247",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1KQh3otIKXJ-c-L6TxxXENIibi7CRV7BUElKI6XlrMIM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "PTC": 13,
+        "DEV": 97,
+        "TST": 18,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 51,
+        "ADM": 4
+      },
+      "total": 200,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03248",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/13P9Arw0bxJlIRIwBHuz8WN9q3-B78koSAoIp3C5cNP0/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03249",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fH-Jh8exoaeIw06Nm6kagU8lcN1ACnIMzFdFgcp3xk0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 13,
+        "DEV": 14,
+        "TST": 2,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 67,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03250",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1zfhDBbsbQYfZDbzfq93MvUjN67W7OysfgrWKOei_MDM/edit?usp=drivesdk",
+      "categorias": {
+        "PTC": 15,
+        "DEV": 94,
+        "TST": 31,
+        "DOC": 2,
+        "ADV": 4
+      },
+      "total": 146,
+      "nota": "plantilla de cronograma (Hoja1 por actividad/avance), sin filas de Análisis/Acompañamiento/Gestión explícitas; se usaron solo las categorías presentes"
+    },
+    {
+      "proj_code": "SCISA_03251",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03252",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yucqDbebrDZAFOLF8IJ9GnoeXHu24oJfhYygPskysQc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 0,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 1
+      },
+      "total": 27,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03254",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1tmamB4ma_QCqoqVDcQBEsAZwzEyjKHFxBCBkvcvrJsw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 25,
+        "PTC": 13,
+        "DEV": 89,
+        "TST": 18,
+        "DOC": 18,
+        "ADV": 2,
+        "ACO": 8,
+        "ADM": 3
+      },
+      "total": 176,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03256",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1poZVeMDoWqppU2oSBFIzpfndW3bJmXF0GWesrRVboG8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 23,
+        "PTC": 11,
+        "DEV": 70,
+        "TST": 9,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 16,
+        "ADM": 2
+      },
+      "total": 136,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03257",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1IQWcGrzCIeYpESJnRDmeJBuYooObJ06kLNNu0tfPdBE/edit?usp=drivesdk",
+      "categorias": {
+        "PTC": 20,
+        "DEV": 446,
+        "TST": 39,
+        "DOC": 9,
+        "ADV": 4
+      },
+      "total": 518,
+      "nota": "plantilla de cronograma (Hoja1 por actividad/avance), sin filas de Análisis/Acompañamiento/Gestión explícitas; se usaron solo las categorías presentes"
+    },
+    {
+      "proj_code": "SCISA_03258",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/12qgwgw4SyXUz4PeYha4TT84Ad0TqolbbqTNcluahODI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03259",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1sXdeWQ6B_SnZpyvdn_Qd-HaLgqzKfH4NFx6h88Z06a8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 2,
+        "PTC": 26,
+        "DEV": 2,
+        "TST": 0,
+        "DOC": 18,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 2
+      },
+      "total": 54,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03260",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1CT37B12B5oH-ti6BllW038RtyReMkDU11-ngPKWtHEc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 38,
+        "PTC": 16,
+        "DEV": 46,
+        "TST": 8,
+        "DOC": 6,
+        "ADV": 8,
+        "ACO": 14,
+        "ADM": 8
+      },
+      "total": 144,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03263",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1VzRSCMY0sPN7TpwjvK6ZW39LSjQcAaHBI61LNbBQduo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03264",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PaRyNiQpwxW_cZCzdwOsGRGYD4--azHMOTZ8O5VsbC8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 54,
+        "PTC": 11,
+        "DEV": 88,
+        "TST": 18,
+        "DOC": 26,
+        "ADV": 7,
+        "ACO": 16,
+        "ADM": 18
+      },
+      "total": 238,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03265",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03267",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1hJYwMUYkQalaJzebQJSy0puBYz5TqOaDfRjdlIwS6Sw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 38,
+        "PTC": 13,
+        "DEV": 132,
+        "TST": 11,
+        "DOC": 22,
+        "ADV": 15.399999999999999,
+        "ACO": 8.8,
+        "ADM": 4.4
+      },
+      "total": 244.6,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03270",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Mbgg7rAXMPqxlGJxSXovvfHybTcYghAjoZrMZRTRCDw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 61,
+        "PTC": 13,
+        "DEV": 55,
+        "TST": 18,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 39,
+        "ADM": 10
+      },
+      "total": 207,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03271",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Pi6Jgjj65K8FGiuDJDP7DwTW8zZauAlCx2Pe1b9nMo0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 3.5,
+        "PTC": 4,
+        "DEV": 8.8,
+        "TST": 4.4,
+        "DOC": 2.2,
+        "ADV": 5.5,
+        "ACO": 4.4,
+        "ADM": 2.2
+      },
+      "total": 35.00000000000001,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03272",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1xsYb1Hsa_WZvJw5ayhx-NL6xhiwzqn8m800uUhgV1Ok/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1.1,
+        "TST": 0,
+        "DOC": 8.8,
+        "ADV": 3.3000000000000003,
+        "ACO": 4.4,
+        "ADM": 3.3
+      },
+      "total": 34.9,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03273",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03274",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1AXT5_GHuPO9gKNFwZ-gCms4csKEu7j-fJDkkqGuW4ow/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 13,
+        "PTC": 21,
+        "DEV": 89.1,
+        "TST": 33,
+        "DOC": 8.8,
+        "ADV": 7.7,
+        "ACO": 4.4,
+        "ADM": 3.3
+      },
+      "total": 180.30000000000004,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03276",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03282",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1W2Lz-ML4AAxMVGgO4PgBbmzkSZ0w0cR44856zVQWqH8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 24,
+        "PTC": 8,
+        "DEV": 105,
+        "TST": 44,
+        "DOC": 9,
+        "ADV": 8,
+        "ACO": 4,
+        "ADM": 3
+      },
+      "total": 205,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03283",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17ChaAG_jop5ESMrVgJR7TWCnrOxo_hZa9AO2PVCC8ss/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 19,
+        "PTC": 8,
+        "DEV": 44,
+        "TST": 26,
+        "DOC": 4,
+        "ADV": 5,
+        "ACO": 0,
+        "ADM": 2
+      },
+      "total": 108,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03284",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03293",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yi_ESMacAdq2xbkvUtuFBpVU7ErWhrY9FYH3KxRlIJI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 5,
+        "PTC": 6,
+        "DEV": 18,
+        "TST": 11,
+        "DOC": 3,
+        "ADV": 2,
+        "ACO": 5,
+        "ADM": 4
+      },
+      "total": 55,
+      "nota": "suma de categorías da 54, la hoja muestra Total 55 (diferencia de redondeo de 1 hora en la fuente)"
+    },
+    {
+      "proj_code": "SCISA_03294",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1TDPke5go1UbxACQG1DRWIhuaPOCf_sDZzX4-RNG7cRY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 15,
+        "PTC": 11,
+        "DEV": 26,
+        "TST": 18,
+        "DOC": 2,
+        "ADV": 2,
+        "ACO": 12,
+        "ADM": 4
+      },
+      "total": 90,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03303",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1pe-Sophwq2BsZGv3Rsr7hzqlG_dxynz1o7TnjZoI5DI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 3,
+        "DEV": 6,
+        "TST": 4,
+        "DOC": 1,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 1
+      },
+      "total": 29,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03307",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/12OnI_HglQLwcw6JNcANgOrAgB36cUGELy1xozCW2ZeY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 16,
+        "PTC": 9,
+        "DEV": 14,
+        "TST": 7,
+        "DOC": 2,
+        "ADV": 2,
+        "ACO": 5,
+        "ADM": 4
+      },
+      "total": 59,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03322",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1lS3C_vCV9BHv8-9lz6d6xyAEFHVQsvE8MiPwtRKlZRw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 15,
+        "PTC": 18,
+        "DEV": 69,
+        "TST": 33,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 16,
+        "ADM": 9
+      },
+      "total": 171,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03324",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03325",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1rC4c-YJ2IwApWOpsPkR4Ta7KGB-sK9GA5bHu-GnXoZo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 168,
+        "TST": 42
+      },
+      "total": 231,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03326",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1S3jsFtQieAwemveaF44kPnZdddIhCKLKgdkcng-fGEM/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "DEV": 162,
+        "TST": 74
+      },
+      "total": 257,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03331",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03334",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03335",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03336",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/17rBrBFcH4RensrAoRCNdmA4o4VL8TUPayDLd49Z-7kE/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03337",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/18CbQ_UxDTgq-orn7Bzx3d8bO55LhRxkKmKKGnA93YOA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 19,
+        "PTC": 13,
+        "DEV": 119,
+        "TST": 44,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 14,
+        "ADM": 4
+      },
+      "total": 224,
+      "nota": "la hoja incluye una nota sobre 'Desarrollo faltante del proyecto original SCISA_02878' y una tabla secundaria sin usar; se usó la tabla principal de Horas Ajustadas"
+    },
+    {
+      "proj_code": "SCISA_03338",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1iUiLVZtaAnKPEey5Oswj1dyTYAwYFWehAxWMaCzNGOM/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03339",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1DZHQmn6Hx_jj4-zwWK2jZV2_lVRwLAM0tw2LHNhyXZ4/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+    },
+    {
+      "proj_code": "SCISA_03341",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03342",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/178OS0rAqBDqpaP8aqDl7Fa1lqvDXrYcrSm9VP8mUA2k/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 21,
+        "DEV": 72,
+        "TST": 53,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 16,
+        "ADM": 9
+      },
+      "total": 193,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03343",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yOublVJnnM01pO718JySV4B1h0LjrIIjtfQoJOmxX-A/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 40,
+        "PTC": 9,
+        "DEV": 87,
+        "TST": 15,
+        "DOC": 4,
+        "ADV": 3,
+        "ACO": 23,
+        "ADM": 3
+      },
+      "total": 184,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03344",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ROJ_aTJewavjJAefer_7RmYmooaZAuF4xS8G1oKtQeo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 11,
+        "PTC": 13,
+        "DEV": 14,
+        "TST": 4,
+        "DOC": 2,
+        "ADV": 2,
+        "ACO": 11,
+        "ADM": 18
+      },
+      "total": 75,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03345",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1cXoIngiPGQg8aAD0DyMqrCnTcvWFxT-Qf65FCwSuWQg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 5,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 27,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03346",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03347",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/19xzSMlphxqNs2lp4ORw_eI4IXMywYXpMMkcKGX1jU7A/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 35,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03348",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ar2qZ36WVQVscStRrkkJQujy42Gp8wq514Hqf0vhpxA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 256,
+        "TST": 48,
+        "DOC": 22,
+        "ADV": 2,
+        "ACO": 24,
+        "ADM": 4
+      },
+      "total": 370,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03350",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03351",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1lyzlsaVINh7kJ7PwNpSmmF5G0ra3V66507fnCb2Vkv8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 11,
+        "DEV": 54,
+        "TST": 9,
+        "DOC": 4,
+        "ADV": 4,
+        "ACO": 0,
+        "ADM": 4
+      },
+      "total": 96,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03352",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1BYQADKd4xfGeDCvbXlxblSF_-4fAqcvNlCevK5cvrkU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 35,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03353",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1vEnMf2Hl1rjDhi_6OCf7rQ8Oeqs0vNnjsTtsGWoqOg8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 18,
+        "PTC": 17,
+        "DEV": 173,
+        "TST": 33,
+        "DOC": 35,
+        "ADV": 2,
+        "ACO": 19,
+        "ADM": 9
+      },
+      "total": 306,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03354",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1S1TCWrmnGSehDNmMkpB8eT0JVLUQRyEfovswAUlHr3o/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 9,
+        "PTC": 0,
+        "DEV": 13,
+        "TST": 4,
+        "DOC": 0,
+        "ADV": 0,
+        "ACO": 0,
+        "ADM": 1
+      },
+      "total": 27,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03355",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1D1cZGtLlbE4vLai8yioo_qxZVMqWM_1yp2m5K1g4AAw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "PTC": 13,
+        "DEV": 171,
+        "TST": 26,
+        "DOC": 9,
+        "ADV": 11,
+        "ACO": 7,
+        "ADM": 4
+      },
+      "total": 247,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03357",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PZZA-5DHxYmwvrO1k-l0xaiXrZ9dvivrsNg8A8WCxII/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 92.303,
+        "PTC": 5,
+        "DEV": 26,
+        "TST": 8,
+        "DOC": 6,
+        "ADV": 2,
+        "ACO": 5,
+        "ADM": 4
+      },
+      "total": 148.303,
+      "nota": "La fila 'Analisis' (92.303) no cuadra con el Total que muestra la hoja (92.359) -- posible error de captura en la fuente; se usó la suma real de las categorías como total."
+    },
+    {
+      "proj_code": "SCISA_03360",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1G5CSlF6loW4LmR5Md8GfQccGrYUNqgtmNOtthZTVQQ8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 13,
+        "DEV": 133,
+        "TST": 26,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 17,
+        "ADM": 9
+      },
+      "total": 221,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03361",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03362",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1DO8K3j6r-1ufCoMMkQW8Cmv1QcShFSMQ/edit?usp=drivesdk&ouid=111774667229432120538&rtpof=true&sd=true",
+      "categorias": {},
+      "total": 0,
+      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
+    },
+    {
+      "proj_code": "SCISA_03363",
+      "doc_encontrado": false,
+      "doc_url": "https://docs.google.com/spreadsheets/d/12MSmr7CezYZ1ogzpazAikmcfDN69NRXj7tO57X9Nlts/edit?usp=drivesdk",
+      "categorias": {},
+      "total": 0,
+      "nota": "plantilla distinta (hojas 'Pendientes'/'Versión PROD'/'Desglose Horas Proyecto Banderas', sin Estimación Final); no se pudo mapear a categorías"
+    },
+    {
+      "proj_code": "SCISA_03364",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1JEOou7wrPinX8wVRuMwNMaa_0i27-E59MPhM_DbWlSQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 13,
+        "DEV": 17,
+        "TST": 9,
+        "DOC": 7,
+        "ADV": 2,
+        "ACO": 11,
+        "ADM": 8
+      },
+      "total": 77,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03365",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1y8SHakO5Xd3QrjYLnWVQrWhYmcFhed6yC9hoqRgr154/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 29,
+        "PTC": 15,
+        "DEV": 129,
+        "TST": 31,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 20,
+        "ADM": 9
+      },
+      "total": 244,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03366",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03367",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1mOvJpLhy403SPl6SGWNGnq3iz3BhufaWGbb6DrMObs4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 35,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03368",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03371",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03372",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03373",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03374",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03375",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03376",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03377",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03378",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03379",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03380",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03381",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03382",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03383",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03384",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03385",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03386",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03387",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03388",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03389",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03390",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03391",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03392",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03393",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03394",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03396",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03397",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03398",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03399",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03400",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03401",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03402",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03403",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1woAXn5SMZd6Hepg4-LZ9eIYdkfxTQDw_FUpsVlzewNc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 69,
+        "PTC": 13,
+        "DEV": 46,
+        "TST": 22,
+        "DOC": 22,
+        "ADV": 3,
+        "ACO": 13,
+        "ADM": 4
+      },
+      "total": 192,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03404",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03406",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1jHZgbLUpZbdmO_MpLyFOGGlFdLSqoVBOAvT1qZDj3Mg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 10,
+        "PTC": 12,
+        "DEV": 67,
+        "TST": 33,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 7,
+        "ADM": 3
+      },
+      "total": 143,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03407",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03408",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03409",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03410",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03411",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03412",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03413",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03414",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03415",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03416",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03417",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03418",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03419",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03420",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03421",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03422",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03423",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03424",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03425",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03426",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03427",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03428",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03429",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03430",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03431",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03432",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03433",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03434",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03435",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03436",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03437",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03438",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03439",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03440",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03441",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03442",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03443",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03444",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03445",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03446",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03447",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03448",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03449",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03450",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03451",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03452",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03453",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1L1vj1vte9yMBLFI5_IaOXZk_ALAJV9PxaUxIXoslGFo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 26,
+        "PTC": 15,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 10
+      },
+      "total": 84,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03456",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ExDSi46Q1AnC48UnYUgjnTqU6pciHDT0P34Gpp86Pck/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 22,
+        "PTC": 21,
+        "DEV": 100,
+        "TST": 53,
+        "DOC": 4,
+        "ADV": 2,
+        "ACO": 11,
+        "ADM": 9
+      },
+      "total": 222,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03457",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1RAtCQZi0V9DRbXf44OJfYomatQwAjqz08WU68i07RrY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 13,
+        "DEV": 111,
+        "TST": 15,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 10,
+        "ADM": 4
+      },
+      "total": 176,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03458",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1hPMplzRKwg_2wI_uuMtnNRgXxZJSwWdeOltAe4Z1kHQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
+      },
+      "total": 309,
+      "nota": "la hoja tiene errores #REF! en columnas intermedias pero la columna final \"Horas Ajustadas\" es legible"
+    },
+    {
+      "proj_code": "SCISA_03459",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03463",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PldrdR_MlMwT_XuOanvEENkQqGAIIV-pymh-RGru5y4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 4
+      },
+      "total": 35,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03467",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1oTOv0KDRS39gDw4QW8vsF2Nu6DLv_AJlD5Dw6-163Jg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 12,
+        "PTC": 21,
+        "DEV": 89,
+        "TST": 18,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 10,
+        "ADM": 9
+      },
+      "total": 170,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03468",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03470",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1VpUo-Pj_M4G-mVEbRcR3ic7O8P6AcvT-gBcHCmof3Og/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 8,
+        "PTC": 13,
+        "DEV": 14,
+        "TST": 2,
+        "DOC": 6,
+        "ADV": 2,
+        "ACO": 8,
+        "ADM": 7
+      },
+      "total": 60,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03472",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03474",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1cs7J_5Fg6OCEDBSuT-IfqsKQVIbQ8MGE0L_o7g7SUE8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "PTC": 0,
+        "DEV": 1,
+        "TST": 2,
+        "DOC": 1,
+        "ADV": 1,
+        "ACO": 2,
+        "ADM": 1
+      },
+      "total": 14,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03475",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1hAbX2BG0A67ZKklDjmTIBiqzO7bVG4XSTnHCr-arpN4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 9,
+        "ADV": 2,
+        "ACO": 4,
+        "ADM": 0
+      },
+      "total": 31,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03476",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03477",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03478",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03479",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03481",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03483",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/15LHRW3ZXDu73Vj9LSQigwnZ8I0-IhI_haNNJJKntZsw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 67,
+        "PTC": 12,
+        "DEV": 61,
+        "TST": 18,
+        "DOC": 7,
+        "ADV": 2,
+        "ACO": 13,
+        "ADM": 9
+      },
+      "total": 189,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03484",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Y8ax0zQpu7S3sr-G5MYfBkazxfdkkVfGinNQb7SoTu4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 22,
+        "PTC": 13,
+        "DEV": 10,
+        "TST": 62,
+        "DOC": 4,
+        "ADV": 2,
+        "ACO": 14,
+        "ADM": 9
+      },
+      "total": 136,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03485",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03488",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PrY1RTkvtuH5Kh8548D23eO5MFgMsSQmL5LnFQigQUc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 19,
+        "PTC": 58,
+        "DEV": 378,
+        "TST": 88,
+        "DOC": 48,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 26
+      },
+      "total": 619,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03490",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/18jDRUtumy_2Y0gZi5_ffJWr6Mf-YYLbAYV8zKK25zPc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 2
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03491",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11NlvxHinWl0HfHOt4jOAdb1rmoTsTiULFHe1rtU0bkE/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03493",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1eWN_SLLyLOlBGQG4dGeyCTAqpmvW94vs9T1NIt_8OOg/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03496",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Yh_FZFmffna3rIP67ZbL6HWBX8wGFYqCiy1mrqnwnuk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03497",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "categorias": {},
+      "total": 0,
+      "nota": "no existe"
+    },
+    {
+      "proj_code": "SCISA_03500",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1hFx3VvOjEWSdBDbP2I1muitodge3YBdZYO5XKYvi534/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 2
+      },
+      "total": 44,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03501",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1kOKYbcdvqyn9bDubpwk75-G681VUV7aFfZlAw8DLZww/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 21,
+        "PTC": 13,
+        "DEV": 86,
+        "TST": 52,
+        "DOC": 4,
+        "ADV": 3,
+        "ACO": 21,
+        "ADM": 4
+      },
+      "total": 204,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03502",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1obpY9yDggeCfQd6ANBoJSfxULYvbFRo7tb_rnO2GCOo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03504",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1ZPidZqc-d_W4VroQHzjRkiNVb2fZMQlpvIUfGQnd_Ao/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 14,
+        "PTC": 13,
+        "DEV": 28,
+        "TST": 18,
+        "DOC": 4,
+        "ADV": 4,
+        "ACO": 22,
+        "ADM": 4
+      },
+      "total": 107,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03505",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1OWxguyc0SVoPulE42tAtZ0tqjgy_yB6Wd3H7fJtlYQ0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03506",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1zWttfvZfC7ZBVDMYWTH4Nsc3oQ5JPDhs3eL116YGoUY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03507",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yTQUichptOBW-zIvxlw1dIx2IT-JXWF4tp34E5e-KlI/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03508",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fqsgI-ZXJ0wJGuGic7QiVx16nab4BHbnzsA8BFd-lPA/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03509",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1PvCQXBfFQPnH9B9oHl84of6JZcVYVW3rmJJnf0nFi-Y/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03510",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/19afD_HD7Bm_TiXCDygO4Omb1FN-o9V15_o8jRtzgjHU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03511",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1fhBcmzQg8qIRhxCVwIyYJMaLzpfL7Y1VYxyfWoT3Fq4/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03512",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1a_ELzgXmYmjg0w7-OhS9K03hYjgv1nx32SPS_U7TKs0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03513",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1t5iXB_P08mrC6OTMbhEJuV-vz5LuR4Cu6hV3yBSGdbo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03514",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1-JS--dc72tSrGzYjs0YIhO4mzqD6l-U0SSAGYFY9Tis/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03517",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1yZ9K7E6nJIudq_Squa88kjY1YUCdu3Rm3ejX2dxIoBQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03520",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Vdolf3MJDUf_EpNais_oJGREczkvUnVy2pCMs4w15qk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    },
+    {
+      "proj_code": "SCISA_03521",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1OWAIynkiSMHh-pH6EqB2Ps0dvEHwobDwU9lz0GJXbHQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03522",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1h4CuAyyJOiAEVTY67xsi3CnhC_lcQqxbQ6pUEAvYlNk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03523",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/159L8oXcCbxoxGiYi6DiTtAHe-zSVs-khkg9tV0_u4_8/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03524",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1FgW6Fyu1JeZET9-ySoQdlqZIEp6PNHFMLCfDHigRhJQ/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03525",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1Y3ij1S1zn4c8EX68Tz32gC1BgytFbqe1hTCxAhlfqlw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03526",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1zwk0R-XcPJyWtwY2syXsHclKY1cie0ecFUdYqfIApFs/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03527",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1d1Eys6YYXBVRhSbnqGxu39iVadUhbKtaD3_-7MftVvo/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03528",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/11Dil7CyByJ9Y80YTjgFkItiobXpIe3YqPPZyJbGb5do/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03529",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1-FcvM7hrVtLJ6n2f2rr25tURxDLGVECpDzsver5WEaU/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03530",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1jU-S8IJJbWE0ULAle15UbxHZyzRvZLbFcArUjW3RZVc/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03531",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1z96GuTHqOxBDkSUsjVjY0bj9RbAwJxipyg4kXLNjeRk/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03533",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1zNQqEQJ0PvieLqEvJ3hUgD-VHpc8FMN91VlbodMGxdY/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03534",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1GRVTkSFRhSYT8gCa3eoKH5IkjPatYga8heWzjbPVCuw/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03535",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1LEwAlKDdFagJQbM6qYjjeStewg0ikaTL4_RdVui8F2g/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": null
+    },
+    {
+      "proj_code": "SCISA_03537",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1bqxnLuxwozcMT6feJibiChI2nsg2NU-nFIktYMyc1o0/edit?usp=drivesdk",
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 1,
+        "TST": 1,
+        "DOC": 4,
+        "ADV": 1,
+        "ACO": 21,
+        "ADM": 1
+      },
+      "total": 43,
+      "nota": "plantilla sin personalizar (valores placeholder)"
+    }
+  ],
+  "notas": [
+    "Horas PPTO por categoria desde la hoja 2 (Estimacion Final) del Plan de Trabajo; si no existe el documento, nota=\"no existe\".",
+    "Mapeo: Analisis->ANL, Planeacion Tecnica->PTC, Desarrollo->DEV, Pruebas->TST, Documentacion->DOC, Deploy SCISA->ADV, Soporte Post-Liberacion->ACO, Integracion con Produccion->ADV, Gestion->ADM.",
+    "Esta corrida: 290 proyecto(s) reusado(s) de la corrida anterior (ya tenian el documento), 229 buscado(s) de nuevo en Drive."
+  ]
+}
