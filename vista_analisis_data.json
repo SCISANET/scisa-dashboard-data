@@ -1,0 +1,724 @@
+{
+  "generated_at": "2026-11-18T20:12:06.502Z",
+  "proyectos": [
+    {
+      "clickup_task_id": "17tq1aeb6tv",
+      "nombre": "SCISA_03514_Cobro de Comisiones para Canjes y Transferencias de divisas",
+      "ticket_code": "SCISA_03514",
+      "clickup_url": "https://app.clickup.com/t/17tq1aeb6tv",
+      "fecha_limite": "2026-11-18T10:00:00.000Z",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/document/d/1aX9QEujJD_WEFj8OS4oSCaMGIyN62XAqe2BAdu80p1c/edit?usp=drivesdk",
+      "doc_fecha_creacion": "2026-11-05T00:31:00.570Z",
+      "doc_fecha_modificacion": "2026-11-05T00:31:00.570Z",
+      "doc_autor_o_editor": "patricia.lopez@scisa.com.mx",
+      "plan_trabajo": {
+        "doc_encontrado": true,
+        "doc_url": "https://docs.google.com/spreadsheets/d/1-JS--dc72tSrGzYjs0YIhO4mzqD6l-U0SSAGYFY9Tis/edit?usp=drivesdk",
+        "encontrado": true,
+        "url": "https://docs.google.com/spreadsheets/d/1-JS--dc72tSrGzYjs0YIhO4mzqD6l-U0SSAGYFY9Tis/edit?usp=drivesdk",
+        "total": 43,
+        "categorias": {
+          "ANL": 1,
+          "PTC": 13,
+          "DEV": 1,
+          "TST": 1,
+          "DOC": 4,
+          "ADV": 9,
+          "ACO": 13,
+          "ADM": 1
+        }
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Monica Barajas"
+    },
+    {
+      "clickup_task_id": "17tq1aeb1ud",
+      "nombre": "SCISA_03511_[SIT-1580] - HU04 - Captura de Neteos",
+      "ticket_code": "SCISA_03511",
+      "clickup_url": "https://app.clickup.com/t/17tq1aeb1ud",
+      "fecha_limite": "2026-11-18T11:00:00.000Z",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/document/d/1KGMTba0bAn77mBotTYCX1WVLUNJ2h9-G0hmv2nftF1k/edit?usp=drivesdk",
+      "doc_fecha_creacion": "2026-11-04T18:24:34.668Z",
+      "doc_fecha_modificacion": "2026-11-18T15:29:54.030Z",
+      "doc_autor_o_editor": "patricia.lopez@scisa.com.mx",
+      "plan_trabajo": {
+        "doc_encontrado": true,
+        "doc_url": "https://docs.google.com/spreadsheets/d/1fhBcmzQg8qIRhxCVwIyYJMaLzpfL7Y1VYxyfWoT3Fq4/edit?usp=drivesdk",
+        "encontrado": true,
+        "url": "https://docs.google.com/spreadsheets/d/1fhBcmzQg8qIRhxCVwIyYJMaLzpfL7Y1VYxyfWoT3Fq4/edit?usp=drivesdk",
+        "total": 43,
+        "categorias": {
+          "ANL": 1,
+          "PTC": 13,
+          "DEV": 1,
+          "TST": 1,
+          "DOC": 4,
+          "ADV": 9,
+          "ACO": 13,
+          "ADM": 1
+        }
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Rosa de Lima Lopez Sifuentes"
+    },
+    {
+      "clickup_task_id": "17tq1aeb161",
+      "nombre": "SCISA_03497_Adecuacion-ScisaEDoc_MDI",
+      "ticket_code": "SCISA_03497",
+      "clickup_url": "https://app.clickup.com/t/17tq1aeb161",
+      "fecha_limite": "2026-11-18T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Astrid Ovalle"
+    },
+    {
+      "clickup_task_id": "17tq1ae88xw",
+      "nombre": "SCISA_03388 - S1 - RF-23_Matriz de certificación de aplicativo - para validar roles y permisos sobre cada funcionalidad de SIGLO SP1 (03237)",
+      "ticket_code": "SCISA_03388",
+      "clickup_url": "https://app.clickup.com/t/17tq1ae88xw",
+      "fecha_limite": "2026-11-19T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "17tq1ae88xq",
+      "nombre": "SCISA_03373 - S1 - RF-07_Matriz de Cumplimiento y Requisitos de Seguridad SP1 (03237)",
+      "ticket_code": "SCISA_03373",
+      "clickup_url": "https://app.clickup.com/t/17tq1ae88xq",
+      "fecha_limite": "2026-11-19T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "17tq1ae78uj",
+      "nombre": "SCISA_03496_Interfaz de Corpay",
+      "ticket_code": "SCISA_03496",
+      "clickup_url": "https://app.clickup.com/t/17tq1ae78uj",
+      "fecha_limite": "2026-11-20T10:00:00.000Z",
+      "doc_encontrado": true,
+      "doc_url": "https://docs.google.com/document/d/1G8WoRksAPA6S6_jyC1Xom2QSe70qppEyfiNrtAignt8/edit?usp=drivesdk",
+      "doc_fecha_creacion": "2026-10-23T17:28:56.273Z",
+      "doc_fecha_modificacion": "2026-10-30T17:23:07.703Z",
+      "doc_autor_o_editor": "patricia.lopez@scisa.com.mx",
+      "plan_trabajo": {
+        "doc_encontrado": true,
+        "doc_url": "https://docs.google.com/spreadsheets/d/1Yh_FZFmffna3rIP67ZbL6HWBX8wGFYqCiy1mrqnwnuk/edit?usp=drivesdk",
+        "encontrado": true,
+        "url": "https://docs.google.com/spreadsheets/d/1Yh_FZFmffna3rIP67ZbL6HWBX8wGFYqCiy1mrqnwnuk/edit?usp=drivesdk",
+        "total": 44,
+        "categorias": {
+          "ANL": 1,
+          "PTC": 13,
+          "DEV": 1,
+          "TST": 1,
+          "DOC": 4,
+          "ADV": 9,
+          "ACO": 13,
+          "ADM": 2
+        }
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Raul Ponce"
+    },
+    {
+      "clickup_task_id": "17tq1ae12jq",
+      "nombre": "SCISA_02974_Integracion con Whitelabel de LSEG",
+      "ticket_code": "SCISA_02974",
+      "clickup_url": "https://app.clickup.com/t/17tq1ae12jq",
+      "fecha_limite": "2026-11-20T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Rosa de Lima Lopez Sifuentes"
+    },
+    {
+      "clickup_task_id": "86ake6z0n",
+      "nombre": "SCISA_03372 - S1 -RF-22_Punto 28 Seguridad - Integración con Cyberark para manejo de llaves de cifrado SP1 (03237)",
+      "ticket_code": "SCISA_03372",
+      "clickup_url": "https://app.clickup.com/t/86ake6z0n",
+      "fecha_limite": "2026-11-17T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Alexandro Abbad Martinez Sandoval"
+    },
+    {
+      "clickup_task_id": "86ake6yw9",
+      "nombre": "SCISA_03378 - S3 - RF-18_jerarquía de sucursales/regiones/territorios de AFIRME SP1 (03237)",
+      "ticket_code": "SCISA_03378",
+      "clickup_url": "https://app.clickup.com/t/86ake6yw9",
+      "fecha_limite": "2026-11-11T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6yqd",
+      "nombre": "SCISA_03394 - S2- RF-30 Reportería -SigloWeb SP2 (03237)",
+      "ticket_code": "SCISA_03394",
+      "clickup_url": "https://app.clickup.com/t/86ake6yqd",
+      "fecha_limite": "2026-11-20T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6ypq",
+      "nombre": "SCISA_03396 - S2 - RF-09 Módulo de Consultas y Reportes Regulatorios SP2 (03237)",
+      "ticket_code": "SCISA_03396",
+      "clickup_url": "https://app.clickup.com/t/86ake6ypq",
+      "fecha_limite": "2026-11-03T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6ypd",
+      "nombre": "SCISA_03397 - S3 -RF-10 Procesos Batch de Cierre de Día y Conciliación SP2 (03237)",
+      "ticket_code": "SCISA_03397",
+      "clickup_url": "https://app.clickup.com/t/86ake6ypd",
+      "fecha_limite": "2026-11-18T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6ybn",
+      "nombre": "SCISA_03393 - S2 - RF-17 Formato Factura SP2 (03237)",
+      "ticket_code": "SCISA_03393",
+      "clickup_url": "https://app.clickup.com/t/86ake6ybn",
+      "fecha_limite": "2026-11-05T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6xxa",
+      "nombre": "SCISA_03384 - S1 - RF-21_Punto 25 Seguridad - Integración con Active Directory SP1 (03237)",
+      "ticket_code": "SCISA_03384",
+      "clickup_url": "https://app.clickup.com/t/86ake6xxa",
+      "fecha_limite": "2026-11-19T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Alexandro Abbad Martinez Sandoval"
+    },
+    {
+      "clickup_task_id": "86ake6xfy",
+      "nombre": "SCISA_03390 -S2 - RF-02 Interfaz WebService Dealtracker/Refinitiv - SIGLO SP2 (03237)",
+      "ticket_code": "SCISA_03390",
+      "clickup_url": "https://app.clickup.com/t/86ake6xfy",
+      "fecha_limite": "2026-11-17T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6xcq",
+      "nombre": "SCISA_03391 - S2 -RF-04 Layout Operaciones Interbancarias Monex SP2 (03237)",
+      "ticket_code": "SCISA_03391",
+      "clickup_url": "https://app.clickup.com/t/86ake6xcq",
+      "fecha_limite": "2026-11-18T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake6x9n",
+      "nombre": "SCISA_03392 - S2- RF-15 Facturación SP2 (03237)",
+      "ticket_code": "SCISA_03392",
+      "clickup_url": "https://app.clickup.com/t/86ake6x9n",
+      "fecha_limite": "2026-11-06T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": false,
+        "doc_url": null,
+        "encontrado": false,
+        "url": null,
+        "total": 0,
+        "categorias": {}
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Nayeli Hernandez"
+    },
+    {
+      "clickup_task_id": "86ake62px",
+      "nombre": "SCISA_03237_Implementación SIGLO/CD.NET",
+      "ticket_code": "SCISA_03237",
+      "clickup_url": "https://app.clickup.com/t/86ake62px",
+      "fecha_limite": "2026-10-30T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": true,
+        "doc_url": "https://docs.google.com/spreadsheets/d/1OeuHHrIwFOyzX2zboSvEuefKSpdJO_cj-FfltpP5SdY/edit?usp=drivesdk",
+        "encontrado": true,
+        "url": "https://docs.google.com/spreadsheets/d/1OeuHHrIwFOyzX2zboSvEuefKSpdJO_cj-FfltpP5SdY/edit?usp=drivesdk",
+        "total": 296,
+        "categorias": {
+          "ANL": 2,
+          "PTC": 194,
+          "ACO": 0,
+          "ADM": 88,
+          "DEV": 3,
+          "TST": 4,
+          "DOC": 5
+        }
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Monica Barajas"
+    },
+    {
+      "clickup_task_id": "86ahuxu43",
+      "nombre": "SCISA_02995_Migración a SIGLO/CD.NET",
+      "ticket_code": "SCISA_02995",
+      "clickup_url": "https://app.clickup.com/t/86ahuxu43",
+      "fecha_limite": "2027-04-30T10:00:00.000Z",
+      "doc_encontrado": false,
+      "doc_url": null,
+      "doc_fecha_creacion": null,
+      "doc_fecha_modificacion": null,
+      "doc_autor_o_editor": null,
+      "plan_trabajo": {
+        "doc_encontrado": true,
+        "doc_url": "https://docs.google.com/spreadsheets/d/16XQQ6_mQ6ttKQ5HAa_G7NdOg2x8RQHefH3L1r76qrkw/edit?usp=drivesdk",
+        "encontrado": true,
+        "url": "https://docs.google.com/spreadsheets/d/16XQQ6_mQ6ttKQ5HAa_G7NdOg2x8RQHefH3L1r76qrkw/edit?usp=drivesdk",
+        "total": 5903,
+        "categorias": {
+          "ANL": 2,
+          "PTC": 194,
+          "DEV": 5544,
+          "TST": 0,
+          "ACO": 70,
+          "ADV": 0,
+          "ADM": 88,
+          "DOC": 5
+        }
+      },
+      "aprobacion_scisa": {
+        "enviado": false,
+        "contenido": null
+      },
+      "aprobacion_cliente": {
+        "enviado": false,
+        "contenido": null
+      },
+      "total_aprobaciones_requeridas": 2,
+      "total_aprobaciones_recibidas": 0,
+      "quien_falta": [
+        "SCISA",
+        "Cliente"
+      ],
+      "responsable": "Rosa de Lima Lopez Sifuentes"
+    }
+  ],
+  "resumen_global": {
+    "total_proyectos_pre_analisis": 19,
+    "total_con_doc_encontrado": 3,
+    "total_con_ambas_aprobaciones": 0,
+    "total_sin_ninguna_aprobacion": 19
+  },
+  "notas": [
+    "Generado por script via Apps Script. Doc por nombre \"DetalleAlcance\"+codigo o dentro de la carpeta/subcarpeta de Analisis del proyecto.",
+    "doc_autor_o_editor es el propietario del archivo. Un .docx (no Google Doc) no se puede leer: queda doc_encontrado=false."
+  ]
+}
