@@ -1,0 +1,1667 @@
+{
+  "generated_at": "2026-11-18T20:09:45.819Z",
+  "epics": [
+    {
+      "epic_id": 7247,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7250,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7325,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7436,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7438,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7445,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7508,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7515,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8291,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9781,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9859,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10021,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10083,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10245,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10333,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10514,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10515,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10632,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10649,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10671,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10724,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11098,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11138,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11281,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11429,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11521,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11704,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11723,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11790,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11857,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11859,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11885,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12327,
+      "proyecto_azure": "ACTINVER_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11595,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11783,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11958,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11968,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12158,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12224,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12285,
+      "proyecto_azure": "AFIRME_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9560,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9772,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9842,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10136,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10620,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11038,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11175,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11299,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11513,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11950,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11980,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11990,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12030,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12205,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12338,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9626,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9923,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10103,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10107,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10163,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10222,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10325,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10498,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10531,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10644,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10680,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10868,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10895,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10922,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10923,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11028,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11177,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11214,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11316,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11317,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11553,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11554,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11588,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11735,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11837,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11838,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11886,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11916,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11999,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12056,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12370,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12412,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12418,
+      "proyecto_azure": "BancoBase_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9824,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9946,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9952,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10005,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10098,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10111,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10246,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10258,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10259,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10260,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10261,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10262,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10264,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10265,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10266,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10267,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10275,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10279,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10280,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10392,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10657,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10731,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10893,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11095,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11351,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11466,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11623,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11994,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12070,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12163,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12376,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12417,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12430,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12431,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12432,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12433,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12435,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12437,
+      "proyecto_azure": "BANCREA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9948,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10299,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10338,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10435,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10504,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10509,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10928,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11033,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11436,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11530,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11538,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11677,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11795,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11989,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11997,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12075,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12255,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12337,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12343,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12344,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12440,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12445,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12447,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12449,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12450,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10902,
+      "proyecto_azure": "BANSI_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11291,
+      "proyecto_azure": "BANSI_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10846,
+      "proyecto_azure": "BOFA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10251,
+      "proyecto_azure": "BURSAMETRICA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10913,
+      "proyecto_azure": "BURSAMETRICA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11072,
+      "proyecto_azure": "BURSAMETRICA_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9838,
+      "proyecto_azure": "KLU-Deployments-GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10025,
+      "proyecto_azure": "KLU-Deployments-GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11030,
+      "proyecto_azure": "KLU-Deployments-GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7746,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8139,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8247,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8808,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8816,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9730,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9849,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9894,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9895,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9896,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9988,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10069,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10094,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10120,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10132,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10151,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10161,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10196,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10213,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10216,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10217,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10218,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10225,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10315,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10342,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10356,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10394,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10420,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10432,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10441,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10491,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10495,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10573,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10621,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10622,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10636,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10844,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10845,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10855,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10863,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10915,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10946,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11094,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11192,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11355,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11469,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11570,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11884,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11985,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12002,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12223,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12301,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12441,
+      "proyecto_azure": "MIFEL_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8232,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8249,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8250,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8251,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8252,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9850,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9947,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10077,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10079,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10288,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10347,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10483,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10486,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11193,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11624,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12235,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12396,
+      "proyecto_azure": "PLDNet Bancrea",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8131,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8165,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8194,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8228,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8284,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8303,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8315,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8351,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8365,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8388,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8420,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9814,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10826,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10996,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11276,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11621,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12176,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12248,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12442,
+      "proyecto_azure": "PLDNET_Actinver",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 6824,
+      "proyecto_azure": "PUNTO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7609,
+      "proyecto_azure": "PUNTO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8015,
+      "proyecto_azure": "PUNTO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8022,
+      "proyecto_azure": "PUNTO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8038,
+      "proyecto_azure": "PUNTO_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8025,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 8432,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9787,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10684,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10711,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10883,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 10941,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11318,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11342,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11477,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11637,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11748,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11749,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11861,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 11910,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12049,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12110,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12189,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 12236,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 3742,
+      "proyecto_azure": "SCISA_FRAMEWORK_2013_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 7128,
+      "proyecto_azure": "TRB_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9980,
+      "proyecto_azure": "TRB_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    },
+    {
+      "epic_id": 9982,
+      "proyecto_azure": "TRB_GIT",
+      "lider_nombre": null,
+      "lider_email": null
+    }
+  ]
+}
