@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:11:39.008Z",
+  "generated_at": "2026-11-20T17:34:53.365Z",
   "proyectos": [
     {
       "proj_code": "SCISA_00000",
@@ -44,10 +44,10 @@
     {
       "proj_code": "SCISA_02625",
       "doc_encontrado": false,
-      "doc_url": null,
+      "doc_url": "https://docs.google.com/spreadsheets/d/13nNfkJ2ZQtrFN88oDNwUMpau-2fz44jkhi-gkq8u_aE/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla distinta ('Resumen General del Proyecto', sin pestaña Estimación Final)"
     },
     {
       "proj_code": "SCISA_02660",
@@ -1378,7 +1378,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_02946",
@@ -1552,7 +1552,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_02977",
@@ -1846,10 +1846,10 @@
     {
       "proj_code": "SCISA_03019",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1xEXHWaxUC36GvlqdUa3KfvFxarGN7AaGsY1UYJFZTlo/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03020",
@@ -2148,7 +2148,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03060",
@@ -2184,7 +2184,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (solo notas de capacitación, sin Plan de Trabajo)"
     },
     {
       "proj_code": "SCISA_03064",
@@ -2200,7 +2200,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03067",
@@ -2404,10 +2404,10 @@
     {
       "proj_code": "SCISA_03095",
       "doc_encontrado": false,
-      "doc_url": null,
+      "doc_url": "https://docs.google.com/spreadsheets/d/1tp06TctXcHpTKixzzaqQ6aDytOWD9qyfp1DmZl1QB6o/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla distinta (Backlog, sin pestaña Estimación Final)"
     },
     {
       "proj_code": "SCISA_03098",
@@ -2522,7 +2522,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03115",
@@ -2530,7 +2530,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03116",
@@ -2538,7 +2538,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03117",
@@ -2546,7 +2546,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03118",
@@ -2598,7 +2598,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla distinta (Backlog, sin pestaña Estimación Final)"
     },
     {
       "proj_code": "SCISA_03125",
@@ -2837,10 +2837,10 @@
     {
       "proj_code": "SCISA_03150",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1QUPgte60dqIKpxYj5T86EAQ9elgJ9XGe5du3Lmkh098/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03151",
@@ -3135,10 +3135,10 @@
     {
       "proj_code": "SCISA_03192",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1eeYBJ2QDdoQ42DFhvxG_B15TdhVmNnVAHH3PfPqsNUI/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "la hoja muestra valores que no corresponden correctamente a sus etiquetas (posible desalineo de fórmulas/columnas) y el total es inconsistente (7 / 290 / 283 según la sección); no se pudo mapear con confianza"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03193",
@@ -3239,7 +3239,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03200",
@@ -3280,7 +3280,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03207",
@@ -3302,10 +3302,10 @@
     {
       "proj_code": "SCISA_03210",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1LVEWBQ7YKkocq_XjrWZ2EhRIWPG1r900XFo7_6EQlts/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03211",
@@ -3330,15 +3330,15 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03213",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1S4w7qylKR7VUbOjq_N3wx_xxE-4125CHDjVEtO-Gp90/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03214",
@@ -3410,10 +3410,10 @@
     {
       "proj_code": "SCISA_03219",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1XdJD58GYlzBP8gB0nD9s24o_hSwWWLYQG-kyUKi8rOQ/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03220",
@@ -3435,10 +3435,10 @@
     {
       "proj_code": "SCISA_03222",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1lFlKRg437zFbC-rCu6m-dxnQ7JiGP13zPN4TWDs2hT0/edit?usp=drivesdk",
+      "doc_url": "https://docs.google.com/spreadsheets/d/1anJikIbr5SdK2k4L2bF31VeTiUS3is25-p6isqVzeWQ/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de sprints por RF con columnas Horas Desarrollo/Horas Arquitecto, no usa el esquema de categorías de Estimación Final; no se pudo mapear"
+      "nota": "plantilla distinta (Plan_Actividades / Plan por sprint, sin pestaña Estimación Final)"
     },
     {
       "proj_code": "SCISA_03223",
@@ -3716,7 +3716,7 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1ut_3-YuuOclX54UqEDpYruCX9j84QK4-KoAp-7Vil00/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03245",
@@ -3772,10 +3772,10 @@
     {
       "proj_code": "SCISA_03248",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/13P9Arw0bxJlIRIwBHuz8WN9q3-B78koSAoIp3C5cNP0/edit?usp=drivesdk",
+      "doc_url": "https://docs.google.com/spreadsheets/d/1O5MnWQCjgQR6-QcwXCvHza7hHVMifIme-ZVjuMeI2ao/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03249",
@@ -4110,10 +4110,10 @@
     {
       "proj_code": "SCISA_03284",
       "doc_encontrado": false,
-      "doc_url": null,
+      "doc_url": "https://drive.google.com/file/d/1FrtRFNImutqzMW-wO4B0pBw6TrbEho9b/view?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
     },
     {
       "proj_code": "SCISA_03293",
@@ -4254,7 +4254,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03336",
@@ -4262,7 +4262,7 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/17rBrBFcH4RensrAoRCNdmA4o4VL8TUPayDLd49Z-7kE/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03337",
@@ -4284,10 +4284,10 @@
     {
       "proj_code": "SCISA_03338",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1iUiLVZtaAnKPEey5Oswj1dyTYAwYFWehAxWMaCzNGOM/edit?usp=drivesdk",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03339",
@@ -4295,15 +4295,15 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1DZHQmn6Hx_jj4-zwWK2jZV2_lVRwLAM0tw2LHNhyXZ4/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades por actividad), requiere categorización manual - no mapeado"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03341",
       "doc_encontrado": false,
-      "doc_url": null,
+      "doc_url": "https://drive.google.com/file/d/1YIsPb3xEx_Y9HFDk0sTplxOO050t1VF-/view?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
     },
     {
       "proj_code": "SCISA_03342",
@@ -4548,15 +4548,15 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03362",
       "doc_encontrado": false,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1DO8K3j6r-1ufCoMMkQW8Cmv1QcShFSMQ/edit?usp=drivesdk&ouid=111774667229432120538&rtpof=true&sd=true",
+      "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "archivo Excel (.xlsx) subido a Drive, no accesible vía la API de Sheets"
+      "nota": "no existe (carpeta de cambio de alcance sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03363",
@@ -4564,7 +4564,7 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/12MSmr7CezYZ1ogzpazAikmcfDN69NRXj7tO57X9Nlts/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": "plantilla distinta (hojas 'Pendientes'/'Versión PROD'/'Desglose Horas Proyecto Banderas', sin Estimación Final); no se pudo mapear a categorías"
+      "nota": "plantilla distinta (hojas: Pendientes, Versión PROD, Desglose Horas Proyecto Banderas; sin pestaña Estimación Final)"
     },
     {
       "proj_code": "SCISA_03364",
@@ -4639,7 +4639,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03372",
@@ -4647,7 +4647,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03373",
@@ -4655,7 +4655,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03374",
@@ -4671,7 +4671,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03376",
@@ -4679,7 +4679,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03377",
@@ -4695,7 +4695,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03379",
@@ -4743,7 +4743,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03385",
@@ -4751,7 +4751,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03386",
@@ -4767,7 +4767,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03388",
@@ -4775,7 +4775,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03389",
@@ -4783,7 +4783,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03390",
@@ -4791,7 +4791,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03391",
@@ -4799,7 +4799,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03392",
@@ -4807,7 +4807,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03393",
@@ -4815,7 +4815,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03394",
@@ -4823,7 +4823,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03396",
@@ -4831,7 +4831,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03397",
@@ -4839,7 +4839,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03398",
@@ -4929,7 +4929,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03408",
@@ -4945,7 +4945,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03410",
@@ -4953,7 +4953,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03411",
@@ -5033,7 +5033,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03421",
@@ -5041,7 +5041,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03422",
@@ -5049,7 +5049,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03423",
@@ -5057,7 +5057,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03424",
@@ -5065,7 +5065,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03425",
@@ -5073,7 +5073,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "RF/RE individual dentro de una bolsa de horas compartida (proyecto maestro 03237/02995); no tiene Plan de Trabajo propio con 'Estimación Final'"
     },
     {
       "proj_code": "SCISA_03426",
@@ -5289,7 +5289,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03453",
@@ -5364,7 +5364,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
     },
     {
       "proj_code": "SCISA_03463",
@@ -5473,7 +5473,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03477",
@@ -5481,7 +5481,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03478",
@@ -5489,7 +5489,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
     },
     {
       "proj_code": "SCISA_03479",
@@ -5497,7 +5497,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03481",
@@ -5547,7 +5547,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
     },
     {
       "proj_code": "SCISA_03488",
@@ -5640,7 +5640,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "no existe (solo se encontró Detalle de Alcance, sin carpeta de Plan de Trabajo)"
     },
     {
       "proj_code": "SCISA_03500",
@@ -6173,6 +6173,6 @@
   "notas": [
     "Horas PPTO por categoria desde la hoja 2 (Estimacion Final) del Plan de Trabajo; si no existe el documento, nota=\"no existe\".",
     "Mapeo: Analisis->ANL, Planeacion Tecnica->PTC, Desarrollo->DEV, Pruebas->TST, Documentacion->DOC, Deploy SCISA->ADV, Soporte Post-Liberacion->ACO, Integracion con Produccion->ADV, Gestion->ADM.",
-    "Esta corrida: 290 proyecto(s) reusado(s) de la corrida anterior (ya tenian el documento), 229 buscado(s) de nuevo en Drive."
+    "Esta corrida (refresco de 72 proyectos activos en ClickUp sin doc_encontrado): 0 encontrados con Plan de Trabajo 'Estimación Final' nuevo, 72 sin documento o sin pestaña Estimación Final accesible (bolsas de horas compartidas RF/RE, implementaciones PLD Net con plantilla Plan_Actividades/Cronograma/Backlog distinta, archivos Excel no accesibles vía Sheets API, o carpetas sin Plan de Trabajo localizado)."
   ]
 }
