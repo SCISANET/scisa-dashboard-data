@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:09:25.457Z",
+  "generated_at": "2026-11-20T17:22:00.770Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12153,7 +12153,7 @@
           "id": 12455,
           "titulo": "[RF-05] - SIGLONET - Conservar el consecutivo general al reabrir una fecha operativa",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-19",
           "fecha_fin": "2026-11-20",
           "fecha_objetivo": "2026-11-25",
@@ -12383,17 +12383,6 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12263"
         },
         {
-          "id": 12460,
-          "titulo": "[RF-03] - Filtro de Operaciones de Salida en Ventana de Generación Batch Corpay",
-          "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-11-19",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-20",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12460"
-        },
-        {
           "id": 12486,
           "titulo": "[RF-01] - Clasificación del Tipo de Persona para Beneficiarios Internacionales",
           "tipo": "Feature",
@@ -12425,6 +12414,50 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12488"
+        },
+        {
+          "id": 12489,
+          "titulo": "[RF-04] - Mapeo de Referencia de Pago hacia el Beneficiario (Columna 39)",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12489"
+        },
+        {
+          "id": 12490,
+          "titulo": "[RF-05] - Captura Obligatoria, Mapeo de Dirección y Ciudad del Beneficiario",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12490"
+        },
+        {
+          "id": 12491,
+          "titulo": "[RF-06] - Extracción y Mapeo de Domicilio del Remitente / Cliente Ordenante",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12491"
+        },
+        {
+          "id": 12492,
+          "titulo": "[RF-07] - Filtro de Operaciones de Salida y Exclusión de Ajustes / Comisiones",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12492"
         }
       ]
     },
