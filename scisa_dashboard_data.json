@@ -3194,7 +3194,7 @@
       ],
       "due_date_ms": 1795168800000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae78uj",
       "desarrollador_real": null
@@ -3680,7 +3680,7 @@
       ],
       "due_date_ms": 1795428000000,
       "date_updated_ms": 1793268000000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae3qr4",
       "desarrollador_real": "Jesury Guadalupe García Gómez"
@@ -17457,7 +17457,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1790589600000,
-      "dias_sin_actualizar": 57,
+      "dias_sin_actualizar": 58,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppv8",
       "desarrollador_real": null
@@ -17489,7 +17489,7 @@
       ],
       "due_date_ms": 1790589600000,
       "date_updated_ms": 1789984800000,
-      "dias_sin_actualizar": 57,
+      "dias_sin_actualizar": 58,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppr1",
       "desarrollador_real": null
@@ -17569,7 +17569,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1790008930727,
-      "dias_sin_actualizar": 59,
+      "dias_sin_actualizar": 60,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86akhpny4",
       "desarrollador_real": null
