@@ -2424,7 +2424,7 @@
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794477600000,
-      "dias_sin_actualizar": 7,
+      "dias_sin_actualizar": 8,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae9fc2",
       "desarrollador_real": "Eduar Hernandez Esquivel"
@@ -4391,7 +4391,7 @@
       ],
       "due_date_ms": 1795428000000,
       "date_updated_ms": 1793181600000,
-      "dias_sin_actualizar": 16,
+      "dias_sin_actualizar": 17,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ady4gv",
       "desarrollador_real": "Enrique Andrés Chávez Martinez"
@@ -4726,7 +4726,7 @@
       ],
       "due_date_ms": 1795082400000,
       "date_updated_ms": 1792404000000,
-      "dias_sin_actualizar": 22,
+      "dias_sin_actualizar": 23,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1adx95b",
       "desarrollador_real": "Diego Emiliano Lara Guerra"
@@ -5850,7 +5850,7 @@
       ],
       "due_date_ms": 1795428000000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6yy5",
       "desarrollador_real": "José Emiliano Celestino Núñez"
@@ -5864,10 +5864,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1788948000000,
+      "due_date_ms": null,
       "date_updated_ms": 1788861600000,
       "dias_sin_actualizar": 0,
-      "atrasada": true,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ywy",
       "desarrollador_real": null
     },
@@ -5880,10 +5880,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1794391200000,
+      "due_date_ms": null,
       "date_updated_ms": 1789120800000,
-      "dias_sin_actualizar": 1,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6yw9",
       "desarrollador_real": null
     },
@@ -5956,10 +5956,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1795168800000,
+      "due_date_ms": null,
       "date_updated_ms": 1793700000000,
-      "dias_sin_actualizar": 1,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6yqd",
       "desarrollador_real": null
     },
@@ -5972,10 +5972,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1793700000000,
+      "due_date_ms": null,
       "date_updated_ms": 1793613600000,
-      "dias_sin_actualizar": 17,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ypq",
       "desarrollador_real": null
     },
@@ -5988,10 +5988,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1794996000000,
-      "date_updated_ms": 1795014395473,
-      "dias_sin_actualizar": 1,
-      "atrasada": true,
+      "due_date_ms": null,
+      "date_updated_ms": 1795188889089,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ypd",
       "desarrollador_real": null
     },
@@ -6079,10 +6079,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1793872800000,
+      "due_date_ms": null,
       "date_updated_ms": 1793786400000,
-      "dias_sin_actualizar": 17,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ybn",
       "desarrollador_real": null
     },
@@ -6113,7 +6113,7 @@
       ],
       "due_date_ms": 1794996000000,
       "date_updated_ms": 1794391200000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ake6xvv",
       "desarrollador_real": "Michelle Ramírez"
@@ -6173,10 +6173,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1794909600000,
+      "due_date_ms": null,
       "date_updated_ms": 1794909600000,
-      "dias_sin_actualizar": 1,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6xfy",
       "desarrollador_real": null
     },
@@ -6205,10 +6205,10 @@
       "assignees": [
         "Nayeli Hernandez"
       ],
-      "due_date_ms": 1793959200000,
+      "due_date_ms": null,
       "date_updated_ms": 1793872800000,
-      "dias_sin_actualizar": 17,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6x9n",
       "desarrollador_real": null
     },
@@ -6223,7 +6223,7 @@
       ],
       "due_date_ms": 1793354400000,
       "date_updated_ms": 1788775200000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ake62px",
       "desarrollador_real": null
@@ -6269,7 +6269,7 @@
       ],
       "due_date_ms": 1806487200000,
       "date_updated_ms": 1788170400000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ak8mwmj",
       "desarrollador_real": null
@@ -8469,7 +8469,7 @@
       ],
       "due_date_ms": 1809079200000,
       "date_updated_ms": 1783332000000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ahuxu43",
       "desarrollador_real": null
@@ -11017,7 +11017,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1777303734838,
-      "dias_sin_actualizar": 206,
+      "dias_sin_actualizar": 207,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86afwbuwu",
       "desarrollador_real": null
@@ -11133,7 +11133,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1777303767044,
-      "dias_sin_actualizar": 206,
+      "dias_sin_actualizar": 207,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86afwbtfh",
       "desarrollador_real": null
@@ -11249,7 +11249,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1777303779275,
-      "dias_sin_actualizar": 206,
+      "dias_sin_actualizar": 207,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86afwbrkq",
       "desarrollador_real": null
@@ -11365,7 +11365,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1777303790625,
-      "dias_sin_actualizar": 206,
+      "dias_sin_actualizar": 207,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86afwbqq3",
       "desarrollador_real": null
@@ -12459,16 +12459,17 @@
       "id": "86ae0hcuz",
       "name": "SCISA_03039_[35469] - Creación de mensaje MT300 previo a la liquidación",
       "proj_code": "SCISA_03039",
-      "status": "por calendarizar",
+      "status": "por iniciar",
       "priority": "normal",
       "assignees": [
         "Antonio Pequeño Martinez"
       ],
       "due_date_ms": null,
-      "date_updated_ms": 1794410556547,
-      "dias_sin_actualizar": 7,
+      "date_updated_ms": 1795514400000,
+      "dias_sin_actualizar": 0,
       "atrasada": false,
-      "url": "https://app.clickup.com/t/86ae0hcuz"
+      "url": "https://app.clickup.com/t/86ae0hcuz",
+      "desarrollador_real": "Jesus Hervey Moreno"
     },
     {
       "id": "86adx1y4m",
@@ -17440,7 +17441,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1791300299233,
-      "dias_sin_actualizar": 44,
+      "dias_sin_actualizar": 45,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae07ry",
       "desarrollador_real": null
@@ -17502,9 +17503,9 @@
       "assignees": [
         "Rosa de Lima Lopez Sifuentes"
       ],
-      "due_date_ms": 1790244000000,
+      "due_date_ms": 1795168800000,
       "date_updated_ms": 1789984800000,
-      "dias_sin_actualizar": 59,
+      "dias_sin_actualizar": 0,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppn1",
       "desarrollador_real": null
@@ -17518,10 +17519,10 @@
       "assignees": [
         "Rosa de Lima Lopez Sifuentes"
       ],
-      "due_date_ms": 1791367200000,
+      "due_date_ms": 1795600800000,
       "date_updated_ms": 1791194400000,
-      "dias_sin_actualizar": 49,
-      "atrasada": true,
+      "dias_sin_actualizar": 0,
+      "atrasada": false,
       "url": "https://app.clickup.com/t/86akhppk9",
       "desarrollador_real": null
     },
@@ -17582,9 +17583,9 @@
       "assignees": [
         "Rosa de Lima Lopez Sifuentes"
       ],
-      "due_date_ms": null,
-      "date_updated_ms": 1790008930727,
-      "dias_sin_actualizar": 59,
+      "due_date_ms": 1795514400000,
+      "date_updated_ms": 1795187916540,
+      "dias_sin_actualizar": 0,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86akhpnrv",
       "desarrollador_real": null
