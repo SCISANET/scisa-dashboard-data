@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:57:58.412Z",
+  "generated_at": "2026-11-20T17:09:25.424Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1765,7 +1765,7 @@
           "fecha_inicio": "2026-10-28",
           "fecha_objetivo": "2026-11-28",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 8,
+          "total_hijos": 5,
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12255"
