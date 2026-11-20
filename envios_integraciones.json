@@ -1,0 +1,80 @@
+{
+ "generated_at": "2026-11-19T17:42:00.000Z",
+ "carpetas": [
+  {
+   "ruta": "Z:\\Aplicaciones\\SIGLO_PB_12\\ActinverBanco\\Integraciones",
+   "archivos": [
+    {
+     "nombre": "PREPRODBANCO_1.000097_20261109_(Integracion1+2)_INCIDENCIASPRODv2.zip",
+     "tamano_bytes": 105812614,
+     "modificado": "2026-11-09T19:49:36.483Z"
+    },
+    {
+     "nombre": "Pruebas_1.000097_20261105 - DireccionesISOV1_PagoSwiftInterfazV1.zip",
+     "tamano_bytes": 105629806,
+     "modificado": "2026-11-06T16:40:54.998Z"
+    },
+    {
+     "nombre": "Pruebas_1.000098_20261102 - AsesorContratoV1_NeteosV2_360TV1(Integracion_4)_V5.zip",
+     "tamano_bytes": 107373815,
+     "modificado": "2026-11-02T20:21:30.585Z"
+    },
+    {
+     "nombre": "Pruebas_1.000098_20261106 - AsesorContratoV1_NeteosV2_360TV1(Integracion_4)_V6.zip",
+     "tamano_bytes": 105256524,
+     "modificado": "2026-11-06T21:00:09.388Z"
+    },
+    {
+     "nombre": "Pruebas_1.000098_20261113 - AsesorContratoV1_NeteosV2_360TV1(Integracion_4)_V7.zip",
+     "tamano_bytes": 105318729,
+     "modificado": "2026-11-14T00:02:38.571Z"
+    }
+   ]
+  },
+  {
+   "ruta": "Z:\\Aplicaciones\\SIGLO_PB_12\\ActinverBanco\\SCISA_03203",
+   "archivos": [
+    {
+     "nombre": "Pruebas_1.000097_20261007 - FacturacionV3_ReferenciaISOV3_Fixes(Integracion1+2).zip",
+     "tamano_bytes": 103351408,
+     "modificado": "2026-11-19T17:41:51.000Z"
+    }
+   ]
+  },
+  {
+   "ruta": "Z:\\Aplicaciones\\SIGLO_PB_12\\Actinver\\Integraciones",
+   "archivos": [
+    {
+     "nombre": "PREPRODCBolsa_1.000075_20261109_(Integracion_1+2)_INCIDENCIASPRODv2.zip",
+     "tamano_bytes": 57857297,
+     "modificado": "2026-11-09T19:48:57.444Z"
+    },
+    {
+     "nombre": "Pruebas_1.000075_20261105 - DireccionesISOV1_PagoSwiftInterfazV1.zip",
+     "tamano_bytes": 58769322,
+     "modificado": "2026-11-06T16:42:10.697Z"
+    },
+    {
+     "nombre": "Pruebas_1.000076_202611102 - AsesorContratoV1_NeteosV2_360TV1_FixReferencia_V5.zip",
+     "tamano_bytes": 60796928,
+     "modificado": "2026-11-02T20:26:32.550Z"
+    },
+    {
+     "nombre": "Pruebas_1.000076_20261113 - AsesorContratoV1_NeteosV2_360TV1_FixReferencia_V7.zip",
+     "tamano_bytes": 59474845,
+     "modificado": "2026-11-13T23:51:05.899Z"
+    }
+   ]
+  },
+  {
+   "ruta": "Z:\\Aplicaciones\\SIGLO_PB_12\\Actinver\\SCISA_03203",
+   "archivos": [
+    {
+     "nombre": "Pruebas_1.000075_20261012 - FacturacionV4_ReferenciaISOV3.1_FixReferencia(Integracion_1+2).zip",
+     "tamano_bytes": 57294267,
+     "modificado": "2026-11-19T17:41:00.000Z"
+    }
+   ]
+  }
+ ]
+}
