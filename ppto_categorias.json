@@ -1352,11 +1352,15 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1FopsA28ypVhf6TiNzvmnKFQGms5KmdsjvwW0UXSGPQY/edit?usp=drivesdk",
       "categorias": {
         "ANL": 20,
-        "DEV": 1286,
-        "TST": 154
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 57,
+        "ACO": 56,
+        "ADM": 6
       },
-      "total": 1460,
-      "nota": null
+      "total": 309,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_02964",
@@ -1772,11 +1776,15 @@
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1Ad-XrWIvvDszT_6jzef-L8ohINAprIKHlHfyQg-BNlk/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 64,
-        "DEV": 48,
-        "TST": 8
+        "ANL": 32,
+        "DEV": 24,
+        "TST": 8,
+        "DOC": 0,
+        "ADV": 40,
+        "ACO": 12,
+        "ADM": 2
       },
-      "total": 120,
+      "total": 118,
       "nota": null
     },
     {
@@ -1785,10 +1793,15 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1Fd0xT37tLh2ckyqCMNZIrjigW8Qi8nlM3WIrYRCzKCM/edit?usp=drivesdk",
       "categorias": {
         "ANL": 20,
-        "DEV": 160
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
       },
-      "total": 180,
-      "nota": null
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_03037",
@@ -1796,10 +1809,15 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1qNMAhjxw-wwG2R-P3JBmN6c0JW0r6wuGCqgrB4A5X1g/edit?usp=drivesdk",
       "categorias": {
         "ANL": 20,
-        "DEV": 160
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
       },
-      "total": 180,
-      "nota": null
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_03038",
@@ -1861,18 +1879,23 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/12MOQfZvC1RMDRr4SCRCuEq4dTgwQzLuXZKx0tA-mPeM/edit?usp=drivesdk",
       "categorias": {
         "ANL": 20,
-        "DEV": 160
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
       },
-      "total": 180,
-      "nota": null
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_03047",
-      "doc_encontrado": true,
+      "doc_encontrado": false,
       "doc_url": "https://docs.google.com/spreadsheets/d/17UoHmulRH_bNcQqY_hF_dlsvRuBpE5iC1rX7GIbs9n8/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": null
+      "nota": "plantilla de 'bolsa de horas' por bloques, sin Estimación Final; no se pudo mapear"
     },
     {
       "proj_code": "SCISA_03049",
@@ -1965,10 +1988,15 @@
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1q5Fdc1aapYOZppTpRd9nAP4ZXhx_hG6fyb4tlSWLpic/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 40,
-        "DEV": 320
+        "ANL": 111,
+        "DEV": 100,
+        "TST": 8,
+        "DOC": 0,
+        "ADV": 51,
+        "ACO": 16,
+        "ADM": 7
       },
-      "total": 360,
+      "total": 293,
       "nota": null
     },
     {
@@ -2012,12 +2040,16 @@
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1DJQllKZiA1WU52AUnZ1vfz_LrSSlrHPnUk11vVSRhbE/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 40,
-        "DEV": 320,
-        "TST": 20
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
       },
-      "total": 380,
-      "nota": null
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_03068",
@@ -2040,12 +2072,16 @@
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1Z66EAKZW5WwVnGXXPMMQU6vzxIrh4Wr1wQzc2nD2HDs/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 40,
-        "DEV": 320,
-        "TST": 20
+        "ANL": 20,
+        "DEV": 160,
+        "TST": 10,
+        "DOC": 0,
+        "ADV": 32,
+        "ACO": 40,
+        "ADM": 6
       },
-      "total": 380,
-      "nota": null
+      "total": 268,
+      "nota": "plantilla sin personalizar (valores placeholder recurrentes)"
     },
     {
       "proj_code": "SCISA_03072",
