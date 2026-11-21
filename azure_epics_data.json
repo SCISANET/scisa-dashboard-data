@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:00:12.724Z",
+  "generated_at": "2026-11-21T00:00:13.514Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -438,8 +438,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 6,
-          "pct_progreso": 67,
+          "hijos_cerrados": 7,
+          "pct_progreso": 78,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/11958"
         },
         {
@@ -473,9 +473,9 @@
           "fecha_inicio": "2026-11-11",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
-          "total_hijos": 21,
+          "total_hijos": 22,
           "hijos_cerrados": 10,
-          "pct_progreso": 48,
+          "pct_progreso": 45,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
@@ -2871,6 +2871,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12464"
+        },
+        {
+          "id": 12502,
+          "titulo": "V.4.11.7",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_objetivo": "2026-11-20",
+          "asignado": "Jesury Garcia",
+          "total_hijos": 1,
+          "hijos_cerrados": 1,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12502"
         }
       ]
     },
@@ -3089,8 +3101,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "total_hijos": 5,
-          "hijos_cerrados": 3,
-          "pct_progreso": 60,
+          "hijos_cerrados": 4,
+          "pct_progreso": 80,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12248"
         },
         {
