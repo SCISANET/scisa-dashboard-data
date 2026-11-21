@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:00:12.773Z",
+  "generated_at": "2026-11-21T00:00:13.547Z",
   "epics": [
     {
       "epic_id": 170,
@@ -10900,7 +10900,7 @@
           "id": 11965,
           "titulo": "[RF-07] Conservar la captura manual del TC 48H Compra y habilitar la captura manual del TC 48H Venta como contingencia",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-10-22",
@@ -12181,6 +12181,17 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Ibrahim Esparza",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12482"
+        },
+        {
+          "id": 12497,
+          "titulo": "[SCISA_03385] - SIGLONET - Pruebas e2e de Clave Única",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-20",
+          "asignado": "Michelle Ramirez",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12497"
         }
       ]
     },
@@ -12347,9 +12358,9 @@
           "id": 12268,
           "titulo": "[RF-04] - Homologación automática de códigos de País",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Committed",
           "fecha_inicio": "2026-11-17",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-20",
           "fecha_objetivo": "2026-11-19",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12268"
@@ -13244,7 +13255,7 @@
           "id": 12413,
           "titulo": "[RF-01] - Servicio de Registro de Clientes en Whitelist NUBA BBD",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-12",
           "fecha_fin": "2026-11-18",
           "fecha_objetivo": "2026-11-17",
@@ -13621,8 +13632,8 @@
           "id": 12451,
           "titulo": "Evitar duplicidad de instrucciones cuando un usuario guarda y otro usuario completa una misma operación",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-18",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-25",
           "asignado": "Diego Lara",
@@ -14032,6 +14043,23 @@
           "fecha_objetivo": "2026-11-26",
           "asignado": "Hervey Moreno",
           "url": "https://dev.azure.com/scisa/BANCREA_GIT/_workitems/edit/12496"
+        }
+      ]
+    },
+    {
+      "epic_id": 12502,
+      "proyecto_azure": "PLDNet Bancrea",
+      "hijos": [
+        {
+          "id": 12503,
+          "titulo": "PersonNotSearchJob se queda colgado por excepciones no resueltas en la búsqueda masiva de listas negras",
+          "tipo": "Feature",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": "2026-11-20",
+          "fecha_objetivo": "2026-11-20",
+          "asignado": "Brandon Ruiz",
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12503"
         }
       ]
     }
