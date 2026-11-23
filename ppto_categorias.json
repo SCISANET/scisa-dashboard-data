@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:54:19.434Z",
+  "generated_at": "2026-11-23T17:10:47.965Z",
   "proyectos": [
     {
       "proj_code": "SCISA_00000",
@@ -95,7 +95,7 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1szrfFuKJjb6ReWYw5wg_JE3tmSvnrB8dlBRa0gWpr0Q/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": null
+      "nota": "PT en formato MS Project (WBS/Work), sin desglose por categoria ni hoja Estimacion Final: no se puede mapear a ANL/DEV/TST/etc."
     },
     {
       "proj_code": "SCISA_02697",
@@ -280,9 +280,17 @@
       "proj_code": "SCISA_02795",
       "doc_encontrado": true,
       "doc_url": "https://drive.google.com/file/d/19F7qwIGUPTwBNgsZKqTHnFBPR6JrfaQD/view",
-      "categorias": {},
-      "total": 0,
-      "nota": "PT localizado manualmente: SCISA_02795_Plan_Actividades_Tarjeta Wallet Multidivisa.xlsx"
+      "categorias": {
+        "ANL": 40,
+        "DEV": 332,
+        "TST": 40,
+        "DOC": 0,
+        "ADV": 72,
+        "ACO": 60,
+        "ADM": 12
+      },
+      "total": 556,
+      "nota": null
     },
     {
       "proj_code": "SCISA_02796",
@@ -349,7 +357,7 @@
       "doc_url": "https://drive.google.com/file/d/1ZgkzAw-aSUQggxnANmvyIf75Tr2RHcCe/view",
       "categorias": {},
       "total": 0,
-      "nota": "PT localizado manualmente: PT_SCISA_02810_Validación de Operaciones Internacionales.xlsx"
+      "nota": "PT sin columna de horas (solo % avance y fechas): no hay presupuesto por categoria que extraer."
     },
     {
       "proj_code": "SCISA_02811",
@@ -1292,7 +1300,7 @@
       "doc_url": "https://docs.google.com/spreadsheets/d/1IosfZVm9Q4AA4MblJZLyMK7NZ_wy64-8LotvLSCMUlo/edit?usp=drivesdk",
       "categorias": {},
       "total": 0,
-      "nota": null
+      "nota": "PT con categorias propias (Inicio/Pruebas Unitarias/Documentacion/Capacitacion/Pase a Produccion), sin hoja Estimacion Final: no mapea a las categorias estandar."
     },
     {
       "proj_code": "SCISA_02938",
@@ -3278,9 +3286,18 @@
       "proj_code": "SCISA_03203",
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1GiploTg-EtUtEbPN9WiBdo3SSEM9-AsR/edit?gid=373589777#gid=373589777",
-      "categorias": {},
-      "total": 0,
-      "nota": "PT localizado manualmente (busqueda automatica no lo encontro)"
+      "categorias": {
+        "ANL": 27,
+        "PTC": 16,
+        "DEV": 20,
+        "TST": 18,
+        "DOC": 4,
+        "ADV": 3,
+        "ACO": 37,
+        "ADM": 7
+      },
+      "total": 132,
+      "nota": null
     },
     {
       "proj_code": "SCISA_03207",
@@ -3301,11 +3318,11 @@
     },
     {
       "proj_code": "SCISA_03210",
-      "doc_encontrado": false,
+      "doc_encontrado": true,
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
+      "nota": "PT en formato de implementacion PLD.Net (Inicio/Revision/ETAPA I/ETAPA II...), sin desglose Analisis/Desarrollo/Pruebas/etc.: no mapea a las categorias estandar."
     },
     {
       "proj_code": "SCISA_03211",
@@ -3334,11 +3351,11 @@
     },
     {
       "proj_code": "SCISA_03213",
-      "doc_encontrado": false,
+      "doc_encontrado": true,
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
+      "nota": "PT en formato de implementacion PLD.Net (Inicio/Revision/ETAPA I/ETAPA II...), sin desglose Analisis/Desarrollo/Pruebas/etc.: no mapea a las categorias estandar."
     },
     {
       "proj_code": "SCISA_03214",
@@ -3409,11 +3426,11 @@
     },
     {
       "proj_code": "SCISA_03219",
-      "doc_encontrado": false,
+      "doc_encontrado": true,
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "plantilla de implementación detallada (PlanDeActividades/Cronograma por actividad, no 'Estimación Final'), requiere categorización manual - no mapeado"
+      "nota": "PT en formato de implementacion PLD.Net (Inicio/Revision/ETAPA I/ETAPA II...), sin desglose Analisis/Desarrollo/Pruebas/etc.: no mapea a las categorias estandar."
     },
     {
       "proj_code": "SCISA_03220",
@@ -3434,11 +3451,20 @@
     },
     {
       "proj_code": "SCISA_03222",
-      "doc_encontrado": false,
+      "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1anJikIbr5SdK2k4L2bF31VeTiUS3is25-p6isqVzeWQ/edit?usp=drivesdk",
-      "categorias": {},
-      "total": 0,
-      "nota": "plantilla distinta (Plan_Actividades / Plan por sprint, sin pestaña Estimación Final)"
+      "categorias": {
+        "ANL": 1,
+        "PTC": 13,
+        "DEV": 362,
+        "TST": 0,
+        "DOC": 0,
+        "ADV": 2,
+        "ACO": 0,
+        "ADM": 8
+      },
+      "total": 386,
+      "nota": null
     },
     {
       "proj_code": "SCISA_03223",
@@ -4111,9 +4137,18 @@
       "proj_code": "SCISA_03284",
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1FrtRFNImutqzMW-wO4B0pBw6TrbEho9b/edit?usp=drive_link",
-      "categorias": {},
-      "total": 0,
-      "nota": "PT localizado manualmente (busqueda automatica no lo encontro)"
+      "categorias": {
+        "ANL": 3,
+        "PTC": 7,
+        "DEV": 19,
+        "TST": 9,
+        "DOC": 4,
+        "ADV": 4,
+        "ACO": 6,
+        "ADM": 4
+      },
+      "total": 56,
+      "nota": null
     },
     {
       "proj_code": "SCISA_03293",
@@ -4552,19 +4587,37 @@
     },
     {
       "proj_code": "SCISA_03362",
-      "doc_encontrado": false,
-      "doc_url": null,
-      "categorias": {},
-      "total": 0,
-      "nota": "no existe (carpeta de cambio de alcance sin Plan de Trabajo localizado)"
+      "doc_encontrado": true,
+      "doc_url": "https://drive.google.com/file/d/1DO8K3j6r-1ufCoMMkQW8Cmv1QcShFSMQ/view?usp=drivesdk",
+      "categorias": {
+        "ANL": 6,
+        "PTC": 13,
+        "DEV": 36,
+        "TST": 4,
+        "DOC": 3,
+        "ADV": 3,
+        "ACO": 6,
+        "ADM": 3
+      },
+      "total": 74,
+      "nota": null
     },
     {
       "proj_code": "SCISA_03363",
-      "doc_encontrado": false,
+      "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/12MSmr7CezYZ1ogzpazAikmcfDN69NRXj7tO57X9Nlts/edit?usp=drivesdk",
-      "categorias": {},
-      "total": 0,
-      "nota": "plantilla distinta (hojas: Pendientes, Versión PROD, Desglose Horas Proyecto Banderas; sin pestaña Estimación Final)"
+      "categorias": {
+        "ANL": 52,
+        "PTC": 16,
+        "DEV": 446,
+        "TST": 39,
+        "DOC": 9,
+        "ADV": 4,
+        "ACO": 4,
+        "ADM": 11
+      },
+      "total": 581,
+      "nota": null
     },
     {
       "proj_code": "SCISA_03364",
