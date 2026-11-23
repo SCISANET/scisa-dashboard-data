@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:00:12.185Z",
+  "generated_at": "2026-11-23T22:00:13.443Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -3370,13 +3370,13 @@
         {
           "id": 12049,
           "titulo": "LTS v.4.0.Z",
-          "estado": "Done",
-          "fecha_inicio": "2026-10-14",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
           "fecha_objetivo": "2026-12-31",
           "asignado": "Raul Gonzalez",
-          "total_hijos": 2,
+          "total_hijos": 3,
           "hijos_cerrados": 1,
-          "pct_progreso": 50,
+          "pct_progreso": 33,
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12049"
         },
         {
@@ -3406,13 +3406,13 @@
         {
           "id": 12236,
           "titulo": "SCISA_03467",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-10-28",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Enrique Chávez",
-          "total_hijos": 8,
+          "total_hijos": 9,
           "hijos_cerrados": 8,
-          "pct_progreso": 100,
+          "pct_progreso": 89,
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12236"
         },
         {
