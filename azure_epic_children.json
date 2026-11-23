@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:00:12.222Z",
+  "generated_at": "2026-11-23T22:00:13.483Z",
   "epics": [
     {
       "epic_id": 170,
@@ -11477,6 +11477,17 @@
           "fecha_objetivo": "2026-10-30",
           "asignado": "Raul Gonzalez",
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12275"
+        },
+        {
+          "id": 12510,
+          "titulo": "V.4.0.7",
+          "tipo": "Feature",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-12-04",
+          "asignado": "Raul Gonzalez",
+          "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12510"
         }
       ]
     },
@@ -12189,7 +12200,7 @@
           "estado": "In Progress",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-11-20",
+          "fecha_objetivo": "2026-11-24",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12497"
         }
@@ -12314,6 +12325,17 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Enrique Chávez",
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12244"
+        },
+        {
+          "id": 12516,
+          "titulo": "Error al notificar que una persona no fue encontrada",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-23",
+          "asignado": "Enrique Chávez",
+          "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12516"
         }
       ]
     },
