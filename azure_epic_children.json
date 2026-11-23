@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:00:17.265Z",
+  "generated_at": "2026-11-23T18:00:12.222Z",
   "epics": [
     {
       "epic_id": 170,
@@ -10878,7 +10878,7 @@
           "id": 11963,
           "titulo": "[RF-05] Actualizar los tipos de cambio en SIGLONET conforme los precios recibidos",
           "tipo": "Feature",
-          "estado": "New",
+          "estado": "Done",
           "fecha_inicio": "2026-10-21",
           "fecha_fin": null,
           "fecha_objetivo": "2026-10-21",
@@ -12035,7 +12035,7 @@
           "estado": "In Progress",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-11-09",
+          "fecha_objetivo": "2026-11-24",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12232"
         },
@@ -12054,9 +12054,9 @@
           "id": 12280,
           "titulo": "[BUG] Deal de AFIRME muestra leyendas correspondientes a Mifel",
           "tipo": "Bug",
-          "estado": "On Hold",
+          "estado": "Committed",
           "fecha_inicio": "2026-10-29",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-23",
           "fecha_objetivo": "2026-11-14",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12280"
@@ -12098,10 +12098,10 @@
           "id": 12385,
           "titulo": "[BUG] SIGLONET Mantiene validación de autorización 72/96H al cambiar fecha valor 48H",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-19",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-11-13",
+          "fecha_objetivo": "2026-11-24",
           "asignado": "Axel Miguel Arcos Guerrero",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12385"
         },
@@ -12109,8 +12109,8 @@
           "id": 12386,
           "titulo": "[BUG] SIGLONET - Error de transición de estado al reintentar Guardar y Completar",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-09",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-13",
           "asignado": "Axel Miguel Arcos Guerrero",
@@ -12358,7 +12358,7 @@
           "id": 12268,
           "titulo": "[RF-04] - Homologación automática de códigos de País",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-17",
           "fecha_fin": "2026-11-20",
           "fecha_objetivo": "2026-11-19",
@@ -13658,7 +13658,7 @@
           "fecha_inicio": "2026-11-19",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-23",
-          "asignado": "Antonio Pequeño",
+          "asignado": "Angel Doria Moncada",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12457"
         },
         {
@@ -14037,8 +14037,8 @@
           "id": 12496,
           "titulo": "[RF-01]-Generación MT300 de compras en “por Confirmar”",
           "tipo": "Feature",
-          "estado": "To Do",
-          "fecha_inicio": "2026-11-20",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-26",
           "asignado": "Hervey Moreno",
@@ -14062,6 +14062,11 @@
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12503"
         }
       ]
+    },
+    {
+      "epic_id": 12508,
+      "proyecto_azure": "SCISA SIGLO PLDNet",
+      "hijos": []
     }
   ],
   "notas": [
