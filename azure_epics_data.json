@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:00:13.514Z",
+  "generated_at": "2026-11-23T15:00:17.231Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1060,8 +1060,8 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Eduar Hernandez",
           "total_hijos": 3,
-          "hijos_cerrados": 2,
-          "pct_progreso": 67,
+          "hijos_cerrados": 3,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12412"
         },
         {
