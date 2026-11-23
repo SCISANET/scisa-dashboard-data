@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:00:08.590Z",
+  "generated_at": "2026-11-23T18:00:06.887Z",
   "proyectos": [
     {
       "id_proyecto": "3537",
@@ -110,7 +110,7 @@
       "id_proyecto": "3520",
       "fecha_inicio_clickup": "2026-11-13T11:00:00.000Z",
       "fecha_fin_clickup": "2026-11-19T11:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-20T10:00:00.000Z",
       "desarrollador": "Emilio Graterol"
     },
     {
@@ -187,14 +187,14 @@
       "id_proyecto": "3505",
       "fecha_inicio_clickup": "2026-10-26T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-18T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-09T14:48:00.964Z",
+      "fecha_envio_cliente": "2026-11-09T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3504",
       "fecha_inicio_clickup": "2026-11-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-26T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-27T10:00:00.000Z",
       "desarrollador": "Eduar Hernandez Esquivel"
     },
     {
@@ -208,7 +208,7 @@
       "id_proyecto": "3501",
       "fecha_inicio_clickup": "2026-11-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-17T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -257,7 +257,7 @@
       "id_proyecto": "3490",
       "fecha_inicio_clickup": "2026-10-26T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-28T16:40:50.926Z",
+      "fecha_envio_cliente": "2026-10-28T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -271,21 +271,21 @@
       "id_proyecto": "3485",
       "fecha_inicio_clickup": "2026-10-23T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-28T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-28T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-10-29T10:00:00.000Z",
       "desarrollador": "Carlos Arturo Saldivar Morales"
     },
     {
       "id_proyecto": "3484",
       "fecha_inicio_clickup": "2026-10-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-23T10:00:00.000Z",
       "desarrollador": "Jesury Guadalupe García Gómez"
     },
     {
       "id_proyecto": "3483",
       "fecha_inicio_clickup": "2026-11-24T10:00:00.000Z",
       "fecha_fin_clickup": "2026-12-11T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-12-16T10:00:00.000Z",
       "desarrollador": "Jesury Guadalupe García Gómez"
     },
     {
@@ -320,7 +320,7 @@
       "id_proyecto": "3477",
       "fecha_inicio_clickup": "2026-10-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-30T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-30T10:00:00.000Z",
       "desarrollador": "Gael Flores Cantu"
     },
     {
@@ -348,21 +348,21 @@
       "id_proyecto": "3470",
       "fecha_inicio_clickup": "2026-10-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-29T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-28T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-10-30T10:00:00.000Z",
       "desarrollador": "Enrique Andrés Chávez Martinez"
     },
     {
       "id_proyecto": "3467",
       "fecha_inicio_clickup": "2026-10-28T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-24T10:00:00.000Z",
       "desarrollador": "Enrique Andrés Chávez Martinez"
     },
     {
       "id_proyecto": "3463",
       "fecha_inicio_clickup": "2026-09-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-10-16T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -383,14 +383,14 @@
       "id_proyecto": "3457",
       "fecha_inicio_clickup": "2026-10-19T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-19T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-23T10:00:00.000Z",
       "desarrollador": "Diego Emiliano Lara Guerra"
     },
     {
       "id_proyecto": "3456",
       "fecha_inicio_clickup": "2026-10-14T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-12-04T10:00:00.000Z",
       "desarrollador": "Astrid Ovalle"
     },
     {
@@ -411,7 +411,7 @@
       "id_proyecto": "3452",
       "fecha_inicio_clickup": "2026-09-15T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-02T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-10-16T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -439,7 +439,7 @@
       "id_proyecto": "3375",
       "fecha_inicio_clickup": "2026-11-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-24T10:00:00.000Z",
       "desarrollador": "José Emiliano Celestino Núñez"
     },
     {
@@ -495,7 +495,7 @@
       "id_proyecto": "3385",
       "fecha_inicio_clickup": "2026-11-11T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-18T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-23T10:00:00.000Z",
       "desarrollador": "Michelle Ramírez"
     },
     {
@@ -530,7 +530,7 @@
       "id_proyecto": "3371",
       "fecha_inicio_clickup": "2026-09-21T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-06T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-18T15:51:19.182Z",
+      "fecha_envio_cliente": "2026-11-09T10:00:00.000Z",
       "desarrollador": "Michelle Ramírez"
     },
     {
@@ -551,14 +551,14 @@
       "id_proyecto": "3366",
       "fecha_inicio_clickup": "2026-09-01T06:00:00.000Z",
       "fecha_fin_clickup": "2026-09-04T06:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-07T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-09-07T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3365",
       "fecha_inicio_clickup": "2026-09-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-12T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-10-21T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -572,7 +572,7 @@
       "id_proyecto": "3363",
       "fecha_inicio_clickup": "2026-08-31T10:00:00.000Z",
       "fecha_fin_clickup": "2027-03-31T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2027-03-31T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -586,21 +586,21 @@
       "id_proyecto": "3361",
       "fecha_inicio_clickup": "2026-09-01T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-21T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-10-14T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3357",
       "fecha_inicio_clickup": "2026-09-07T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-17T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-09-09T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3355",
       "fecha_inicio_clickup": "2026-08-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-21T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-09-14T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -621,14 +621,14 @@
       "id_proyecto": "3352",
       "fecha_inicio_clickup": "2026-08-14T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-07T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-31T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3248",
       "fecha_inicio_clickup": "2026-07-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-30T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-10-16T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -656,7 +656,7 @@
       "id_proyecto": "3348",
       "fecha_inicio_clickup": "2026-08-31T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-16T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-22T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-10-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -677,14 +677,14 @@
       "id_proyecto": "3344",
       "fecha_inicio_clickup": "2026-11-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-25T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-21T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-11-27T10:00:00.000Z",
       "desarrollador": "Jesús Hilario Martínez"
     },
     {
       "id_proyecto": "3343",
       "fecha_inicio_clickup": "2026-10-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-10T05:57:18.685Z",
+      "fecha_envio_cliente": "2026-11-10T06:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -712,7 +712,7 @@
       "id_proyecto": "3338",
       "fecha_inicio_clickup": "2026-08-07T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-06T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -740,14 +740,14 @@
       "id_proyecto": "3331",
       "fecha_inicio_clickup": "2026-08-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-11T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3325",
       "fecha_inicio_clickup": "2026-07-31T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-07T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-12T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -768,14 +768,14 @@
       "id_proyecto": "3322",
       "fecha_inicio_clickup": "2026-08-26T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-18T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-24T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-09-24T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3307",
       "fecha_inicio_clickup": "2026-08-03T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-27T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-19T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -789,7 +789,7 @@
       "id_proyecto": "3294",
       "fecha_inicio_clickup": "2026-08-10T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-19T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-08-21T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-08-20T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -803,21 +803,21 @@
       "id_proyecto": "3284",
       "fecha_inicio_clickup": "2026-08-18T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-27T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-09-21T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3282",
       "fecha_inicio_clickup": "2026-07-31T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3283",
       "fecha_inicio_clickup": "2026-08-03T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-26T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -831,7 +831,7 @@
       "id_proyecto": "3273",
       "fecha_inicio_clickup": "2026-07-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-04T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-10T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-09-11T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -852,7 +852,7 @@
       "id_proyecto": "3270",
       "fecha_inicio_clickup": "2026-09-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-20T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-10-12T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -866,14 +866,14 @@
       "id_proyecto": "3267",
       "fecha_inicio_clickup": "2026-07-02T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-11T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-07-07T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3264",
       "fecha_inicio_clickup": "2026-08-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-17T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-14T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-09-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -908,28 +908,28 @@
       "id_proyecto": "3257",
       "fecha_inicio_clickup": "2026-09-24T10:00:00.000Z",
       "fecha_fin_clickup": "2027-01-04T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2027-01-26T10:00:00.000Z",
       "desarrollador": "Orlando Ruben De La Rosa"
     },
     {
       "id_proyecto": "3215",
       "fecha_inicio_clickup": "2026-06-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-12T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-08-03T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3256",
       "fecha_inicio_clickup": "2026-07-28T10:00:00.000Z",
       "fecha_fin_clickup": "2026-08-11T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-08-20T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-08-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3254",
       "fecha_inicio_clickup": "2026-08-19T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-15T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-09-23T06:00:00.000Z",
+      "fecha_envio_cliente": "2026-09-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -943,14 +943,14 @@
       "id_proyecto": "3251",
       "fecha_inicio_clickup": "2026-06-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-25T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3250",
       "fecha_inicio_clickup": "2026-10-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-25T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-26T11:00:00.000Z",
+      "fecha_envio_cliente": "2026-11-27T10:00:00.000Z",
       "desarrollador": "Jairo Jahir Chavarria Maldonado"
     },
     {
@@ -992,7 +992,7 @@
       "id_proyecto": "3242",
       "fecha_inicio_clickup": "2026-06-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-07-01T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-07-02T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-07-01T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1013,7 +1013,7 @@
       "id_proyecto": "3238",
       "fecha_inicio_clickup": "2026-06-18T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-24T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1027,7 +1027,7 @@
       "id_proyecto": "3235",
       "fecha_inicio_clickup": "2026-06-03T06:00:00.000Z",
       "fecha_fin_clickup": "2026-06-15T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1041,28 +1041,28 @@
       "id_proyecto": "3233",
       "fecha_inicio_clickup": "2026-06-01T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-04T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3232",
       "fecha_inicio_clickup": "2026-06-02T06:00:00.000Z",
       "fecha_fin_clickup": "2026-06-11T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-04T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3230",
       "fecha_inicio_clickup": "2026-05-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-09T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-06-26T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-06-02T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3229",
       "fecha_inicio_clickup": "2026-09-04T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-17T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-09-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1076,21 +1076,21 @@
       "id_proyecto": "3227",
       "fecha_inicio_clickup": "2026-05-25T06:00:00.000Z",
       "fecha_fin_clickup": "2026-06-12T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-04T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3226",
       "fecha_inicio_clickup": "2026-06-15T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3225",
       "fecha_inicio_clickup": "2026-07-08T10:00:00.000Z",
       "fecha_fin_clickup": "2026-07-21T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-07-24T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-07-22T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1104,14 +1104,14 @@
       "id_proyecto": "3223",
       "fecha_inicio_clickup": "2026-05-28T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-08T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-29T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3222",
       "fecha_inicio_clickup": "2026-07-01T06:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-09-17T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -1125,7 +1125,7 @@
       "id_proyecto": "3220",
       "fecha_inicio_clickup": "2026-05-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-29T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-22T06:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1139,21 +1139,21 @@
       "id_proyecto": "3218",
       "fecha_inicio_clickup": "2026-05-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3216",
       "fecha_inicio_clickup": "2026-05-15T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-27T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-19T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3214",
       "fecha_inicio_clickup": "2026-05-19T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-05-25T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-05-20T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1174,14 +1174,14 @@
       "id_proyecto": "3212",
       "fecha_inicio_clickup": "2026-05-18T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-20T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-21T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3207",
       "fecha_inicio_clickup": "2026-05-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-01T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1195,28 +1195,28 @@
       "id_proyecto": "3203",
       "fecha_inicio_clickup": "2026-11-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-19T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-11-20T10:00:00.000Z",
       "desarrollador": "José Carlos Valdez"
     },
     {
       "id_proyecto": "3201",
       "fecha_inicio_clickup": "2026-02-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-06-26T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3200",
       "fecha_inicio_clickup": "2026-06-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-12T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-12T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3199",
       "fecha_inicio_clickup": "2026-05-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-06T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-07T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1230,14 +1230,14 @@
       "id_proyecto": "3196",
       "fecha_inicio_clickup": "2026-05-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-18T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-19T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3197",
       "fecha_inicio_clickup": "2026-06-08T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-25T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1265,7 +1265,7 @@
       "id_proyecto": "3192",
       "fecha_inicio_clickup": "2026-05-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-29T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-29T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1314,7 +1314,7 @@
       "id_proyecto": "3180",
       "fecha_inicio_clickup": "2026-05-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-14T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1342,7 +1342,7 @@
       "id_proyecto": "3172",
       "fecha_inicio_clickup": "2026-05-12T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-05-13T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -1356,14 +1356,14 @@
       "id_proyecto": "3159",
       "fecha_inicio_clickup": "2026-10-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-10T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-11T15:09:22.247Z",
+      "fecha_envio_cliente": "2026-11-12T10:00:00.000Z",
       "desarrollador": "Jesus Hervey Moreno"
     },
     {
       "id_proyecto": "3166",
       "fecha_inicio_clickup": "2026-04-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-22T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-27T06:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1377,35 +1377,35 @@
       "id_proyecto": "3158",
       "fecha_inicio_clickup": "2026-04-22T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-24T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3157",
       "fecha_inicio_clickup": "2026-05-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-22T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3156",
       "fecha_inicio_clickup": "2026-04-10T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-07T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-07T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3154",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-04-27T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3151",
       "fecha_inicio_clickup": "2026-03-26T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-31T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1419,14 +1419,14 @@
       "id_proyecto": "3149",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-06-26T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3148",
       "fecha_inicio_clickup": "2026-08-31T10:00:00.000Z",
       "fecha_fin_clickup": "2026-09-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-09-02T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1440,49 +1440,49 @@
       "id_proyecto": "3142",
       "fecha_inicio_clickup": "2026-03-24T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-07T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-14T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3140",
       "fecha_inicio_clickup": "2026-03-30T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-17T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-07T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3065",
       "fecha_inicio_clickup": "2026-03-17T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3137",
       "fecha_inicio_clickup": "2026-04-14T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-23T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-29T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-04-28T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3136",
       "fecha_inicio_clickup": "2026-06-08T10:00:00.000Z",
       "fecha_fin_clickup": "2026-06-12T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-06-16T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3135",
       "fecha_inicio_clickup": "2026-04-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-11T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-12T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3134",
       "fecha_inicio_clickup": "2026-04-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-13T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1496,42 +1496,42 @@
       "id_proyecto": "3132",
       "fecha_inicio_clickup": "2026-03-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-30T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-30T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3130",
       "fecha_inicio_clickup": "2026-03-11T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3129",
       "fecha_inicio_clickup": "2026-04-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-08T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-08T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3128",
       "fecha_inicio_clickup": "2026-04-13T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-15T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-15T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3127",
       "fecha_inicio_clickup": "2026-08-10T10:00:00.000Z",
       "fecha_fin_clickup": "2026-10-13T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-03T15:11:00.000Z",
+      "fecha_envio_cliente": "2026-10-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3125",
       "fecha_inicio_clickup": "2026-03-25T06:00:00.000Z",
       "fecha_fin_clickup": "2026-03-27T06:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-31T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1545,7 +1545,7 @@
       "id_proyecto": "3121",
       "fecha_inicio_clickup": "2026-03-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-09T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1594,42 +1594,42 @@
       "id_proyecto": "3113",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3112",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-05-05T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3109",
       "fecha_inicio_clickup": "2026-03-03T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-06T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-09T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3108",
       "fecha_inicio_clickup": "2026-04-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-09T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-10T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3089",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-04-10T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3106",
       "fecha_inicio_clickup": "2026-02-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-04T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-02T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1643,63 +1643,63 @@
       "id_proyecto": "3100",
       "fecha_inicio_clickup": "2026-04-01T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-01T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3099",
       "fecha_inicio_clickup": "2026-04-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-06T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-10T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3098",
       "fecha_inicio_clickup": "2026-03-11T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-24T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-24T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3094",
       "fecha_inicio_clickup": "2026-02-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-04T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-06T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3091",
       "fecha_inicio_clickup": "2026-04-13T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-13T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-10-06T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3090",
       "fecha_inicio_clickup": "2026-02-13T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-04T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-18T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3088",
       "fecha_inicio_clickup": "2026-02-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-17T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-12T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3086",
       "fecha_inicio_clickup": "2026-03-18T06:00:00.000Z",
       "fecha_fin_clickup": "2026-04-16T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-01T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3083",
       "fecha_inicio_clickup": "2026-04-27T06:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-06T06:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1720,112 +1720,112 @@
       "id_proyecto": "3080",
       "fecha_inicio_clickup": "2026-02-24T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-05T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3051",
       "fecha_inicio_clickup": "2026-01-08T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-13T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-04T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-01-13T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2992",
       "fecha_inicio_clickup": "2026-02-25T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2989",
       "fecha_inicio_clickup": "2026-02-25T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2993",
       "fecha_inicio_clickup": "2026-01-29T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3074",
       "fecha_inicio_clickup": "2026-01-26T10:00:00.000Z",
       "fecha_fin_clickup": "2026-01-26T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3055",
       "fecha_inicio_clickup": "2026-02-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-29T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-20T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3072",
       "fecha_inicio_clickup": "2026-01-29T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-20T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-06T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3068",
       "fecha_inicio_clickup": "2026-02-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3069",
       "fecha_inicio_clickup": "2026-01-21T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-09T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-09T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-02-06T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3067",
       "fecha_inicio_clickup": "2026-02-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-04T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-12T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-11T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3064",
       "fecha_inicio_clickup": "2026-01-23T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-06T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-26T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3062",
       "fecha_inicio_clickup": "2026-01-19T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-09T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-26T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3060",
       "fecha_inicio_clickup": "2026-01-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-04T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-06T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-01-09T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3057",
       "fecha_inicio_clickup": "2026-04-14T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3054",
       "fecha_inicio_clickup": "2026-02-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-24T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1839,63 +1839,63 @@
       "id_proyecto": "2963",
       "fecha_inicio_clickup": "2026-02-04T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-13T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-27T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2672",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2661",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2660",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2423",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3003",
       "fecha_inicio_clickup": "2026-01-01T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-09T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3052",
       "fecha_inicio_clickup": "2026-01-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-06T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3025",
       "fecha_inicio_clickup": "2025-12-04T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2025-12-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2996",
       "fecha_inicio_clickup": "2025-12-30T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-04T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-02T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1923,7 +1923,7 @@
       "id_proyecto": "3045",
       "fecha_inicio_clickup": "2025-12-22T10:00:00.000Z",
       "fecha_fin_clickup": "2026-01-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-01-21T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -1937,49 +1937,49 @@
       "id_proyecto": "3038",
       "fecha_inicio_clickup": "2026-04-28T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-15T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3040",
       "fecha_inicio_clickup": "2026-03-20T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-25T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-03-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3039",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-12-03T10:00:00.000Z",
       "desarrollador": "Jesus Hervey Moreno"
     },
     {
       "id_proyecto": "3037",
       "fecha_inicio_clickup": "2026-01-05T10:00:00.000Z",
       "fecha_fin_clickup": "2026-01-08T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-08T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3036",
       "fecha_inicio_clickup": "2025-12-22T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-01-05T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3034",
       "fecha_inicio_clickup": "2026-02-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-24T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-02-16T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3031",
       "fecha_inicio_clickup": "2025-12-05T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-10T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-12T10:00:00.000Z",
+      "fecha_envio_cliente": "2025-12-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -1993,7 +1993,7 @@
       "id_proyecto": "3027",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2026-02-25T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-09T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2014,14 +2014,14 @@
       "id_proyecto": "3023",
       "fecha_inicio_clickup": "2025-12-04T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-16T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": "2025-12-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3022",
       "fecha_inicio_clickup": "2026-01-27T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-29T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2035,7 +2035,7 @@
       "id_proyecto": "3020",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2026-02-06T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-06T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2049,7 +2049,7 @@
       "id_proyecto": "3009",
       "fecha_inicio_clickup": "2026-11-17T06:00:00.000Z",
       "fecha_fin_clickup": "2026-11-23T06:00:00.000Z",
-      "fecha_envio_cliente": "2026-11-24T11:00:00.000Z",
+      "fecha_envio_cliente": "2026-11-26T10:00:00.000Z",
       "desarrollador": "Jesus Hervey Moreno"
     },
     {
@@ -2063,42 +2063,42 @@
       "id_proyecto": "3018",
       "fecha_inicio_clickup": "2026-03-04T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-10T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-03-12T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-03-11T06:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3006",
       "fecha_inicio_clickup": "2025-12-12T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-10T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-01-30T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3017",
       "fecha_inicio_clickup": "2026-02-11T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-23T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-24T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3016",
       "fecha_inicio_clickup": "2026-02-25T10:00:00.000Z",
       "fecha_fin_clickup": "2026-03-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-04-13T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-04-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3011",
       "fecha_inicio_clickup": "2025-11-18T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-23T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-26T10:00:00.000Z",
+      "fecha_envio_cliente": "2025-12-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "3012",
       "fecha_inicio_clickup": "2025-11-18T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-19T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-22T10:00:00.000Z",
+      "fecha_envio_cliente": "2025-12-19T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2112,7 +2112,7 @@
       "id_proyecto": "3005",
       "fecha_inicio_clickup": "2025-11-19T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-09T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-23T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2126,14 +2126,14 @@
       "id_proyecto": "2798",
       "fecha_inicio_clickup": "2025-11-11T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-21T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-11T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "3000",
       "fecha_inicio_clickup": "2025-11-10T10:00:00.000Z",
       "fecha_fin_clickup": "2026-02-04T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2025-11-25T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2147,7 +2147,7 @@
       "id_proyecto": "2998",
       "fecha_inicio_clickup": "2025-11-24T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-03T10:00:00.000Z",
+      "fecha_envio_cliente": "2025-12-02T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2168,14 +2168,14 @@
       "id_proyecto": "2979",
       "fecha_inicio_clickup": "2025-11-05T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-07T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2982",
       "fecha_inicio_clickup": "2025-10-29T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-24T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-08T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2189,14 +2189,14 @@
       "id_proyecto": "2843",
       "fecha_inicio_clickup": "2025-10-13T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-17T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-10-20T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2376",
       "fecha_inicio_clickup": "2025-10-06T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-08T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-20T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2210,7 +2210,7 @@
       "id_proyecto": "2967",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2231,7 +2231,7 @@
       "id_proyecto": "2950",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2026-02-11T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-02-11T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2259,14 +2259,14 @@
       "id_proyecto": "2942",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-12-04T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2933",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2280,7 +2280,7 @@
       "id_proyecto": "2920",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2294,28 +2294,28 @@
       "id_proyecto": "2902",
       "fecha_inicio_clickup": "2026-03-10T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-14T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-22T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2897",
       "fecha_inicio_clickup": "2025-11-11T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-21T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-11T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2879",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2863",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2329,28 +2329,28 @@
       "id_proyecto": "2839",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2746",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2725",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2697",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2378,21 +2378,21 @@
       "id_proyecto": "2880",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2964",
       "fecha_inicio_clickup": "2026-05-06T10:00:00.000Z",
       "fecha_fin_clickup": "2026-05-13T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-05-15T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2962",
       "fecha_inicio_clickup": "2025-09-29T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-22T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-10-20T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2413,7 +2413,7 @@
       "id_proyecto": "2951",
       "fecha_inicio_clickup": "2025-10-02T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-09T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-10-20T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2434,14 +2434,14 @@
       "id_proyecto": "2943",
       "fecha_inicio_clickup": "2025-09-01T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-24T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-09-02T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2940",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2455,7 +2455,7 @@
       "id_proyecto": "2923",
       "fecha_inicio_clickup": "2026-04-13T10:00:00.000Z",
       "fecha_fin_clickup": "2026-04-24T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-04-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2490,7 +2490,7 @@
       "id_proyecto": "2891",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2504,7 +2504,7 @@
       "id_proyecto": "2876",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2546,7 +2546,7 @@
       "id_proyecto": "2841",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-01T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2567,7 +2567,7 @@
       "id_proyecto": "2822",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2595,49 +2595,49 @@
       "id_proyecto": "2805",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2765",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2750",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2742",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2741",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2734",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2713",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2672,7 +2672,7 @@
       "id_proyecto": "2928",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-03-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2686,7 +2686,7 @@
       "id_proyecto": "2944",
       "fecha_inicio_clickup": "2026-01-08T10:00:00.000Z",
       "fecha_fin_clickup": "2026-01-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-01-14T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-01-12T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2700,7 +2700,7 @@
       "id_proyecto": "2939",
       "fecha_inicio_clickup": "2025-08-26T10:00:00.000Z",
       "fecha_fin_clickup": "2025-09-01T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2025-12-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2714,7 +2714,7 @@
       "id_proyecto": "2806",
       "fecha_inicio_clickup": "2025-08-26T10:00:00.000Z",
       "fecha_fin_clickup": "2025-09-01T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-29T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2735,7 +2735,7 @@
       "id_proyecto": "2930",
       "fecha_inicio_clickup": "2025-09-02T10:00:00.000Z",
       "fecha_fin_clickup": "2025-09-10T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-09-09T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2749,7 +2749,7 @@
       "id_proyecto": "2926",
       "fecha_inicio_clickup": "2025-08-19T10:00:00.000Z",
       "fecha_fin_clickup": "2025-08-20T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-21T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2770,42 +2770,42 @@
       "id_proyecto": "2925",
       "fecha_inicio_clickup": "2025-12-09T10:00:00.000Z",
       "fecha_fin_clickup": "2026-01-07T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2026-01-05T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2900",
       "fecha_inicio_clickup": "2025-08-26T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-14T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-19T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2917",
       "fecha_inicio_clickup": "2025-08-04T10:00:00.000Z",
       "fecha_fin_clickup": "2025-09-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-09-03T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2918",
       "fecha_inicio_clickup": "2025-09-05T10:00:00.000Z",
       "fecha_fin_clickup": "2025-09-17T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-09-18T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2906",
       "fecha_inicio_clickup": "2025-07-31T10:00:00.000Z",
       "fecha_fin_clickup": "2025-08-07T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-11T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2837",
       "fecha_inicio_clickup": "2025-06-02T10:00:00.000Z",
       "fecha_fin_clickup": "2025-08-30T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2826,28 +2826,28 @@
       "id_proyecto": "2877",
       "fecha_inicio_clickup": "2025-11-05T10:00:00.000Z",
       "fecha_fin_clickup": "2025-11-19T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2025-11-19T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2875",
       "fecha_inicio_clickup": "2025-05-13T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-10-01T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2870",
       "fecha_inicio_clickup": "2025-05-13T10:00:00.000Z",
       "fecha_fin_clickup": "2025-05-26T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-05-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2874",
       "fecha_inicio_clickup": "2025-05-06T10:00:00.000Z",
       "fecha_fin_clickup": "2025-06-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-06-16T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2861,7 +2861,7 @@
       "id_proyecto": "2873",
       "fecha_inicio_clickup": "2025-11-26T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-10T10:00:00.000Z",
-      "fecha_envio_cliente": null,
+      "fecha_envio_cliente": "2025-12-10T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2875,7 +2875,7 @@
       "id_proyecto": "2868",
       "fecha_inicio_clickup": "2025-04-25T10:00:00.000Z",
       "fecha_fin_clickup": "2025-05-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-05-13T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2889,14 +2889,14 @@
       "id_proyecto": "2854",
       "fecha_inicio_clickup": "2025-04-23T10:00:00.000Z",
       "fecha_fin_clickup": "2025-06-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-06-30T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2851",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-04-30T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2917,14 +2917,14 @@
       "id_proyecto": "2859",
       "fecha_inicio_clickup": "2025-10-15T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-29T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-03T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2856",
       "fecha_inicio_clickup": "2025-07-16T10:00:00.000Z",
       "fecha_fin_clickup": "2025-07-28T10:00:00.000Z",
-      "fecha_envio_cliente": "2026-02-04T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-01-27T10:00:00.000Z",
       "desarrollador": null
     },
     {
@@ -2938,7 +2938,7 @@
       "id_proyecto": "2846",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2025-04-11T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-04-14T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -2973,14 +2973,14 @@
       "id_proyecto": "2824",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-08-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2819",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-08-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3001,28 +3001,28 @@
       "id_proyecto": "2833",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-01-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2827",
       "fecha_inicio_clickup": "2025-10-13T10:00:00.000Z",
       "fecha_fin_clickup": "2025-12-03T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-12-10T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2834",
       "fecha_inicio_clickup": "2025-03-10T10:00:00.000Z",
       "fecha_fin_clickup": "2025-04-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-04-10T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2789",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2025-06-19T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-10-01T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3043,14 +3043,14 @@
       "id_proyecto": "2779",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2025-11-03T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2831",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2025-02-27T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-03-03T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3064,28 +3064,28 @@
       "id_proyecto": "2717",
       "fecha_inicio_clickup": "2025-06-16T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-02-27T10:00:00.000Z",
+      "fecha_envio_cliente": "2026-04-24T10:00:00.000Z",
       "desarrollador": null
     },
     {
       "id_proyecto": "2743",
       "fecha_inicio_clickup": "2025-10-06T10:00:00.000Z",
       "fecha_fin_clickup": null,
-      "fecha_envio_cliente": "2026-02-24T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2770",
       "fecha_inicio_clickup": null,
       "fecha_fin_clickup": "2025-03-21T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-27T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2794",
       "fecha_inicio_clickup": "2025-03-20T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-10T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-05-05T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3099,14 +3099,14 @@
       "id_proyecto": "2731",
       "fecha_inicio_clickup": "2025-08-20T10:00:00.000Z",
       "fecha_fin_clickup": "2025-10-31T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-11-07T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
       "id_proyecto": "2799",
       "fecha_inicio_clickup": "2025-02-17T10:00:00.000Z",
       "fecha_fin_clickup": "2025-04-02T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-10-01T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3120,7 +3120,7 @@
       "id_proyecto": "2818",
       "fecha_inicio_clickup": "2025-02-10T10:00:00.000Z",
       "fecha_fin_clickup": "2025-03-12T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-03-14T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     },
     {
@@ -3134,7 +3134,7 @@
       "id_proyecto": "2795",
       "fecha_inicio_clickup": "2025-07-14T10:00:00.000Z",
       "fecha_fin_clickup": "2025-08-20T10:00:00.000Z",
-      "fecha_envio_cliente": "2025-08-28T10:00:00.000Z",
+      "fecha_envio_cliente": null,
       "desarrollador": null
     }
   ],
