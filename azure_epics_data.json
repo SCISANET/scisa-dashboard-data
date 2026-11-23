@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:00:17.231Z",
+  "generated_at": "2026-11-23T18:00:12.185Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -438,8 +438,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 7,
-          "pct_progreso": 78,
+          "hijos_cerrados": 8,
+          "pct_progreso": 89,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/11958"
         },
         {
@@ -474,8 +474,8 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
           "total_hijos": 22,
-          "hijos_cerrados": 10,
-          "pct_progreso": 45,
+          "hijos_cerrados": 11,
+          "pct_progreso": 50,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
@@ -3414,6 +3414,18 @@
           "hijos_cerrados": 8,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12236"
+        },
+        {
+          "id": 12508,
+          "titulo": "LTS v.4.0.Z",
+          "estado": "New",
+          "fecha_inicio": "2026-11-23",
+          "fecha_objetivo": "2026-11-27",
+          "asignado": null,
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12508"
         }
       ]
     },
