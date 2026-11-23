@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:00:27.915Z",
+  "generated_at": "2026-11-23T22:00:30.628Z",
   "clickup_tasks": [
     {
       "id": "17tq1aefk7u",
@@ -178,7 +178,7 @@
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794909600000,
-      "dias_sin_actualizar": 2,
+      "dias_sin_actualizar": 3,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aefbtf",
       "desarrollador_real": null
@@ -1457,7 +1457,7 @@
       ],
       "due_date_ms": 1795082400000,
       "date_updated_ms": 1794823200000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 4,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeb6tv",
       "desarrollador_real": null
@@ -1706,7 +1706,7 @@
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 4,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aeb161",
       "desarrollador_real": null
@@ -3726,7 +3726,7 @@
       ],
       "due_date_ms": 1796983200000,
       "date_updated_ms": 1795514400000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 4,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae3qpn",
       "desarrollador_real": "Jesury Guadalupe García Gómez"
@@ -4049,7 +4049,7 @@
       ],
       "due_date_ms": 1796032800000,
       "date_updated_ms": 1791799200000,
-      "dias_sin_actualizar": 9,
+      "dias_sin_actualizar": 10,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae0p96",
       "desarrollador_real": "Gael Flores Cantu"
@@ -4543,7 +4543,7 @@
       ],
       "due_date_ms": 1792749600000,
       "date_updated_ms": 1790330400000,
-      "dias_sin_actualizar": 27,
+      "dias_sin_actualizar": 28,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1adxu0a",
       "desarrollador_real": null
@@ -4757,7 +4757,7 @@
       ],
       "due_date_ms": 1795514400000,
       "date_updated_ms": 1791972000000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 4,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1adx4ee",
       "desarrollador_real": "Astrid Ovalle"
@@ -4853,7 +4853,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670219409,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86akkknp7",
       "desarrollador_real": null
@@ -6269,7 +6269,7 @@
       ],
       "due_date_ms": 1806487200000,
       "date_updated_ms": 1788170400000,
-      "dias_sin_actualizar": 2,
+      "dias_sin_actualizar": 3,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ak8mwmj",
       "desarrollador_real": null
@@ -6865,7 +6865,7 @@
       ],
       "due_date_ms": 1795600800000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 2,
+      "dias_sin_actualizar": 3,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajxxfhe",
       "desarrollador_real": "Jesús Hilario Martínez"
@@ -7190,7 +7190,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1786096800000,
-      "dias_sin_actualizar": 100,
+      "dias_sin_actualizar": 101,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajw1et4",
       "desarrollador_real": null
@@ -8233,7 +8233,7 @@
       ],
       "due_date_ms": 1795600800000,
       "date_updated_ms": 1793268000000,
-      "dias_sin_actualizar": 25,
+      "dias_sin_actualizar": 26,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj3znya",
       "desarrollador_real": "Jairo Jahir Chavarria Maldonado"
@@ -8423,7 +8423,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1786743335099,
-      "dias_sin_actualizar": 100,
+      "dias_sin_actualizar": 101,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj31ne4",
       "desarrollador_real": null
@@ -8780,7 +8780,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1779703200000,
-      "dias_sin_actualizar": 167,
+      "dias_sin_actualizar": 168,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ahmgvgk",
       "desarrollador_real": null
@@ -10223,7 +10223,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1776884729645,
-      "dias_sin_actualizar": 214,
+      "dias_sin_actualizar": 215,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86agx2enq",
       "desarrollador_real": null
@@ -13911,7 +13911,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1776276910995,
-      "dias_sin_actualizar": 221,
+      "dias_sin_actualizar": 222,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86abfy4zk",
       "desarrollador_real": null
@@ -17601,7 +17601,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1783332000000,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajf471b",
       "desarrollador_real": null
@@ -17617,7 +17617,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670204648,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj8ww3q",
       "desarrollador_real": null
@@ -17633,7 +17633,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670204648,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj61jf2",
       "desarrollador_real": null
@@ -17649,7 +17649,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1767348000000,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aeakrdq",
       "desarrollador_real": null
@@ -27903,10 +27903,10 @@
     },
     {
       "empleado": "14",
-      "total_horas": 2963.93,
-      "num_registros": 5660,
+      "total_horas": 2973.3,
+      "num_registros": 5686,
       "promedio_horas_registro": 0.52,
-      "pct_descripciones_unicas": 89.72,
+      "pct_descripciones_unicas": 89.75,
       "top_descripciones_repetidas": [
         {
           "desc": "Generar licencia y registrar - Asesoft",
@@ -27929,7 +27929,7 @@
         "2024-11": 41,
         "2025-06": 75.75,
         "2026-01": 61.75,
-        "2026-11": 48.83,
+        "2026-11": 58.2,
         "2026-12": 9,
         "2024-06": 39.1,
         "2023-06": 67,
@@ -30291,10 +30291,10 @@
     },
     {
       "empleado": "110",
-      "total_horas": 6740,
-      "num_registros": 3268,
+      "total_horas": 6743.5,
+      "num_registros": 3271,
       "promedio_horas_registro": 2.06,
-      "pct_descripciones_unicas": 26.9,
+      "pct_descripciones_unicas": 26.96,
       "top_descripciones_repetidas": [
         {
           "desc": "Junta diaria",
@@ -30335,7 +30335,7 @@
         "2025-03": 161,
         "2025-06": 169.75,
         "2024-09": 174.5,
-        "2026-11": 125.25,
+        "2026-11": 128.75,
         "2024-07": 187,
         "2023-12": 157,
         "2023-01": 10,
@@ -30867,10 +30867,10 @@
     },
     {
       "empleado": "122",
-      "total_horas": 5040.25,
-      "num_registros": 1638,
-      "promedio_horas_registro": 3.08,
-      "pct_descripciones_unicas": 56.29,
+      "total_horas": 5053.25,
+      "num_registros": 1649,
+      "promedio_horas_registro": 3.06,
+      "pct_descripciones_unicas": 56.09,
       "top_descripciones_repetidas": [
         {
           "desc": "Meetup R&D",
@@ -30878,11 +30878,11 @@
         },
         {
           "desc": "Daily meet",
-          "count": 73
+          "count": 78
         },
         {
           "desc": "Producto PLD",
-          "count": 28
+          "count": 29
         }
       ],
       "por_mes": {
@@ -30900,7 +30900,7 @@
         "2025-05": 220,
         "2025-04": 220,
         "2025-07": 230,
-        "2026-11": 135.75,
+        "2026-11": 148.75,
         "2025-03": 210,
         "2026-03": 198,
         "2026-12": 9,
@@ -31709,10 +31709,10 @@
     },
     {
       "empleado": "E23",
-      "total_horas": 243.75,
-      "num_registros": 96,
-      "promedio_horas_registro": 2.54,
-      "pct_descripciones_unicas": 36.46,
+      "total_horas": 252.5,
+      "num_registros": 100,
+      "promedio_horas_registro": 2.53,
+      "pct_descripciones_unicas": 38,
       "top_descripciones_repetidas": [
         {
           "desc": "#12238 | Consulta al servicio de Listas SIPRELAD al buscar una persona",
@@ -31729,7 +31729,7 @@
       ],
       "por_mes": {
         "2026-10": 120,
-        "2026-11": 114.75,
+        "2026-11": 123.5,
         "2026-12": 9
       }
     },
@@ -31761,14 +31761,14 @@
     },
     {
       "empleado": "E25",
-      "total_horas": 193.25,
-      "num_registros": 71,
-      "promedio_horas_registro": 2.72,
-      "pct_descripciones_unicas": 56.34,
+      "total_horas": 198.25,
+      "num_registros": 76,
+      "promedio_horas_registro": 2.61,
+      "pct_descripciones_unicas": 52.63,
       "top_descripciones_repetidas": [
         {
           "desc": "Daily meet",
-          "count": 14
+          "count": 19
         },
         {
           "desc": "Rediseñar el seed de Identity",
@@ -31781,7 +31781,7 @@
       ],
       "por_mes": {
         "2026-12": 9,
-        "2026-11": 136,
+        "2026-11": 141,
         "2026-10": 48.25
       }
     },
@@ -34263,7 +34263,7 @@
     {
       "id_proyecto": "3465",
       "categoria": "ANL",
-      "horas": 112.75,
+      "horas": 113.75,
       "clickup_match": null
     },
     {
@@ -35001,7 +35001,7 @@
     {
       "id_proyecto": "3295",
       "categoria": "OFI",
-      "horas": 282,
+      "horas": 283,
       "clickup_match": null
     },
     {
@@ -35613,7 +35613,7 @@
     {
       "id_proyecto": "3503",
       "categoria": "TST",
-      "horas": 2,
+      "horas": 2.33,
       "clickup_match": null
     },
     {
@@ -36325,6 +36325,12 @@
       "clickup_match": null
     },
     {
+      "id_proyecto": "3467",
+      "categoria": "TST",
+      "horas": 4.75,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "3066",
       "categoria": "ADM",
       "horas": 1,
@@ -36903,7 +36909,7 @@
     {
       "id_proyecto": "No aplica",
       "categoria": "No aplica",
-      "horas": 41689.85,
+      "horas": 41690.85,
       "clickup_match": null
     },
     {
@@ -38079,7 +38085,7 @@
     {
       "id_proyecto": "3319",
       "categoria": "OTR",
-      "horas": 32.5,
+      "horas": 32.75,
       "clickup_match": null
     },
     {
@@ -38134,6 +38140,12 @@
       "id_proyecto": "3256",
       "categoria": "ANL",
       "horas": 20.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3321",
+      "categoria": "ANL",
+      "horas": 0.25,
       "clickup_match": null
     },
     {
@@ -39123,7 +39135,7 @@
     {
       "id_proyecto": "3461",
       "categoria": "DEV",
-      "horas": 0.5,
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -43995,7 +44007,7 @@
     {
       "id_proyecto": "3304",
       "categoria": "OTR",
-      "horas": 170.67,
+      "horas": 171.97,
       "clickup_match": null
     },
     {
@@ -45093,7 +45105,7 @@
     {
       "id_proyecto": "3237",
       "categoria": "ANL",
-      "horas": 580.25,
+      "horas": 583.75,
       "clickup_match": null
     },
     {
@@ -48723,7 +48735,7 @@
     {
       "id_proyecto": "No aplica",
       "categoria": "DOC",
-      "horas": 2407.95,
+      "horas": 2408.45,
       "clickup_match": null
     },
     {
@@ -48909,7 +48921,7 @@
     {
       "id_proyecto": "3465",
       "categoria": "IMP",
-      "horas": 70.5,
+      "horas": 76,
       "clickup_match": null
     },
     {
@@ -49107,7 +49119,7 @@
     {
       "id_proyecto": "3356",
       "categoria": "OTR",
-      "horas": 406.87,
+      "horas": 407.53,
       "clickup_match": null
     },
     {
@@ -49401,7 +49413,7 @@
     {
       "id_proyecto": "3300",
       "categoria": "CCI",
-      "horas": 48,
+      "horas": 50.25,
       "clickup_match": null
     },
     {
@@ -52287,7 +52299,7 @@
     {
       "id_proyecto": "3460",
       "categoria": "DEV",
-      "horas": 0.58,
+      "horas": 0.83,
       "clickup_match": null
     },
     {
@@ -54675,7 +54687,7 @@
     {
       "id_proyecto": "3332",
       "categoria": "ADM",
-      "horas": 542.25,
+      "horas": 552.75,
       "clickup_match": null
     },
     {
@@ -55336,6 +55348,12 @@
       "id_proyecto": "2315",
       "categoria": "DOC",
       "horas": 7.17,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3486",
+      "categoria": "CCI",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -57819,7 +57837,7 @@
     {
       "id_proyecto": "3321",
       "categoria": "ADM",
-      "horas": 83,
+      "horas": 85.73,
       "clickup_match": null
     },
     {
@@ -58353,7 +58371,7 @@
     {
       "id_proyecto": "3467",
       "categoria": "DEV",
-      "horas": 122.5,
+      "horas": 123.25,
       "clickup_match": null
     },
     {
@@ -58899,7 +58917,7 @@
     {
       "id_proyecto": "No aplica",
       "categoria": "SOP",
-      "horas": 47169.3,
+      "horas": 47170.88,
       "clickup_match": null
     },
     {
@@ -59601,14 +59619,14 @@
     },
     {
       "cliente": "AFIRME",
-      "total_horas": 1972.78,
+      "total_horas": 1976.28,
       "por_mes": {
         "2026-06": 34.33,
         "2026-07": 127.25,
         "2026-08": 96.42,
         "2026-09": 563.67,
         "2026-10": 638.33,
-        "2026-11": 512.78
+        "2026-11": 516.28
       }
     },
     {
@@ -60922,7 +60940,7 @@
     },
     {
       "cliente": "CORRUGADOS DE BAJA CALIFORNIA",
-      "total_horas": 156.25,
+      "total_horas": 156.58,
       "por_mes": {
         "2023-01": 2.33,
         "2023-02": 2.25,
@@ -60967,7 +60985,7 @@
         "2026-08": 0.5,
         "2026-09": 0.5,
         "2026-10": 1.08,
-        "2026-11": 3
+        "2026-11": 3.33
       }
     },
     {
@@ -61867,7 +61885,7 @@
     },
     {
       "cliente": "KEYENCE MEXICO",
-      "total_horas": 390.23,
+      "total_horas": 391.82,
       "por_mes": {
         "2023-01": 22.33,
         "2023-02": 20.83,
@@ -61915,7 +61933,7 @@
         "2026-08": 2.6,
         "2026-09": 1.08,
         "2026-10": 2.42,
-        "2026-11": 1.33
+        "2026-11": 2.92
       }
     },
     {
@@ -62470,7 +62488,7 @@
     },
     {
       "cliente": "PRODUCTO PLD",
-      "total_horas": 5981.85,
+      "total_horas": 5982.85,
       "por_mes": {
         "2023-07": 14.72,
         "2023-10": 39.02,
@@ -62510,7 +62528,7 @@
         "2026-08": 458.5,
         "2026-09": 478.25,
         "2026-10": 292.25,
-        "2026-11": 153.5
+        "2026-11": 154.5
       }
     },
     {
@@ -62616,7 +62634,7 @@
     },
     {
       "cliente": "QUIMICA Y FARMACIA",
-      "total_horas": 137.63,
+      "total_horas": 138.38,
       "por_mes": {
         "2023-01": 2.75,
         "2023-02": 0.5,
@@ -62657,7 +62675,8 @@
         "2026-06": 1,
         "2026-07": 2.08,
         "2026-09": 3.08,
-        "2026-10": 3.17
+        "2026-10": 3.17,
+        "2026-11": 0.75
       }
     },
     {
@@ -62698,7 +62717,7 @@
     },
     {
       "cliente": "ROTO CRISTALES Y PARTES",
-      "total_horas": 186.33,
+      "total_horas": 186.83,
       "por_mes": {
         "2023-01": 6,
         "2023-02": 1.92,
@@ -62733,12 +62752,12 @@
         "2026-08": 6.5,
         "2026-09": 1.25,
         "2026-10": 0.5,
-        "2026-11": 1.67
+        "2026-11": 2.17
       }
     },
     {
       "cliente": "SCISA",
-      "total_horas": 113172.78,
+      "total_horas": 113199.23,
       "por_mes": {
         "2023-01": 1920.97,
         "2023-02": 1508.77,
@@ -62786,7 +62805,7 @@
         "2026-08": 2399.4,
         "2026-09": 2717.07,
         "2026-10": 2214.43,
-        "2026-11": 2060.13,
+        "2026-11": 2086.58,
         "2026-12": 756
       }
     },
@@ -63276,11 +63295,11 @@
     },
     {
       "cliente": "UNIFAM, SOCAP",
-      "total_horas": 172.83,
+      "total_horas": 178.33,
       "por_mes": {
         "2026-09": 11.75,
         "2026-10": 49,
-        "2026-11": 112.08
+        "2026-11": 117.58
       }
     },
     {
@@ -68482,43 +68501,43 @@
     },
     {
       "fecha": "2026-11-17",
-      "horas": 174.58
+      "horas": 175.08
     },
     {
       "fecha": "2026-11-18",
-      "horas": 180.75
+      "horas": 182.4
     },
     {
       "fecha": "2026-11-19",
-      "horas": 179.92
+      "horas": 181.17
     },
     {
       "fecha": "2026-11-20",
-      "horas": 170.75
+      "horas": 180.3
     },
     {
       "fecha": "2026-11-21",
-      "horas": 2.5
+      "horas": 2.75
     },
     {
       "fecha": "2026-11-23",
-      "horas": 6.5
+      "horas": 24.92
     },
     {
       "fecha": "2026-11-24",
-      "horas": 4
+      "horas": 6
     },
     {
       "fecha": "2026-11-25",
-      "horas": 2
+      "horas": 4
     },
     {
       "fecha": "2026-11-26",
-      "horas": 2
+      "horas": 4
     },
     {
       "fecha": "2026-11-27",
-      "horas": 2
+      "horas": 4
     },
     {
       "fecha": "2026-12-25",
@@ -71044,7 +71063,7 @@
     {
       "empleado": "E23",
       "semana": "2026-W47",
-      "horas": 34.75
+      "horas": 40.5
     },
     {
       "empleado": "91",
@@ -74960,6 +74979,11 @@
       "empleado": "130",
       "semana": "2026-W37",
       "horas": 49.25
+    },
+    {
+      "empleado": "E25",
+      "semana": "2026-W48",
+      "horas": 5
     },
     {
       "empleado": "66",
@@ -90133,6 +90157,11 @@
     },
     {
       "empleado": "122",
+      "semana": "2026-W48",
+      "horas": 13
+    },
+    {
+      "empleado": "122",
       "semana": "2025-W31",
       "horas": 50
     },
@@ -97174,7 +97203,7 @@
     {
       "empleado": "14",
       "semana": "2026-W47",
-      "horas": 15.33
+      "horas": 22.78
     },
     {
       "empleado": "33",
@@ -99205,6 +99234,11 @@
       "empleado": "54",
       "semana": "2023-W02",
       "horas": 47.5
+    },
+    {
+      "empleado": "14",
+      "semana": "2026-W48",
+      "horas": 1.92
     },
     {
       "empleado": "36",
@@ -110942,6 +110976,11 @@
       "horas": 40.75
     },
     {
+      "empleado": "E23",
+      "semana": "2026-W48",
+      "horas": 3
+    },
+    {
       "empleado": "26",
       "semana": "2025-W24",
       "horas": 43
@@ -111659,7 +111698,7 @@
     {
       "empleado": "110",
       "semana": "2026-W48",
-      "horas": 3
+      "horas": 6.5
     },
     {
       "empleado": "20",
@@ -133563,14 +133602,14 @@
       "nombre": "SCISA_03237_Implementación SIGLO/CD.NET",
       "cliente": "AFIRME",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 1284.95,
-      "desviacion": -1284.95,
+      "horas_trabajadas": 1288.45,
+      "desviacion": -1288.45,
       "pct_desviacion": null,
       "categorias_horas": {
         "OTR": 231.42,
         "No aplica": 5.25,
         "PTC": 7.5,
-        "ANL": 580.25,
+        "ANL": 583.75,
         "IMP": 59.5,
         "ADM": 365.53,
         "CCE": 5,
@@ -133578,12 +133617,12 @@
         "DOC": 12.25
       },
       "categorias_pct": {
-        "OTR": 18.01,
+        "OTR": 17.96,
         "No aplica": 0.41,
         "PTC": 0.58,
-        "ANL": 45.16,
-        "IMP": 4.63,
-        "ADM": 28.45,
+        "ANL": 45.31,
+        "IMP": 4.62,
+        "ADM": 28.37,
         "CCE": 0.39,
         "SOP": 1.42,
         "DOC": 0.95
@@ -134834,20 +134873,20 @@
       "nombre": "SCISA_03295_Juntas Mensuales",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 318.25,
-      "desviacion": -318.25,
+      "horas_trabajadas": 319.25,
+      "desviacion": -319.25,
       "pct_desviacion": null,
       "categorias_horas": {
         "OTR": 14.5,
         "SOP": 4.75,
         "ADM": 17,
-        "OFI": 282
+        "OFI": 283
       },
       "categorias_pct": {
-        "OTR": 4.56,
+        "OTR": 4.54,
         "SOP": 1.49,
-        "ADM": 5.34,
-        "OFI": 88.61
+        "ADM": 5.32,
+        "OFI": 88.65
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -134936,12 +134975,12 @@
       "nombre": "SCISA_03300_Operaciones - Sesiones Seguimiento - DevHub",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 1032.65,
-      "desviacion": -1032.65,
+      "horas_trabajadas": 1034.9,
+      "desviacion": -1034.9,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 925.65,
-        "CCI": 48,
+        "CCI": 50.25,
         "OTR": 23.75,
         "PTC": 0.75,
         "ANL": 3.75,
@@ -134950,14 +134989,14 @@
         "OFI": 29
       },
       "categorias_pct": {
-        "ADM": 89.64,
-        "CCI": 4.65,
-        "OTR": 2.3,
+        "ADM": 89.44,
+        "CCI": 4.86,
+        "OTR": 2.29,
         "PTC": 0.07,
         "ANL": 0.36,
-        "No aplica": 0.15,
+        "No aplica": 0.14,
         "DOC": 0.02,
-        "OFI": 2.81
+        "OFI": 2.8
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -135048,16 +135087,16 @@
       "nombre": "SCISA_03304_Operaciones - Traslados hacia/desde la Oficina en Horario Laboral",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 175,
-      "desviacion": -175,
+      "horas_trabajadas": 176.3,
+      "desviacion": -176.3,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 4.33,
-        "OTR": 170.67
+        "OTR": 171.97
       },
       "categorias_pct": {
-        "ADM": 2.47,
-        "OTR": 97.53
+        "ADM": 2.46,
+        "OTR": 97.54
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -135348,16 +135387,16 @@
       "nombre": "SCISA_03319_Mantenimiento de Equipo",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 33.25,
-      "desviacion": -33.25,
+      "horas_trabajadas": 33.5,
+      "desviacion": -33.5,
       "pct_desviacion": null,
       "categorias_horas": {
         "SOP": 0.75,
-        "OTR": 32.5
+        "OTR": 32.75
       },
       "categorias_pct": {
-        "SOP": 2.26,
-        "OTR": 97.74
+        "SOP": 2.24,
+        "OTR": 97.76
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -135394,16 +135433,18 @@
       "nombre": "SCISA_03321_Actividades Administrativas eFact",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 83.5,
-      "desviacion": -83.5,
+      "horas_trabajadas": 86.48,
+      "desviacion": -86.48,
       "pct_desviacion": null,
       "categorias_horas": {
         "OTR": 0.5,
-        "ADM": 83
+        "ANL": 0.25,
+        "ADM": 85.73
       },
       "categorias_pct": {
-        "OTR": 0.6,
-        "ADM": 99.4
+        "OTR": 0.58,
+        "ANL": 0.29,
+        "ADM": 99.13
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -135653,14 +135694,14 @@
       "nombre": "SCISA_03332_Gestion de Innovacion",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 650.25,
-      "desviacion": -650.25,
+      "horas_trabajadas": 660.75,
+      "desviacion": -660.75,
       "pct_desviacion": null,
       "categorias_horas": {
         "PTC": 11.5,
         "DOC": 8,
         "OTR": 0.75,
-        "ADM": 542.25,
+        "ADM": 552.75,
         "No aplica": 10.25,
         "ANL": 52.5,
         "CCI": 21,
@@ -135668,14 +135709,14 @@
         "OFI": 1
       },
       "categorias_pct": {
-        "PTC": 1.77,
-        "DOC": 1.23,
-        "OTR": 0.12,
-        "ADM": 83.39,
-        "No aplica": 1.58,
-        "ANL": 8.07,
-        "CCI": 3.23,
-        "IMP": 0.46,
+        "PTC": 1.74,
+        "DOC": 1.21,
+        "OTR": 0.11,
+        "ADM": 83.65,
+        "No aplica": 1.55,
+        "ANL": 7.95,
+        "CCI": 3.18,
+        "IMP": 0.45,
         "OFI": 0.15
       },
       "status_clickup": null,
@@ -136223,11 +136264,11 @@
       "nombre": "SCISA_03356_Registro de Actividades",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 437.7,
-      "desviacion": -437.7,
+      "horas_trabajadas": 438.37,
+      "desviacion": -438.37,
       "pct_desviacion": null,
       "categorias_horas": {
-        "OTR": 406.87,
+        "OTR": 407.53,
         "OFI": 13.75,
         "No aplica": 1,
         "SOP": 10.75,
@@ -136237,7 +136278,7 @@
         "OTR": 92.96,
         "OFI": 3.14,
         "No aplica": 0.23,
-        "SOP": 2.46,
+        "SOP": 2.45,
         "ADM": 1.22
       },
       "status_clickup": null,
@@ -137412,16 +137453,16 @@
       "nombre": "SCISA_03460_CuentaPredial_Grupo",
       "cliente": "QUIMICA Y FARMACIA",
       "horas_presupuestadas": 6,
-      "horas_trabajadas": 1.08,
-      "desviacion": 4.92,
-      "pct_desviacion": 82,
+      "horas_trabajadas": 1.33,
+      "desviacion": 4.67,
+      "pct_desviacion": 77.83,
       "categorias_horas": {
         "ANL": 0.5,
-        "DEV": 0.58
+        "DEV": 0.83
       },
       "categorias_pct": {
-        "ANL": 46.3,
-        "DEV": 53.7
+        "ANL": 37.59,
+        "DEV": 62.41
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -137433,18 +137474,18 @@
       "nombre": "SCISA_03461_InformacionGlobal_Quifa",
       "cliente": "QUIMICA Y FARMACIA",
       "horas_presupuestadas": 5,
-      "horas_trabajadas": 2.25,
-      "desviacion": 2.75,
-      "pct_desviacion": 55,
+      "horas_trabajadas": 2.75,
+      "desviacion": 2.25,
+      "pct_desviacion": 45,
       "categorias_horas": {
         "ANL": 0.5,
-        "DEV": 0.5,
+        "DEV": 1,
         "TST": 1.25
       },
       "categorias_pct": {
-        "ANL": 22.22,
-        "DEV": 22.22,
-        "TST": 55.56
+        "ANL": 18.18,
+        "DEV": 36.36,
+        "TST": 45.45
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -137500,14 +137541,14 @@
       "nombre": "SCISA_03465_Mejoras al Identity",
       "cliente": "SCISA",
       "horas_presupuestadas": 544,
-      "horas_trabajadas": 331.5,
-      "desviacion": 212.5,
-      "pct_desviacion": 39.06,
+      "horas_trabajadas": 338,
+      "desviacion": 206,
+      "pct_desviacion": 37.87,
       "categorias_horas": {
-        "IMP": 70.5,
+        "IMP": 76,
         "SOP": 97.5,
         "TST": 3.5,
-        "ANL": 112.75,
+        "ANL": 113.75,
         "No aplica": 22,
         "OTR": 0.75,
         "ADM": 5.75,
@@ -137516,16 +137557,16 @@
         "CCI": 8
       },
       "categorias_pct": {
-        "IMP": 21.27,
-        "SOP": 29.41,
-        "TST": 1.06,
-        "ANL": 34.01,
-        "No aplica": 6.64,
-        "OTR": 0.23,
-        "ADM": 1.73,
-        "DEV": 2.49,
-        "DOC": 0.75,
-        "CCI": 2.41
+        "IMP": 22.49,
+        "SOP": 28.85,
+        "TST": 1.04,
+        "ANL": 33.65,
+        "No aplica": 6.51,
+        "OTR": 0.22,
+        "ADM": 1.7,
+        "DEV": 2.44,
+        "DOC": 0.74,
+        "CCI": 2.37
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -137537,20 +137578,22 @@
       "nombre": "SCISA_03467_Nuevo Proveedor de Listas Negras SIPRELAD",
       "cliente": "UNIFAM, SOCAP",
       "horas_presupuestadas": 170,
-      "horas_trabajadas": 143.25,
-      "desviacion": 26.75,
-      "pct_desviacion": 15.74,
+      "horas_trabajadas": 148.75,
+      "desviacion": 21.25,
+      "pct_desviacion": 12.5,
       "categorias_horas": {
         "ANL": 13,
+        "TST": 4.75,
         "PTC": 2.75,
-        "DEV": 122.5,
+        "DEV": 123.25,
         "ADM": 5
       },
       "categorias_pct": {
-        "ANL": 9.08,
-        "PTC": 1.92,
-        "DEV": 85.51,
-        "ADM": 3.49
+        "ANL": 8.74,
+        "TST": 3.19,
+        "PTC": 1.85,
+        "DEV": 82.86,
+        "ADM": 3.36
       },
       "status_clickup": "en desarrollo",
       "due_date_ms": 1795428000000,
@@ -137982,20 +138025,22 @@
       "nombre": "SCISA_03486_Webhook para Onboarding de Clientes a PLD",
       "cliente": "PRODUCTO PLD",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 103,
-      "desviacion": -103,
+      "horas_trabajadas": 104,
+      "desviacion": -104,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 1,
         "No aplica": 1,
         "IMP": 1.5,
-        "ANL": 99.5
+        "ANL": 99.5,
+        "CCI": 1
       },
       "categorias_pct": {
-        "ADM": 0.97,
-        "No aplica": 0.97,
-        "IMP": 1.46,
-        "ANL": 96.6
+        "ADM": 0.96,
+        "No aplica": 0.96,
+        "IMP": 1.44,
+        "ANL": 95.67,
+        "CCI": 0.96
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -138249,18 +138294,18 @@
       "nombre": "SCISA_03503_MontarProyectoWS2019_Corrugados",
       "cliente": "CORRUGADOS DE BAJA CALIFORNIA",
       "horas_presupuestadas": 2,
-      "horas_trabajadas": 3.08,
-      "desviacion": -1.08,
-      "pct_desviacion": -54,
+      "horas_trabajadas": 3.42,
+      "desviacion": -1.42,
+      "pct_desviacion": -71,
       "categorias_horas": {
         "ANL": 0.58,
-        "TST": 2,
+        "TST": 2.33,
         "DEV": 0.5
       },
       "categorias_pct": {
-        "ANL": 18.83,
-        "TST": 64.94,
-        "DEV": 16.23
+        "ANL": 16.96,
+        "TST": 68.13,
+        "DEV": 14.62
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -140963,32 +141008,32 @@
       "nombre": null,
       "cliente": "KEYENCE MEXICO",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 336.65,
-      "desviacion": -336.65,
+      "horas_trabajadas": 338.23,
+      "desviacion": -338.23,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 1,
         "ADV": 1,
         "ANL": 9,
         "DEV": 28.17,
-        "DOC": 6.25,
+        "DOC": 6.75,
         "IMP": 3.5,
         "No aplica": 20.3,
         "OTR": 12.5,
-        "SOP": 224.68,
+        "SOP": 225.77,
         "TST": 30.25
       },
       "categorias_pct": {
         "ADM": 0.3,
         "ADV": 0.3,
-        "ANL": 2.67,
-        "DEV": 8.37,
-        "DOC": 1.86,
-        "IMP": 1.04,
-        "No aplica": 6.03,
-        "OTR": 3.71,
-        "SOP": 66.74,
-        "TST": 8.99
+        "ANL": 2.66,
+        "DEV": 8.33,
+        "DOC": 2,
+        "IMP": 1.03,
+        "No aplica": 6,
+        "OTR": 3.7,
+        "SOP": 66.75,
+        "TST": 8.94
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -141822,8 +141867,8 @@
       "nombre": null,
       "cliente": "ROTO CRISTALES Y PARTES",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 168.75,
-      "desviacion": -168.75,
+      "horas_trabajadas": 169.25,
+      "desviacion": -169.25,
       "pct_desviacion": null,
       "categorias_horas": {
         "ANL": 1.75,
@@ -141831,17 +141876,17 @@
         "IMP": 1.33,
         "No aplica": 22.25,
         "OTR": 4.5,
-        "SOP": 121.08,
+        "SOP": 121.58,
         "TST": 5.25
       },
       "categorias_pct": {
-        "ANL": 1.04,
-        "DEV": 7.45,
+        "ANL": 1.03,
+        "DEV": 7.43,
         "IMP": 0.79,
-        "No aplica": 13.19,
-        "OTR": 2.67,
-        "SOP": 71.75,
-        "TST": 3.11
+        "No aplica": 13.15,
+        "OTR": 2.66,
+        "SOP": 71.83,
+        "TST": 3.1
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -141853,8 +141898,8 @@
       "nombre": null,
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 82362.88,
-      "desviacion": -82362.88,
+      "horas_trabajadas": 82363.88,
+      "desviacion": -82363.88,
       "pct_desviacion": null,
       "categorias_horas": {
         "ACO": 9.75,
@@ -141866,7 +141911,7 @@
         "DEV": 5184.9,
         "DOC": 1054.22,
         "IMP": 218.68,
-        "No aplica": 39846.93,
+        "No aplica": 39847.93,
         "OFI": 2428.22,
         "OTR": 9431.18,
         "PTC": 29.5,
