@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:00:13.547Z",
+  "generated_at": "2026-11-23T15:00:17.265Z",
   "epics": [
     {
       "epic_id": 170,
@@ -13277,9 +13277,9 @@
           "id": 12415,
           "titulo": "[RF-00] - Documentación",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Committed",
           "fecha_inicio": "2026-11-18",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-21",
           "fecha_objetivo": "2026-11-23",
           "asignado": "Eduar Hernandez",
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12415"
