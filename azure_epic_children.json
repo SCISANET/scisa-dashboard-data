@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:00:14.781Z",
+  "generated_at": "2026-11-24T15:00:16.558Z",
   "epics": [
     {
       "epic_id": 170,
@@ -13645,6 +13645,17 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12416"
         },
         {
+          "id": 12484,
+          "titulo": "Enviar ClientCode vacío a PLD cuando el cliente no tenga Id Cliente Akala",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-20",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12484"
+        },
+        {
           "id": 12517,
           "titulo": "Bloquear completar y liquidar operaciones de clientes con localidad desactivada (Bug SC-956)",
           "tipo": "Bug",
@@ -14107,11 +14118,11 @@
       "hijos": [
         {
           "id": 12519,
-          "titulo": "Mejoras Jobs",
+          "titulo": "Búsqueda de clientes por nombre completo no regresa resultados",
           "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-11-23",
-          "fecha_fin": null,
+          "estado": "Done",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-23",
           "asignado": "Brandon Ruiz",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12519"
