@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:00:16.558Z",
+  "generated_at": "2026-11-24T22:00:16.392Z",
   "epics": [
     {
       "epic_id": 170,
@@ -10922,7 +10922,7 @@
           "id": 11967,
           "titulo": "[RF-00] Documentación",
           "tipo": "Feature",
-          "estado": "New",
+          "estado": "Done",
           "fecha_inicio": "2026-10-24",
           "fecha_fin": null,
           "fecha_objetivo": "2026-10-23",
@@ -11449,6 +11449,17 @@
           "fecha_objetivo": "2026-11-19",
           "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12425"
+        },
+        {
+          "id": 12522,
+          "titulo": "SIGLONET - Versión 3.12.108-fix: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "tipo": "Feature",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12522"
         }
       ]
     },
@@ -11721,8 +11732,8 @@
           "id": 11904,
           "titulo": "Versionamiento de BD",
           "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-09-25",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
           "fecha_fin": null,
           "fecha_objetivo": "2026-09-25",
           "asignado": "Emilio Graterol",
@@ -12065,9 +12076,9 @@
           "id": 12280,
           "titulo": "[BUG] Deal de AFIRME muestra leyendas correspondientes a Mifel",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-10-29",
-          "fecha_fin": "2026-11-23",
+          "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-14",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12280"
@@ -12330,9 +12341,9 @@
           "id": 12516,
           "titulo": "Error al notificar que una persona no fue encontrada",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-23",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-23",
           "asignado": "Enrique Chávez",
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12516"
@@ -13648,9 +13659,9 @@
           "id": 12484,
           "titulo": "Enviar ClientCode vacío a PLD cuando el cliente no tenga Id Cliente Akala",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-23",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12484"
@@ -13663,8 +13674,19 @@
           "fecha_inicio": "2026-11-23",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
-          "asignado": "Andy Roberto Mesta Gonzalez",
+          "asignado": "Astrid Ovalle",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12517"
+        },
+        {
+          "id": 12526,
+          "titulo": "Cuando se edita una dirección solo se deben mostrar los activos y de los inactivos solamente del que fue guardado.",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-25",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12526"
         }
       ]
     },
@@ -13726,6 +13748,17 @@
           "fecha_objetivo": "2026-11-23",
           "asignado": "Neidy Hernandez",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12493"
+        },
+        {
+          "id": 12525,
+          "titulo": "Las referencias de banco en el extranjero no aparecen en el Concepto ni en la factura al autorizar la operación",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Angel Doria Moncada",
+          "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12525"
         }
       ]
     },
@@ -14081,7 +14114,7 @@
           "id": 12496,
           "titulo": "[RF-01]-Generación MT300 de compras en “por Confirmar”",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-23",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-26",
