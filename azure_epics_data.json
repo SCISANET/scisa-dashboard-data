@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:00:14.737Z",
+  "generated_at": "2026-11-24T15:00:16.507Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1825,9 +1825,9 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 7,
+          "total_hijos": 8,
           "hijos_cerrados": 6,
-          "pct_progreso": 86,
+          "pct_progreso": 75,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12440"
         },
         {
@@ -2887,13 +2887,13 @@
         {
           "id": 12518,
           "titulo": "V.4.11.8",
-          "estado": "New",
+          "estado": "Done",
           "fecha_inicio": "2026-11-23",
           "fecha_objetivo": "2026-11-23",
           "asignado": "Jesury Garcia",
           "total_hijos": 1,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 1,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12518"
         }
       ]
