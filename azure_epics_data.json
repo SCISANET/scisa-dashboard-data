@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:00:13.443Z",
+  "generated_at": "2026-11-24T00:00:14.737Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -462,8 +462,8 @@
           "fecha_objetivo": "2027-03-31",
           "asignado": "Alejandro Martinez",
           "total_hijos": 2,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 1,
+          "pct_progreso": 50,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12158"
         },
         {
@@ -1825,9 +1825,9 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 6,
+          "total_hijos": 7,
           "hijos_cerrados": 6,
-          "pct_progreso": 100,
+          "pct_progreso": 86,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12440"
         },
         {
@@ -2875,7 +2875,7 @@
         {
           "id": 12502,
           "titulo": "V.4.11.7",
-          "estado": "New",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Jesury Garcia",
@@ -2883,6 +2883,18 @@
           "hijos_cerrados": 1,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12502"
+        },
+        {
+          "id": 12518,
+          "titulo": "V.4.11.8",
+          "estado": "New",
+          "fecha_inicio": "2026-11-23",
+          "fecha_objetivo": "2026-11-23",
+          "asignado": "Jesury Garcia",
+          "total_hijos": 1,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12518"
         }
       ]
     },
