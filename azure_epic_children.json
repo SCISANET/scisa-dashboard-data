@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:00:13.483Z",
+  "generated_at": "2026-11-24T00:00:14.781Z",
   "epics": [
     {
       "epic_id": 170,
@@ -11732,7 +11732,7 @@
           "id": 12160,
           "titulo": "Ofuscacion de BD",
           "tipo": "Feature",
-          "estado": "Pending Review",
+          "estado": "Done",
           "fecha_inicio": "2026-11-02",
           "fecha_fin": null,
           "fecha_objetivo": "2026-10-23",
@@ -11810,9 +11810,9 @@
           "id": 12137,
           "titulo": "[RF-07] - Investigación y diagnóstico de no generación de alerta de Entrada y Salida Rápida de Recursos SPID",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-10-21",
-          "fecha_fin": "2026-10-29",
+          "fecha_fin": "2026-11-23",
           "fecha_objetivo": "2026-10-23",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12137"
@@ -13643,6 +13643,17 @@
           "fecha_objetivo": "2026-11-18",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12416"
+        },
+        {
+          "id": 12517,
+          "titulo": "Bloquear completar y liquidar operaciones de clientes con localidad desactivada (Bug SC-956)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12517"
         }
       ]
     },
@@ -14089,6 +14100,23 @@
       "epic_id": 12508,
       "proyecto_azure": "SCISA SIGLO PLDNet",
       "hijos": []
+    },
+    {
+      "epic_id": 12518,
+      "proyecto_azure": "PLDNet Bancrea",
+      "hijos": [
+        {
+          "id": 12519,
+          "titulo": "Mejoras Jobs",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-23",
+          "asignado": "Brandon Ruiz",
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12519"
+        }
+      ]
     }
   ],
   "notas": [
