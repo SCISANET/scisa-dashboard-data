@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:00:16.507Z",
+  "generated_at": "2026-11-24T22:00:16.206Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -433,13 +433,13 @@
         {
           "id": 11958,
           "titulo": "SCISA_03375_Precios",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-09",
           "fecha_objetivo": "2026-11-24",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 8,
-          "pct_progreso": 89,
+          "hijos_cerrados": 9,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/11958"
         },
         {
@@ -646,9 +646,9 @@
           "fecha_inicio": "2026-10-06",
           "fecha_objetivo": "2026-12-01",
           "asignado": "Gael Flores",
-          "total_hijos": 5,
+          "total_hijos": 6,
           "hijos_cerrados": 4,
-          "pct_progreso": 80,
+          "pct_progreso": 67,
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12030"
         },
         {
@@ -1569,8 +1569,8 @@
           "fecha_objetivo": "2026-11-30",
           "asignado": "Hervey Moreno",
           "total_hijos": 1,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 1,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANCREA_GIT/_workitems/edit/12495"
         }
       ]
@@ -1825,9 +1825,9 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 8,
-          "hijos_cerrados": 6,
-          "pct_progreso": 75,
+          "total_hijos": 9,
+          "hijos_cerrados": 7,
+          "pct_progreso": 78,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12440"
         },
         {
@@ -2646,7 +2646,7 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Antonio Pequeño",
-          "total_hijos": 5,
+          "total_hijos": 6,
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12441"
@@ -3423,8 +3423,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Enrique Chávez",
           "total_hijos": 9,
-          "hijos_cerrados": 8,
-          "pct_progreso": 89,
+          "hijos_cerrados": 9,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/SCISA%20SIGLO%20PLDNet/_workitems/edit/12236"
         },
         {
