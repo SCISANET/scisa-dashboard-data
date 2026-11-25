@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:45:57.073Z",
+  "generated_at": "2026-11-25T18:00:12.450Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1564,8 +1564,8 @@
         {
           "id": 12495,
           "titulo": "SCISA_03039",
-          "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "estado": "Pending Review",
+          "fecha_inicio": "2026-11-25",
           "fecha_objetivo": "2026-11-30",
           "asignado": "Hervey Moreno",
           "total_hijos": 1,
@@ -3149,8 +3149,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "total_hijos": 5,
-          "hijos_cerrados": 4,
-          "pct_progreso": 80,
+          "hijos_cerrados": 5,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12248"
         },
         {
@@ -3164,6 +3164,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12442"
+        },
+        {
+          "id": 12537,
+          "titulo": "v2.13.4",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-25",
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "total_hijos": 4,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12537"
         }
       ]
     },
