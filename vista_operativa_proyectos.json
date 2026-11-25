@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:00:07.355Z",
+  "generated_at": "2026-11-25T18:00:07.348Z",
   "proyectos": [
     {
       "id_proyecto": "3537",
@@ -503,7 +503,7 @@
       "fecha_inicio_clickup": "2026-11-17T10:00:00.000Z",
       "fecha_fin_clickup": "2026-11-17T10:00:00.000Z",
       "fecha_envio_cliente": null,
-      "desarrollador": null
+      "desarrollador": "Emiliano Celestino"
     },
     {
       "id_proyecto": "3391",
