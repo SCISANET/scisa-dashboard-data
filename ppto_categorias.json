@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:10:47.965Z",
+  "generated_at": "2026-11-25T16:52:30.000Z",
   "proyectos": [
     {
       "proj_code": "SCISA_00000",
@@ -1560,7 +1560,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_02977",
@@ -1584,7 +1584,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_02982",
@@ -3388,7 +3388,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_03217",
@@ -4583,7 +4583,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_03362",
@@ -4684,7 +4684,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive solo contiene la presentación de Kickoff, sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final'."
     },
     {
       "proj_code": "SCISA_03371",
@@ -5534,7 +5534,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_03478",
@@ -5542,7 +5542,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "se encontró carpeta/documento del proyecto en Drive pero sin Google Sheet de Plan de Trabajo con pestaña 'Estimación Final' accesible"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_03479",
@@ -5600,7 +5600,7 @@
       "doc_url": null,
       "categorias": {},
       "total": 0,
-      "nota": "no existe (carpeta de proyecto sin Plan de Trabajo localizado)"
+      "nota": "Carpeta 'Plan de Trabajo' en Drive existe pero está vacía: nunca se subió el PT."
     },
     {
       "proj_code": "SCISA_03488",
