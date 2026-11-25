@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:00:12.450Z",
+  "generated_at": "2026-11-25T21:32:33.952Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -473,9 +473,9 @@
           "fecha_inicio": "2026-11-11",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
-          "total_hijos": 22,
-          "hijos_cerrados": 14,
-          "pct_progreso": 64,
+          "total_hijos": 24,
+          "hijos_cerrados": 15,
+          "pct_progreso": 63,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
@@ -486,8 +486,8 @@
           "fecha_objetivo": "2027-01-29",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 2,
-          "pct_progreso": 22,
+          "hijos_cerrados": 3,
+          "pct_progreso": 33,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12285"
         }
       ]
@@ -3173,8 +3173,8 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "total_hijos": 4,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 2,
+          "pct_progreso": 50,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12537"
         }
       ]
