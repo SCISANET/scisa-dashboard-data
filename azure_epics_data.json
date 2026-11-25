@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:00:12.322Z",
+  "generated_at": "2026-11-25T15:45:57.073Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -474,8 +474,8 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
           "total_hijos": 22,
-          "hijos_cerrados": 13,
-          "pct_progreso": 59,
+          "hijos_cerrados": 14,
+          "pct_progreso": 64,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
@@ -1825,9 +1825,9 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 9,
-          "hijos_cerrados": 7,
-          "pct_progreso": 78,
+          "total_hijos": 6,
+          "hijos_cerrados": 6,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12440"
         },
         {
@@ -1877,6 +1877,18 @@
           "hijos_cerrados": 5,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12450"
+        },
+        {
+          "id": 12536,
+          "titulo": "V.1.1.8",
+          "estado": "New",
+          "fecha_inicio": "2026-11-25",
+          "fecha_objetivo": "2026-12-04",
+          "asignado": null,
+          "total_hijos": 3,
+          "hijos_cerrados": 1,
+          "pct_progreso": 33,
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12536"
         }
       ]
     },
@@ -2863,8 +2875,8 @@
         {
           "id": 12464,
           "titulo": "SCISA_03483",
-          "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-25",
           "fecha_objetivo": "2026-12-11",
           "asignado": "Jesury Garcia",
           "total_hijos": 8,
@@ -2907,6 +2919,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12528"
+        },
+        {
+          "id": 12533,
+          "titulo": "V4.11.5",
+          "estado": "New",
+          "fecha_inicio": "2026-11-25",
+          "fecha_objetivo": "2026-11-25",
+          "asignado": null,
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12533"
         }
       ]
     },
@@ -3132,7 +3156,7 @@
         {
           "id": 12442,
           "titulo": "SCISA_03313_Creación de Pipelines",
-          "estado": "In Progress",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-27",
           "asignado": "Mauricio Gonzalez",
