@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:00:12.481Z",
+  "generated_at": "2026-11-25T21:32:33.978Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12076,7 +12076,7 @@
           "id": 12280,
           "titulo": "[BUG] Deal de AFIRME muestra leyendas correspondientes a Mifel",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-25",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-14",
@@ -12214,6 +12214,28 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12497"
+        },
+        {
+          "id": 12541,
+          "titulo": "[SOLICITUD] SIGLONET - Homologar colores de la Confirmación de Operación y de la Facturación de Operaciones con el logo de AFIRME",
+          "tipo": "Task",
+          "estado": "Completed",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Michelle Ramirez",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12541"
+        },
+        {
+          "id": 12542,
+          "titulo": "[BUG] SIGLONET - FML Banco en el Extranjero no captura Motivo de pago ni Ref. Motivo de pago como Siglo Web",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Monica Barajas",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12542"
         }
       ]
     },
@@ -12579,9 +12601,9 @@
           "id": 12292,
           "titulo": "[OPT] - Operaciones - Bloquear Consulta de Operaciones mientras Completar Operación está cargando o abierta",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Committed",
           "fecha_inicio": "2026-11-06",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-07",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12292"
@@ -13720,7 +13742,7 @@
           "id": 12493,
           "titulo": "Error en archivo de cierre contable",
           "tipo": "Bug",
-          "estado": "New",
+          "estado": "Pending Review",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-23",
@@ -13984,7 +14006,7 @@
           "estado": "In Progress",
           "fecha_inicio": "2026-11-24",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-11-25",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12465"
         },
@@ -13993,9 +14015,9 @@
           "titulo": "[RF-02] - Creación del Proceso - Homologación automatizada y notificación del Catálogo de Transacciones / Productos",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-11-25",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-11-26",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12466"
         },
@@ -14004,9 +14026,9 @@
           "titulo": "[RF-03] - Creación del proceso - Homologación automatizada del Catálogo de Sucursales",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-11-26",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-11-30",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12467"
         },
@@ -14015,9 +14037,9 @@
           "titulo": "[RF-04] - Manejo de errores y bitácora de ejecución",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-11-30",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-12-01",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12468"
         },
@@ -14026,9 +14048,9 @@
           "titulo": "[RF-05] - Generación de formato de Correo - Alta correcta",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-12-01",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-12-02",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12469"
         },
@@ -14037,9 +14059,9 @@
           "titulo": "[RF-06] - Generación de formato de Correos - Notificación de Error",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-12-02",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-12-03",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12471"
         },
@@ -14048,9 +14070,9 @@
           "titulo": "[RF-07] - Nueva Tarea - Ejecución de procesos “Centralización de Catálogos”",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-12-03",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-12-11",
+          "fecha_objetivo": "2026-12-07",
           "asignado": "Jesury Garcia",
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12472"
         },
@@ -14059,7 +14081,7 @@
           "titulo": "[RF-00] - Documentación",
           "tipo": "Feature",
           "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "fecha_inicio": "2026-12-07",
           "fecha_fin": null,
           "fecha_objetivo": "2026-12-11",
           "asignado": "Jesury Garcia",
@@ -14219,22 +14241,22 @@
           "id": 12500,
           "titulo": "CORPLD-12679 (No genera alerta con operaciones que cumplen los parámetros - RF-03)",
           "tipo": "Bug",
-          "estado": "New",
+          "estado": "Committed",
           "fecha_inicio": "2026-11-20",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-27",
-          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12500"
         },
         {
           "id": 12501,
           "titulo": "CORPLD-12680 (Genera alerta para PM sin cumplir el mínimo de 20 operaciones USD - RF-03)",
           "tipo": "Bug",
-          "estado": "New",
+          "estado": "Committed",
           "fecha_inicio": "2026-11-20",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-27",
-          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12501"
         }
       ]
