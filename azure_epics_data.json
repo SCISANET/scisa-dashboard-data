@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:00:16.206Z",
+  "generated_at": "2026-11-25T00:00:12.322Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -474,20 +474,20 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Michelle Ramirez",
           "total_hijos": 22,
-          "hijos_cerrados": 11,
-          "pct_progreso": 50,
+          "hijos_cerrados": 13,
+          "pct_progreso": 59,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12224"
         },
         {
           "id": 12285,
           "titulo": "SCISA_03510",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-30",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
           "fecha_objetivo": "2027-01-29",
           "asignado": "José Celestino",
-          "total_hijos": 8,
-          "hijos_cerrados": 1,
-          "pct_progreso": 13,
+          "total_hijos": 9,
+          "hijos_cerrados": 2,
+          "pct_progreso": 22,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12285"
         }
       ]
@@ -2895,6 +2895,18 @@
           "hijos_cerrados": 1,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12518"
+        },
+        {
+          "id": 12528,
+          "titulo": "V.4.11.4",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-24",
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "Jesury Garcia",
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12528"
         }
       ]
     },
