@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:00:16.392Z",
+  "generated_at": "2026-11-25T00:00:12.354Z",
   "epics": [
     {
       "epic_id": 170,
@@ -3811,10 +3811,10 @@
           "id": 9924,
           "titulo": "Modulo de Liquidación Vencimiento Hoy - Reingeneria Inicio de dia.",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2025-12-03",
           "fecha_fin": "2026-01-19",
-          "fecha_objetivo": null,
+          "fecha_objetivo": "2026-05-18",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/9924"
         },
@@ -3822,7 +3822,7 @@
           "id": 9926,
           "titulo": "Servicios Web - Modificación de componentes de Vencimiento Hoy",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-02-12",
           "fecha_fin": "2026-02-13",
           "fecha_objetivo": "2026-02-11",
@@ -4236,10 +4236,10 @@
           "id": 10104,
           "titulo": "V1.0.10.20260319",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-03-04",
           "fecha_fin": "2026-03-06",
-          "fecha_objetivo": null,
+          "fecha_objetivo": "2026-06-12",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/10104"
         }
@@ -5282,10 +5282,10 @@
           "id": 10326,
           "titulo": "V3.0.1.11",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-03-24",
           "fecha_fin": "2026-03-25",
-          "fecha_objetivo": null,
+          "fecha_objetivo": "2026-06-12",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/10326"
         }
@@ -5958,7 +5958,7 @@
           "id": 10532,
           "titulo": "[SERVICIOS] - Replicar monitoreo en interfaces 360T / TradeAir",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-04-10",
           "fecha_fin": "2026-05-07",
           "fecha_objetivo": "2026-04-24",
@@ -5969,7 +5969,7 @@
           "id": 10545,
           "titulo": "[SERVICIOS] - Reprocesamiento de Horario Extendido - Monitoreo New Relic",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-04-10",
           "fecha_fin": "2026-05-07",
           "fecha_objetivo": "2026-04-23",
@@ -5980,7 +5980,7 @@
           "id": 10556,
           "titulo": "[SERVICIOS] - Procesamiento Kondor - Monitoreo New Relic",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-04-10",
           "fecha_fin": "2026-04-24",
           "fecha_objetivo": "2026-04-23",
@@ -7910,7 +7910,7 @@
           "id": 11229,
           "titulo": "[RF-01] Habilitación de forma de liquidación Cheque USD-MEX para producto 05-Docs Div México.",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-06-19",
           "fecha_fin": "2026-06-23",
           "fecha_objetivo": "2026-06-18",
@@ -7921,7 +7921,7 @@
           "id": 11230,
           "titulo": "[RF-02] - Disponibilidad de la forma de liquidación “Cheque USD-MEX” en campo Pago",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-06-22",
           "fecha_fin": "2026-06-23",
           "fecha_objetivo": "2026-06-19",
@@ -12054,7 +12054,7 @@
           "id": 12232,
           "titulo": "[RF-00] - SIGLONET - Documentación",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-24",
@@ -12208,9 +12208,9 @@
           "id": 12497,
           "titulo": "[SCISA_03385] - SIGLONET - Pruebas e2e de Clave Única",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12497"
@@ -12596,6 +12596,17 @@
           "fecha_objetivo": "2026-11-07",
           "asignado": "Angel Doria Moncada",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12294"
+        },
+        {
+          "id": 12521,
+          "titulo": "Error «Referencia a objeto no establecida como instancia de un objeto» al iniciar sesión en SIGLONET",
+          "tipo": "Bug",
+          "estado": "Committed",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": "2026-11-24",
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "José Celestino",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12521"
         }
       ]
     },
@@ -14003,7 +14014,7 @@
           "id": 12465,
           "titulo": "[RF-01] - Creación del proceso - Homologación automatizada del Catálogo de Ciudades",
           "tipo": "Feature",
-          "estado": "New",
+          "estado": "In Progress",
           "fecha_inicio": "2026-11-24",
           "fecha_fin": null,
           "fecha_objetivo": "2026-12-11",
@@ -14161,6 +14172,11 @@
           "url": "https://dev.azure.com/scisa/PLDNet%20Bancrea/_workitems/edit/12519"
         }
       ]
+    },
+    {
+      "epic_id": 12528,
+      "proyecto_azure": "PLDNet Bancrea",
+      "hijos": []
     }
   ],
   "notas": [
