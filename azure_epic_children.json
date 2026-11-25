@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:45:57.107Z",
+  "generated_at": "2026-11-25T18:00:12.481Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12076,9 +12076,9 @@
           "id": 12280,
           "titulo": "[BUG] Deal de AFIRME muestra leyendas correspondientes a Mifel",
           "tipo": "Bug",
-          "estado": "Done",
-          "fecha_inicio": "2026-10-29",
-          "fecha_fin": "2026-11-24",
+          "estado": "Committed",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-14",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12280"
@@ -12402,9 +12402,9 @@
           "id": 12269,
           "titulo": "[RF-00] - Documentación",
           "tipo": "Feature",
-          "estado": "To Do",
-          "fecha_inicio": "2026-10-29",
-          "fecha_fin": null,
+          "estado": "Done",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12269"
@@ -13731,8 +13731,8 @@
           "id": 12525,
           "titulo": "Las referencias de banco en el extranjero no aparecen en el Concepto ni en la factura al autorizar la operación",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-24",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-25",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
           "asignado": "Angel Doria Moncada",
@@ -14186,6 +14186,56 @@
           "fecha_objetivo": "2026-11-25",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12526"
+        }
+      ]
+    },
+    {
+      "epic_id": 12537,
+      "proyecto_azure": "PLDNET_Actinver",
+      "hijos": [
+        {
+          "id": 12498,
+          "titulo": "CORPLD-12052 (No genera alarma al cumplir los parámetros - RF-02)",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12498"
+        },
+        {
+          "id": 12499,
+          "titulo": "CORPLD-12170 (No genera alerta al cumplir los parámetros - RF-05)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12499"
+        },
+        {
+          "id": 12500,
+          "titulo": "CORPLD-12679 (No genera alerta con operaciones que cumplen los parámetros - RF-03)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12500"
+        },
+        {
+          "id": 12501,
+          "titulo": "CORPLD-12680 (Genera alerta para PM sin cumplir el mínimo de 20 operaciones USD - RF-03)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-20",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12501"
         }
       ]
     }
