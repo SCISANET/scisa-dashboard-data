@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:00:12.354Z",
+  "generated_at": "2026-11-25T15:45:57.107Z",
   "epics": [
     {
       "epic_id": 170,
@@ -11458,7 +11458,7 @@
           "fecha_inicio": "2026-11-24",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-24",
-          "asignado": "Gael Flores",
+          "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12522"
         }
       ]
@@ -12120,9 +12120,9 @@
           "id": 12385,
           "titulo": "[BUG] SIGLONET Mantiene validación de autorización 72/96H al cambiar fecha valor 48H",
           "tipo": "Bug",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-19",
-          "fecha_fin": null,
+          "estado": "Committed",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Axel Miguel Arcos Guerrero",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12385"
@@ -12601,7 +12601,7 @@
           "id": 12521,
           "titulo": "Error «Referencia a objeto no establecida como instancia de un objeto» al iniciar sesión en SIGLONET",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-24",
           "fecha_fin": "2026-11-24",
           "fecha_objetivo": "2026-11-24",
@@ -13656,17 +13656,6 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11441"
         },
         {
-          "id": 12416,
-          "titulo": "Manejo de países, ciudades y estados desactivados en direcciones",
-          "tipo": "Bug",
-          "estado": "Done",
-          "fecha_inicio": "2026-11-13",
-          "fecha_fin": "2026-11-19",
-          "fecha_objetivo": "2026-11-18",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12416"
-        },
-        {
           "id": 12484,
           "titulo": "Enviar ClientCode vacío a PLD cuando el cliente no tenga Id Cliente Akala",
           "tipo": "Bug",
@@ -13676,28 +13665,6 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12484"
-        },
-        {
-          "id": 12517,
-          "titulo": "Bloquear completar y liquidar operaciones de clientes con localidad desactivada (Bug SC-956)",
-          "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-23",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-27",
-          "asignado": "Astrid Ovalle",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12517"
-        },
-        {
-          "id": 12526,
-          "titulo": "Cuando se edita una dirección solo se deben mostrar los activos y de los inactivos solamente del que fue guardado.",
-          "tipo": "Bug",
-          "estado": "In Progress",
-          "fecha_inicio": "2026-11-24",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-11-25",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12526"
         }
       ]
     },
@@ -13781,9 +13748,9 @@
           "id": 12443,
           "titulo": "Pipeline PLDNET",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-18",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Mauricio Gonzalez",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12443"
@@ -14177,6 +14144,50 @@
       "epic_id": 12528,
       "proyecto_azure": "PLDNet Bancrea",
       "hijos": []
+    },
+    {
+      "epic_id": 12533,
+      "proyecto_azure": "PLDNet Bancrea",
+      "hijos": []
+    },
+    {
+      "epic_id": 12536,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "hijos": [
+        {
+          "id": 12416,
+          "titulo": "Manejo de países, ciudades y estados desactivados en direcciones",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-13",
+          "fecha_fin": "2026-11-19",
+          "fecha_objetivo": "2026-11-18",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12416"
+        },
+        {
+          "id": 12517,
+          "titulo": "Bloquear completar y liquidar operaciones de clientes con localidad desactivada (Bug SC-956)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-23",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Astrid Ovalle",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12517"
+        },
+        {
+          "id": 12526,
+          "titulo": "Cuando se edita una dirección solo se deben mostrar los activos y de los inactivos solamente del que fue guardado.",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-25",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12526"
+        }
+      ]
     }
   ],
   "notas": [
