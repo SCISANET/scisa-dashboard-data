@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:32:53.567Z",
+  "generated_at": "2026-11-25T21:37:44.884Z",
   "clickup_tasks": [
     {
       "id": "17tq1aefk7u",
@@ -7191,7 +7191,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1786096800000,
-      "dias_sin_actualizar": 102,
+      "dias_sin_actualizar": 103,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajw1et4",
       "desarrollador_real": null
@@ -8424,7 +8424,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1786743335099,
-      "dias_sin_actualizar": 102,
+      "dias_sin_actualizar": 103,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj31ne4",
       "desarrollador_real": null
