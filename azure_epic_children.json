@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:00:10.887Z",
+  "generated_at": "2026-11-26T22:00:13.180Z",
   "epics": [
     {
       "epic_id": 170,
@@ -11460,6 +11460,17 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12522"
+        },
+        {
+          "id": 12553,
+          "titulo": "BBFX - Versión 2.4.14: Integración y Resolución de Errores No Bloqueantes Postproducción",
+          "tipo": "Feature",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-26",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12553"
         }
       ]
     },
@@ -12535,9 +12546,9 @@
           "id": 12286,
           "titulo": "[OPT] Optimizar la carga del escritorio con múltiples Capturas Rápidas guardadas",
           "tipo": "Feature",
-          "estado": "On Hold",
+          "estado": "Committed",
           "fecha_inicio": "2026-10-29",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-26",
           "fecha_objetivo": "2026-11-07",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12286"
@@ -12968,17 +12979,6 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/10917"
         },
         {
-          "id": 11174,
-          "titulo": "Mapeo de campos al enviar transacciones a PLD",
-          "tipo": "Bug",
-          "estado": "Done",
-          "fecha_inicio": "2026-06-12",
-          "fecha_fin": "2026-06-15",
-          "fecha_objetivo": "2026-06-12",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11174"
-        },
-        {
           "id": 11190,
           "titulo": "Permitir guardado de clientes sin portafolios asignados",
           "tipo": "Bug",
@@ -12999,17 +12999,6 @@
           "fecha_objetivo": "2026-07-10",
           "asignado": "Astrid Ovalle",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11435"
-        },
-        {
-          "id": 12318,
-          "titulo": "Corregir el valor de ClientCode en el envío de transacciones a PLD",
-          "tipo": "Bug",
-          "estado": "Done",
-          "fecha_inicio": "2026-11-02",
-          "fecha_fin": "2026-11-11",
-          "fecha_objetivo": "2026-11-03",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12318"
         },
         {
           "id": 12333,
@@ -13676,17 +13665,6 @@
           "fecha_objetivo": "2026-07-14",
           "asignado": "Angel Doria Moncada",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11441"
-        },
-        {
-          "id": 12484,
-          "titulo": "Enviar ClientCode vacío a PLD cuando el cliente no tenga Id Cliente Akala",
-          "tipo": "Bug",
-          "estado": "Done",
-          "fecha_inicio": "2026-11-23",
-          "fecha_fin": "2026-11-24",
-          "fecha_objetivo": "2026-11-20",
-          "asignado": "Andy Roberto Mesta Gonzalez",
-          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12484"
         }
       ]
     },
@@ -13753,9 +13731,9 @@
           "id": 12525,
           "titulo": "Las referencias de banco en el extranjero no aparecen en el Concepto ni en la factura al autorizar la operación",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-25",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-26",
           "fecha_objetivo": "2026-11-27",
           "asignado": "Angel Doria Moncada",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12525"
@@ -14281,6 +14259,28 @@
     {
       "epic_id": 12551,
       "proyecto_azure": "ACTINVER_GIT",
+      "hijos": [
+        {
+          "id": 12552,
+          "titulo": "Riesgo de duplicidad de afectación a SAP en liquidación automática multidivisa (Pomelo) tras fix de 12080",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-26",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Diego Lara",
+          "url": "https://dev.azure.com/scisa/ACTINVER_GIT/_workitems/edit/12552"
+        }
+      ]
+    },
+    {
+      "epic_id": 12557,
+      "proyecto_azure": "BANKAOOL_GIT",
+      "hijos": []
+    },
+    {
+      "epic_id": 12558,
+      "proyecto_azure": "BANKAOOL_GIT",
       "hijos": []
     }
   ],
