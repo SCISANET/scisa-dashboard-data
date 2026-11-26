@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:00:12.706Z",
+  "generated_at": "2026-11-26T00:00:17.648Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12601,7 +12601,7 @@
           "id": 12292,
           "titulo": "[OPT] - Operaciones - Bloquear Consulta de Operaciones mientras Completar Operación está cargando o abierta",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-06",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-07",
@@ -14241,7 +14241,7 @@
           "id": 12500,
           "titulo": "CORPLD-12679 (No genera alerta con operaciones que cumplen los parámetros - RF-03)",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-27",
@@ -14252,7 +14252,7 @@
           "id": 12501,
           "titulo": "CORPLD-12680 (Genera alerta para PM sin cumplir el mínimo de 20 operaciones USD - RF-03)",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-27",
