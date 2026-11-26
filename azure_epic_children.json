@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:50:37.311Z",
+  "generated_at": "2026-11-26T18:00:10.887Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12230,11 +12230,11 @@
           "id": 12542,
           "titulo": "[BUG] SIGLONET - FML Banco en el Extranjero no captura Motivo de pago ni Ref. Motivo de pago como Siglo Web",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-25",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
-          "asignado": "Monica Barajas",
+          "asignado": "Ibrahim Esparza",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12542"
         }
       ]
@@ -12616,7 +12616,7 @@
           "fecha_inicio": "2026-10-29",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-07",
-          "asignado": "Angel Doria Moncada",
+          "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12294"
         },
         {
@@ -13720,7 +13720,7 @@
           "id": 12457,
           "titulo": "Generacion de facturas al autorizar una operación con mas de 10 liquidaciones",
           "tipo": "Bug",
-          "estado": "New",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-19",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-23",
@@ -14260,6 +14260,28 @@
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12501"
         }
       ]
+    },
+    {
+      "epic_id": 12548,
+      "proyecto_azure": "AFIRME_GIT",
+      "hijos": [
+        {
+          "id": 12550,
+          "titulo": "[RF-01] - SIGLONET - Homologación de Clientes y Empleados entre Dealtracker y SIGLONET",
+          "tipo": "Feature",
+          "estado": "New",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-30",
+          "asignado": "Michelle Ramirez",
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12550"
+        }
+      ]
+    },
+    {
+      "epic_id": 12551,
+      "proyecto_azure": "ACTINVER_GIT",
+      "hijos": []
     }
   ],
   "notas": [
