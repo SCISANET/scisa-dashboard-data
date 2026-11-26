@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:00:17.568Z",
+  "generated_at": "2026-11-26T15:00:17.669Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1773,8 +1773,8 @@
         {
           "id": 12255,
           "titulo": "SCISA_03496",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-10-28",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
           "fecha_objetivo": "2026-11-28",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "total_hijos": 8,
@@ -1821,7 +1821,7 @@
         {
           "id": 12440,
           "titulo": "V.1.1.7",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
