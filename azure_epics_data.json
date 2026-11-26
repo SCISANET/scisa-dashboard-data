@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:00:17.669Z",
+  "generated_at": "2026-11-26T15:50:37.263Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1886,8 +1886,8 @@
           "fecha_objetivo": "2026-12-04",
           "asignado": null,
           "total_hijos": 3,
-          "hijos_cerrados": 1,
-          "pct_progreso": 33,
+          "hijos_cerrados": 2,
+          "pct_progreso": 67,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12536"
         }
       ]
