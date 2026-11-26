@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:00:10.842Z",
+  "generated_at": "2026-11-26T22:00:13.137Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -408,7 +408,7 @@
           "fecha_inicio": "2026-11-26",
           "fecha_objetivo": "2026-11-27",
           "asignado": "Jesus Martínez",
-          "total_hijos": 0,
+          "total_hijos": 1,
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/ACTINVER_GIT/_workitems/edit/12551"
@@ -498,8 +498,8 @@
           "fecha_objetivo": "2027-01-29",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 3,
-          "pct_progreso": 33,
+          "hijos_cerrados": 4,
+          "pct_progreso": 44,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12285"
         },
         {
@@ -670,9 +670,9 @@
           "fecha_inicio": "2026-10-06",
           "fecha_objetivo": "2026-12-01",
           "asignado": "Gael Flores",
-          "total_hijos": 6,
+          "total_hijos": 7,
           "hijos_cerrados": 4,
-          "pct_progreso": 67,
+          "pct_progreso": 57,
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12030"
         },
         {
@@ -1809,12 +1809,12 @@
         {
           "id": 12337,
           "titulo": "V.1.1.6",
-          "estado": "Done",
-          "fecha_inicio": "2026-11-11",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
           "fecha_objetivo": "2026-11-06",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 8,
-          "hijos_cerrados": 8,
+          "total_hijos": 6,
+          "hijos_cerrados": 6,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12337"
         },
@@ -1849,8 +1849,8 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 6,
-          "hijos_cerrados": 6,
+          "total_hijos": 5,
+          "hijos_cerrados": 5,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12440"
         },
@@ -1913,6 +1913,30 @@
           "hijos_cerrados": 2,
           "pct_progreso": 67,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12536"
+        },
+        {
+          "id": 12557,
+          "titulo": "1.1.7- Excluir de la versión 1.1.7 los cambios del envío de transacciones a PLD",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
+          "fecha_objetivo": "2026-11-26",
+          "asignado": null,
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12557"
+        },
+        {
+          "id": 12558,
+          "titulo": "1.1.6  Excluir de la versión  los cambios del envío de transacciones a PLD (T11174 y T12318)",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
+          "fecha_objetivo": "2026-11-26",
+          "asignado": null,
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12558"
         }
       ]
     },
@@ -2683,8 +2707,8 @@
           "fecha_objetivo": "2026-11-20",
           "asignado": "Antonio Pequeño",
           "total_hijos": 6,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 1,
+          "pct_progreso": 17,
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12441"
         }
       ]
