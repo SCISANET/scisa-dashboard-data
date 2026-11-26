@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:00:17.648Z",
+  "generated_at": "2026-11-26T15:00:17.734Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12120,7 +12120,7 @@
           "id": 12385,
           "titulo": "[BUG] SIGLONET Mantiene validación de autorización 72/96H al cambiar fecha valor 48H",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-25",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-24",
@@ -14205,7 +14205,7 @@
           "estado": "In Progress",
           "fecha_inicio": "2026-11-24",
           "fecha_fin": null,
-          "fecha_objetivo": "2026-11-25",
+          "fecha_objetivo": "2026-11-26",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12526"
         }
