@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:00:27.244Z",
+  "generated_at": "2026-11-26T22:00:29.406Z",
   "clickup_tasks": [
     {
       "id": "17tq1aefk7u",
@@ -1465,7 +1465,7 @@
       ],
       "due_date_ms": 1795082400000,
       "date_updated_ms": 1794823200000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeb6tv",
       "desarrollador_real": null
@@ -3737,7 +3737,7 @@
       ],
       "due_date_ms": 1796983200000,
       "date_updated_ms": 1795514400000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae3qpn",
       "desarrollador_real": "Jesury Guadalupe García Gómez"
@@ -4060,7 +4060,7 @@
       ],
       "due_date_ms": 1796032800000,
       "date_updated_ms": 1791799200000,
-      "dias_sin_actualizar": 12,
+      "dias_sin_actualizar": 13,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae0p96",
       "desarrollador_real": "Gael Flores Cantu"
@@ -4554,7 +4554,7 @@
       ],
       "due_date_ms": 1792749600000,
       "date_updated_ms": 1790330400000,
-      "dias_sin_actualizar": 30,
+      "dias_sin_actualizar": 31,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1adxu0a",
       "desarrollador_real": null
@@ -4864,7 +4864,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670219409,
-      "dias_sin_actualizar": 69,
+      "dias_sin_actualizar": 70,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86akkknp7",
       "desarrollador_real": null
@@ -6280,7 +6280,7 @@
       ],
       "due_date_ms": 1806487200000,
       "date_updated_ms": 1788170400000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ak8mwmj",
       "desarrollador_real": null
@@ -6876,7 +6876,7 @@
       ],
       "due_date_ms": 1795600800000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajxxfhe",
       "desarrollador_real": "Jesús Hilario Martínez"
@@ -7201,7 +7201,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1786096800000,
-      "dias_sin_actualizar": 103,
+      "dias_sin_actualizar": 104,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajw1et4",
       "desarrollador_real": null
@@ -8244,7 +8244,7 @@
       ],
       "due_date_ms": 1795600800000,
       "date_updated_ms": 1793268000000,
-      "dias_sin_actualizar": 28,
+      "dias_sin_actualizar": 29,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86aj3znya",
       "desarrollador_real": "Jairo Jahir Chavarria Maldonado"
@@ -8434,7 +8434,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1786743335099,
-      "dias_sin_actualizar": 103,
+      "dias_sin_actualizar": 104,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj31ne4",
       "desarrollador_real": null
@@ -8791,7 +8791,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1779703200000,
-      "dias_sin_actualizar": 170,
+      "dias_sin_actualizar": 171,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ahmgvgk",
       "desarrollador_real": null
@@ -10234,7 +10234,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1776884729645,
-      "dias_sin_actualizar": 217,
+      "dias_sin_actualizar": 218,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86agx2enq",
       "desarrollador_real": null
@@ -13922,7 +13922,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1776276910995,
-      "dias_sin_actualizar": 224,
+      "dias_sin_actualizar": 225,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86abfy4zk",
       "desarrollador_real": null
@@ -17612,7 +17612,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1783332000000,
-      "dias_sin_actualizar": 69,
+      "dias_sin_actualizar": 70,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajf471b",
       "desarrollador_real": null
@@ -17628,7 +17628,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670204648,
-      "dias_sin_actualizar": 69,
+      "dias_sin_actualizar": 70,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj8ww3q",
       "desarrollador_real": null
@@ -17644,7 +17644,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789670204648,
-      "dias_sin_actualizar": 69,
+      "dias_sin_actualizar": 70,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aj61jf2",
       "desarrollador_real": null
@@ -17660,7 +17660,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1767348000000,
-      "dias_sin_actualizar": 69,
+      "dias_sin_actualizar": 70,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86aeakrdq",
       "desarrollador_real": null
@@ -27932,8 +27932,8 @@
     },
     {
       "empleado": "14",
-      "total_horas": 2980.48,
-      "num_registros": 5705,
+      "total_horas": 2980.73,
+      "num_registros": 5706,
       "promedio_horas_registro": 0.52,
       "pct_descripciones_unicas": 89.75,
       "top_descripciones_repetidas": [
@@ -27958,7 +27958,7 @@
         "2024-11": 41,
         "2025-06": 75.75,
         "2026-01": 61.75,
-        "2026-11": 65.38,
+        "2026-11": 65.63,
         "2026-12": 9,
         "2024-06": 39.1,
         "2023-06": 67,
@@ -28243,10 +28243,10 @@
     },
     {
       "empleado": "23",
-      "total_horas": 10243.25,
-      "num_registros": 5115,
+      "total_horas": 10246,
+      "num_registros": 5116,
       "promedio_horas_registro": 2,
-      "pct_descripciones_unicas": 33.47,
+      "pct_descripciones_unicas": 33.48,
       "top_descripciones_repetidas": [
         {
           "desc": "Preparando ambiente Virtual para Pruebas",
@@ -28295,7 +28295,7 @@
         "2024-11": 211.5,
         "2026-03": 220,
         "2023-03": 236.5,
-        "2026-11": 183,
+        "2026-11": 185.75,
         "2025-04": 223.5,
         "2026-08": 216.25,
         "2023-11": 224,
@@ -28872,8 +28872,8 @@
     },
     {
       "empleado": "54",
-      "total_horas": 9124,
-      "num_registros": 3547,
+      "total_horas": 9134.5,
+      "num_registros": 3553,
       "promedio_horas_registro": 2.57,
       "pct_descripciones_unicas": 34.48,
       "top_descripciones_repetidas": [
@@ -28934,7 +28934,7 @@
         "2025-01": 203.5,
         "2026-07": 203.75,
         "2025-11": 172.75,
-        "2026-11": 145.25,
+        "2026-11": 155.75,
         "2023-07": 200.5,
         "2025-04": 199.75,
         "2026-02": 172.75,
@@ -30320,10 +30320,10 @@
     },
     {
       "empleado": "110",
-      "total_horas": 6765.5,
-      "num_registros": 3284,
+      "total_horas": 6768.5,
+      "num_registros": 3285,
       "promedio_horas_registro": 2.06,
-      "pct_descripciones_unicas": 26.98,
+      "pct_descripciones_unicas": 27,
       "top_descripciones_repetidas": [
         {
           "desc": "Junta diaria",
@@ -30364,7 +30364,7 @@
         "2025-03": 161,
         "2025-06": 169.75,
         "2024-09": 174.5,
-        "2026-11": 150.75,
+        "2026-11": 153.75,
         "2024-07": 187,
         "2023-12": 157,
         "2023-01": 10,
@@ -30386,10 +30386,10 @@
     },
     {
       "empleado": "111",
-      "total_horas": 7996,
-      "num_registros": 5861,
+      "total_horas": 7997.5,
+      "num_registros": 5862,
       "promedio_horas_registro": 1.36,
-      "pct_descripciones_unicas": 79.2,
+      "pct_descripciones_unicas": 79.21,
       "top_descripciones_repetidas": [
         {
           "desc": "Se llena reporte de actividades",
@@ -30450,7 +30450,7 @@
         "2023-03": 128.75,
         "2025-11": 165.17,
         "2025-09": 172,
-        "2026-11": 134.33,
+        "2026-11": 135.83,
         "2023-11": 181.75,
         "2026-08": 166.67
       }
@@ -31738,10 +31738,10 @@
     },
     {
       "empleado": "E23",
-      "total_horas": 270.5,
-      "num_registros": 112,
-      "promedio_horas_registro": 2.42,
-      "pct_descripciones_unicas": 39.29,
+      "total_horas": 278.5,
+      "num_registros": 116,
+      "promedio_horas_registro": 2.4,
+      "pct_descripciones_unicas": 39.66,
       "top_descripciones_repetidas": [
         {
           "desc": "#12238 | Consulta al servicio de Listas SIPRELAD al buscar una persona",
@@ -31758,7 +31758,7 @@
       ],
       "por_mes": {
         "2026-10": 120,
-        "2026-11": 141.5,
+        "2026-11": 149.5,
         "2026-12": 9
       }
     },
@@ -32451,10 +32451,10 @@
     },
     {
       "empleado": "P41",
-      "total_horas": 519,
-      "num_registros": 125,
-      "promedio_horas_registro": 4.15,
-      "pct_descripciones_unicas": 25.6,
+      "total_horas": 521.5,
+      "num_registros": 127,
+      "promedio_horas_registro": 4.11,
+      "pct_descripciones_unicas": 25.98,
       "top_descripciones_repetidas": [
         {
           "desc": "Sesiones de soporte y ayuda",
@@ -32475,7 +32475,7 @@
         "2026-06": 0.5,
         "2026-07": 96.5,
         "2026-10": 110,
-        "2026-11": 91.5,
+        "2026-11": 94,
         "2026-12": 9
       }
     },
@@ -36674,7 +36674,7 @@
     {
       "id_proyecto": "3465",
       "categoria": "ADM",
-      "horas": 6.75,
+      "horas": 9.75,
       "clickup_match": null
     },
     {
@@ -39386,7 +39386,7 @@
     {
       "id_proyecto": "3517",
       "categoria": "ANL",
-      "horas": 2.25,
+      "horas": 5,
       "clickup_match": null
     },
     {
@@ -40436,7 +40436,7 @@
     {
       "id_proyecto": "2838",
       "categoria": "IMP",
-      "horas": 13.75,
+      "horas": 16.75,
       "clickup_match": null
     },
     {
@@ -42392,7 +42392,7 @@
     {
       "id_proyecto": "2838",
       "categoria": "DOC",
-      "horas": 84,
+      "horas": 86,
       "clickup_match": null
     },
     {
@@ -44745,6 +44745,12 @@
       "id_proyecto": "3038",
       "categoria": "DEV",
       "horas": 136.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3509",
+      "categoria": "No aplica",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -55202,7 +55208,7 @@
     {
       "id_proyecto": "3320",
       "categoria": "ADM",
-      "horas": 2,
+      "horas": 3.5,
       "clickup_match": null
     },
     {
@@ -58496,7 +58502,7 @@
     {
       "id_proyecto": "3467",
       "categoria": "DEV",
-      "horas": 125.75,
+      "horas": 128.75,
       "clickup_match": null
     },
     {
@@ -59048,7 +59054,7 @@
     {
       "id_proyecto": "No aplica",
       "categoria": "SOP",
-      "horas": 47456.72,
+      "horas": 47468.47,
       "clickup_match": null
     },
     {
@@ -59694,7 +59700,7 @@
     },
     {
       "cliente": "ACTINVER",
-      "total_horas": 32963.3,
+      "total_horas": 32973.8,
       "por_mes": {
         "2023-01": 214.88,
         "2023-02": 183.13,
@@ -59742,7 +59748,7 @@
         "2026-08": 843.68,
         "2026-09": 782.33,
         "2026-10": 773.72,
-        "2026-11": 787.23
+        "2026-11": 797.73
       }
     },
     {
@@ -60202,7 +60208,7 @@
     },
     {
       "cliente": "BANCO DEL BAJIO",
-      "total_horas": 29996.5,
+      "total_horas": 29997.5,
       "por_mes": {
         "2023-01": 856.5,
         "2023-02": 715.48,
@@ -60250,7 +60256,7 @@
         "2026-08": 785.92,
         "2026-09": 605.32,
         "2026-10": 1231.85,
-        "2026-11": 559.75
+        "2026-11": 560.75
       }
     },
     {
@@ -60304,7 +60310,7 @@
     },
     {
       "cliente": "Bankaool",
-      "total_horas": 7612.08,
+      "total_horas": 7614.83,
       "por_mes": {
         "2023-11": 2.75,
         "2023-12": 15.5,
@@ -60342,7 +60348,7 @@
         "2026-08": 692.28,
         "2026-09": 675.83,
         "2026-10": 638.32,
-        "2026-11": 353.42
+        "2026-11": 356.17
       }
     },
     {
@@ -62024,7 +62030,7 @@
     },
     {
       "cliente": "KEYENCE MEXICO",
-      "total_horas": 392.15,
+      "total_horas": 393.65,
       "por_mes": {
         "2023-01": 22.33,
         "2023-02": 20.83,
@@ -62072,7 +62078,7 @@
         "2026-08": 2.6,
         "2026-09": 1.08,
         "2026-10": 2.42,
-        "2026-11": 3.25
+        "2026-11": 4.75
       }
     },
     {
@@ -62856,7 +62862,7 @@
     },
     {
       "cliente": "ROTO CRISTALES Y PARTES",
-      "total_horas": 187.33,
+      "total_horas": 187.58,
       "por_mes": {
         "2023-01": 6,
         "2023-02": 1.92,
@@ -62891,12 +62897,12 @@
         "2026-08": 6.5,
         "2026-09": 1.25,
         "2026-10": 0.5,
-        "2026-11": 2.67
+        "2026-11": 2.92
       }
     },
     {
       "cliente": "SCISA",
-      "total_horas": 113528.67,
+      "total_horas": 113533.17,
       "por_mes": {
         "2023-01": 1920.97,
         "2023-02": 1508.77,
@@ -62944,7 +62950,7 @@
         "2026-08": 2399.4,
         "2026-09": 2717.07,
         "2026-10": 2214.43,
-        "2026-11": 2416.02,
+        "2026-11": 2420.52,
         "2026-12": 756
       }
     },
@@ -63015,7 +63021,7 @@
     },
     {
       "cliente": "SISTEMAS COMPUTACIONALES INTEGRALES SA DE CV",
-      "total_horas": 3176.65,
+      "total_horas": 3181.65,
       "por_mes": {
         "2023-01": 198,
         "2023-02": 92,
@@ -63056,7 +63062,7 @@
         "2026-08": 177.17,
         "2026-09": 59.75,
         "2026-10": 175.58,
-        "2026-11": 130.25
+        "2026-11": 135.25
       }
     },
     {
@@ -63434,11 +63440,11 @@
     },
     {
       "cliente": "UNIFAM, SOCAP",
-      "total_horas": 181.58,
+      "total_horas": 184.58,
       "por_mes": {
         "2026-09": 11.75,
         "2026-10": 49,
-        "2026-11": 120.83
+        "2026-11": 123.83
       }
     },
     {
@@ -68656,7 +68662,7 @@
     },
     {
       "fecha": "2026-11-21",
-      "horas": 5
+      "horas": 6.5
     },
     {
       "fecha": "2026-11-22",
@@ -68672,11 +68678,11 @@
     },
     {
       "fecha": "2026-11-25",
-      "horas": 52.75
+      "horas": 64.5
     },
     {
       "fecha": "2026-11-26",
-      "horas": 15
+      "horas": 30.25
     },
     {
       "fecha": "2026-11-27",
@@ -74704,7 +74710,7 @@
     {
       "empleado": "23",
       "semana": "2026-W48",
-      "horas": 32
+      "horas": 34.75
     },
     {
       "empleado": "87",
@@ -84829,7 +84835,7 @@
     {
       "empleado": "111",
       "semana": "2026-W47",
-      "horas": 45
+      "horas": 46.5
     },
     {
       "empleado": "20",
@@ -89264,7 +89270,7 @@
     {
       "empleado": "P41",
       "semana": "2026-W48",
-      "horas": 12.5
+      "horas": 15
     },
     {
       "empleado": "50",
@@ -99429,7 +99435,7 @@
     {
       "empleado": "14",
       "semana": "2026-W48",
-      "horas": 5.77
+      "horas": 6.02
     },
     {
       "empleado": "36",
@@ -101579,7 +101585,7 @@
     {
       "empleado": "54",
       "semana": "2026-W48",
-      "horas": 19
+      "horas": 29.5
     },
     {
       "empleado": "27",
@@ -111184,7 +111190,7 @@
     {
       "empleado": "E23",
       "semana": "2026-W48",
-      "horas": 21
+      "horas": 29
     },
     {
       "empleado": "26",
@@ -111904,7 +111910,7 @@
     {
       "empleado": "110",
       "semana": "2026-W48",
-      "horas": 28.5
+      "horas": 31.5
     },
     {
       "empleado": "20",
@@ -125048,16 +125054,16 @@
       "nombre": "SCISA_02838_Fabrica Actividades",
       "cliente": "SISTEMAS COMPUTACIONALES INTEGRALES SA DE CV",
       "horas_presupuestadas": 1560,
-      "horas_trabajadas": 1834.07,
-      "desviacion": -274.07,
-      "pct_desviacion": -17.57,
+      "horas_trabajadas": 1839.07,
+      "desviacion": -279.07,
+      "pct_desviacion": -17.89,
       "categorias_horas": {
-        "DOC": 84,
+        "DOC": 86,
         "CCI": 10,
         "ADV": 1.25,
         "No aplica": 171.75,
         "DEV": 665.33,
-        "IMP": 13.75,
+        "IMP": 16.75,
         "ANL": 143.75,
         "PTC": 1.75,
         "ADM": 678.15,
@@ -125066,15 +125072,15 @@
         "TST": 46.83
       },
       "categorias_pct": {
-        "DOC": 4.58,
-        "CCI": 0.55,
+        "DOC": 4.68,
+        "CCI": 0.54,
         "ADV": 0.07,
-        "No aplica": 9.36,
-        "DEV": 36.28,
-        "IMP": 0.75,
-        "ANL": 7.84,
+        "No aplica": 9.34,
+        "DEV": 36.18,
+        "IMP": 0.91,
+        "ANL": 7.82,
         "PTC": 0.1,
-        "ADM": 36.98,
+        "ADM": 36.87,
         "OTR": 0.9,
         "CCE": 0.05,
         "TST": 2.55
@@ -135626,20 +135632,20 @@
       "nombre": "SCISA_03320_Servidores y Bases de Datos",
       "cliente": "SCISA",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 52,
-      "desviacion": -52,
+      "horas_trabajadas": 53.5,
+      "desviacion": -53.5,
       "pct_desviacion": null,
       "categorias_horas": {
         "SOP": 44,
         "ANL": 2.75,
         "OTR": 3.25,
-        "ADM": 2
+        "ADM": 3.5
       },
       "categorias_pct": {
-        "SOP": 84.62,
-        "ANL": 5.29,
-        "OTR": 6.25,
-        "ADM": 3.85
+        "SOP": 82.24,
+        "ANL": 5.14,
+        "OTR": 6.07,
+        "ADM": 6.54
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -137761,9 +137767,9 @@
       "nombre": "SCISA_03465_Mejoras al Identity",
       "cliente": "SCISA",
       "horas_presupuestadas": 544,
-      "horas_trabajadas": 353.75,
-      "desviacion": 190.25,
-      "pct_desviacion": 34.97,
+      "horas_trabajadas": 356.75,
+      "desviacion": 187.25,
+      "pct_desviacion": 34.42,
       "categorias_horas": {
         "IMP": 84.25,
         "SOP": 97.5,
@@ -137771,22 +137777,22 @@
         "ANL": 115.75,
         "No aplica": 22,
         "OTR": 0.75,
-        "ADM": 6.75,
+        "ADM": 9.75,
         "DEV": 12.75,
         "DOC": 2.5,
         "CCI": 8
       },
       "categorias_pct": {
-        "IMP": 23.82,
-        "SOP": 27.56,
-        "TST": 0.99,
-        "ANL": 32.72,
-        "No aplica": 6.22,
+        "IMP": 23.62,
+        "SOP": 27.33,
+        "TST": 0.98,
+        "ANL": 32.45,
+        "No aplica": 6.17,
         "OTR": 0.21,
-        "ADM": 1.91,
-        "DEV": 3.6,
-        "DOC": 0.71,
-        "CCI": 2.26
+        "ADM": 2.73,
+        "DEV": 3.57,
+        "DOC": 0.7,
+        "CCI": 2.24
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -137798,22 +137804,22 @@
       "nombre": "SCISA_03467_Nuevo Proveedor de Listas Negras SIPRELAD",
       "cliente": "UNIFAM, SOCAP",
       "horas_presupuestadas": 170,
-      "horas_trabajadas": 151.75,
-      "desviacion": 18.25,
-      "pct_desviacion": 10.74,
+      "horas_trabajadas": 154.75,
+      "desviacion": 15.25,
+      "pct_desviacion": 8.97,
       "categorias_horas": {
         "ANL": 13,
         "TST": 4.75,
         "PTC": 2.75,
-        "DEV": 125.75,
+        "DEV": 128.75,
         "ADM": 5.5
       },
       "categorias_pct": {
-        "ANL": 8.57,
-        "TST": 3.13,
-        "PTC": 1.81,
-        "DEV": 82.87,
-        "ADM": 3.62
+        "ANL": 8.4,
+        "TST": 3.07,
+        "PTC": 1.78,
+        "DEV": 83.2,
+        "ADM": 3.55
       },
       "status_clickup": "en desarrollo",
       "due_date_ms": 1795428000000,
@@ -138677,16 +138683,18 @@
       "nombre": "SCISA_03509_[SIT-3233] FIX ENGINE 360T Operaciones (Acompañamiento)",
       "cliente": "ACTINVER",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 10.5,
-      "desviacion": -10.5,
+      "horas_trabajadas": 12,
+      "desviacion": -12,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 5.25,
-        "ACO": 5.25
+        "ACO": 5.25,
+        "No aplica": 1.5
       },
       "categorias_pct": {
-        "ADM": 50,
-        "ACO": 50
+        "ADM": 43.75,
+        "ACO": 43.75,
+        "No aplica": 12.5
       },
       "status_clickup": "en desarrollo",
       "due_date_ms": 1795168800000,
@@ -138832,11 +138840,11 @@
       "nombre": "SCISA_03517_Interfaz de Maccorp",
       "cliente": "Bankaool",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 2.25,
-      "desviacion": -2.25,
+      "horas_trabajadas": 5,
+      "desviacion": -5,
       "pct_desviacion": null,
       "categorias_horas": {
-        "ANL": 2.25
+        "ANL": 5
       },
       "categorias_pct": {
         "ANL": 100
@@ -138850,10 +138858,10 @@
       "proj_code": "SCISA_03518",
       "nombre": "SCISA_03518_Agreagar OC y Monto de facturas al SIA",
       "cliente": "SCISA",
-      "horas_presupuestadas": 0,
+      "horas_presupuestadas": 310,
       "horas_trabajadas": 1,
-      "desviacion": -1,
-      "pct_desviacion": null,
+      "desviacion": 309,
+      "pct_desviacion": 99.68,
       "categorias_horas": {
         "ANL": 1
       },
@@ -139074,8 +139082,8 @@
       "nombre": null,
       "cliente": "ACTINVER",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 8052.93,
-      "desviacion": -8052.93,
+      "horas_trabajadas": 8061.93,
+      "desviacion": -8061.93,
       "pct_desviacion": null,
       "categorias_horas": {
         "ACO": 2,
@@ -139090,24 +139098,24 @@
         "No aplica": 236.75,
         "OTR": 61.42,
         "PTC": 1.25,
-        "SOP": 4324.98,
+        "SOP": 4333.98,
         "TST": 441.33
       },
       "categorias_pct": {
         "ACO": 0.02,
-        "ADM": 3.28,
+        "ADM": 3.27,
         "ADV": 1.89,
-        "ANL": 8.88,
+        "ANL": 8.87,
         "CCE": 0.77,
         "CCI": 0.31,
-        "DEV": 19.86,
+        "DEV": 19.84,
         "DOC": 1.05,
         "IMP": 1.04,
         "No aplica": 2.94,
         "OTR": 0.76,
         "PTC": 0.02,
-        "SOP": 53.71,
-        "TST": 5.48
+        "SOP": 53.76,
+        "TST": 5.47
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -139582,8 +139590,8 @@
       "nombre": null,
       "cliente": "BANCO DEL BAJIO",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 14230.28,
-      "desviacion": -14230.28,
+      "horas_trabajadas": 14231.28,
+      "desviacion": -14231.28,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 413.07,
@@ -139598,7 +139606,7 @@
         "OFI": 2.5,
         "OTR": 56.03,
         "PTC": 1,
-        "SOP": 8873.93,
+        "SOP": 8874.93,
         "TST": 1315.9
       },
       "categorias_pct": {
@@ -141301,8 +141309,8 @@
       "nombre": null,
       "cliente": "KEYENCE MEXICO",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 338.57,
-      "desviacion": -338.57,
+      "horas_trabajadas": 340.07,
+      "desviacion": -340.07,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 1,
@@ -141313,20 +141321,20 @@
         "IMP": 3.5,
         "No aplica": 20.3,
         "OTR": 12.5,
-        "SOP": 226.1,
+        "SOP": 227.6,
         "TST": 30.25
       },
       "categorias_pct": {
-        "ADM": 0.3,
-        "ADV": 0.3,
-        "ANL": 2.66,
-        "DEV": 8.32,
-        "DOC": 1.99,
+        "ADM": 0.29,
+        "ADV": 0.29,
+        "ANL": 2.65,
+        "DEV": 8.28,
+        "DOC": 1.98,
         "IMP": 1.03,
-        "No aplica": 6,
-        "OTR": 3.69,
-        "SOP": 66.78,
-        "TST": 8.93
+        "No aplica": 5.97,
+        "OTR": 3.68,
+        "SOP": 66.93,
+        "TST": 8.9
       },
       "status_clickup": null,
       "due_date_ms": null,
@@ -142160,8 +142168,8 @@
       "nombre": null,
       "cliente": "ROTO CRISTALES Y PARTES",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 169.75,
-      "desviacion": -169.75,
+      "horas_trabajadas": 170,
+      "desviacion": -170,
       "pct_desviacion": null,
       "categorias_horas": {
         "ANL": 1.75,
@@ -142169,16 +142177,16 @@
         "IMP": 1.33,
         "No aplica": 22.25,
         "OTR": 4.5,
-        "SOP": 122.08,
+        "SOP": 122.33,
         "TST": 5.25
       },
       "categorias_pct": {
         "ANL": 1.03,
-        "DEV": 7.41,
+        "DEV": 7.4,
         "IMP": 0.78,
-        "No aplica": 13.11,
+        "No aplica": 13.09,
         "OTR": 2.65,
-        "SOP": 71.92,
+        "SOP": 71.96,
         "TST": 3.09
       },
       "status_clickup": null,
@@ -145993,18 +146001,18 @@
     {
       "proj_code": "SCISA_03320",
       "nombre": "SCISA_03320_Servidores y Bases de Datos",
-      "horas_trabajadas": 52,
+      "horas_trabajadas": 53.5,
       "categorias_horas": {
-        "ADM": 2,
+        "ADM": 3.5,
         "OTR": 3.25,
         "ANL": 2.75,
         "SOP": 44
       },
       "categorias_pct": {
-        "ADM": 3.85,
-        "OTR": 6.25,
-        "ANL": 5.29,
-        "SOP": 84.62
+        "ADM": 6.54,
+        "OTR": 6.07,
+        "ANL": 5.14,
+        "SOP": 82.24
       },
       "por_empleado": [
         {
@@ -146016,12 +146024,13 @@
         },
         {
           "empleado": "Raúl González Peña",
-          "horas": 8,
+          "horas": 9.5,
           "por_mes": {
             "2026-10": 4.75,
             "2026-07": 1,
             "2026-09": 1,
-            "2026-08": 1.25
+            "2026-08": 1.25,
+            "2026-11": 1.5
           }
         },
         {
