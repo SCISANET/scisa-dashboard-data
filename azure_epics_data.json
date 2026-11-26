@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:50:37.263Z",
+  "generated_at": "2026-11-26T18:00:10.842Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -392,7 +392,7 @@
         {
           "id": 12327,
           "titulo": "SCISA_03203",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-06",
           "fecha_objetivo": "2026-11-19",
           "asignado": "José Carlos Valdez",
@@ -400,6 +400,18 @@
           "hijos_cerrados": 5,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/ACTINVER_GIT/_workitems/edit/12327"
+        },
+        {
+          "id": 12551,
+          "titulo": "V.1.12.2",
+          "estado": "New",
+          "fecha_inicio": "2026-11-26",
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Jesus Martínez",
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/ACTINVER_GIT/_workitems/edit/12551"
         }
       ]
     },
@@ -480,7 +492,7 @@
         },
         {
           "id": 12285,
-          "titulo": "SCISA_03510",
+          "titulo": "SCISA_03510_Mejoras",
           "estado": "In Progress",
           "fecha_inicio": "2026-11-24",
           "fecha_objetivo": "2027-01-29",
@@ -489,6 +501,18 @@
           "hijos_cerrados": 3,
           "pct_progreso": 33,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12285"
+        },
+        {
+          "id": 12548,
+          "titulo": "SCISA_03390_RF-02 Interfaz WebService Dealtracker/Refinitiv",
+          "estado": "New",
+          "fecha_inicio": "2026-11-26",
+          "fecha_objetivo": "2027-01-31",
+          "asignado": "Nayeli Hernandez",
+          "total_hijos": 1,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12548"
         }
       ]
     },
@@ -2630,7 +2654,7 @@
         {
           "id": 12223,
           "titulo": "V.1.5.0",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-10-26",
           "fecha_objetivo": "2026-11-03",
           "asignado": "Angel Doria Moncada",
