@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:00:41.944Z",
+  "generated_at": "2026-11-26T15:00:41.469Z",
   "clickup_tasks": [
     {
       "id": "17tq1aefk7u",
@@ -174,12 +174,13 @@
       "status": "propuesta",
       "priority": "normal",
       "assignees": [
-        "Raul Ponce"
+        "Raul Ponce",
+        "Juan Carlos Dominguez Jimenez"
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794909600000,
-      "dias_sin_actualizar": 1,
-      "atrasada": false,
+      "dias_sin_actualizar": 0,
+      "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aefbtf",
       "desarrollador_real": null
     },
@@ -1626,12 +1627,13 @@
       "status": "propuesta",
       "priority": "normal",
       "assignees": [
-        "Rosa de Lima Lopez Sifuentes"
+        "Rosa de Lima Lopez Sifuentes",
+        "Juan Carlos Dominguez Jimenez"
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 1,
-      "atrasada": false,
+      "dias_sin_actualizar": 0,
+      "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeb1ud",
       "desarrollador_real": null
     },
@@ -1702,12 +1704,13 @@
       "status": "propuesta",
       "priority": "normal",
       "assignees": [
-        "Astrid Ovalle"
+        "Astrid Ovalle",
+        "Juan Carlos Dominguez Jimenez"
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 6,
-      "atrasada": false,
+      "dias_sin_actualizar": 0,
+      "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeb161",
       "desarrollador_real": null
     },
@@ -1851,7 +1854,7 @@
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1793613600000,
       "dias_sin_actualizar": 1,
-      "atrasada": false,
+      "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeae2h",
       "desarrollador_real": null
     },
@@ -1897,7 +1900,7 @@
       ],
       "due_date_ms": 1794996000000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 7,
+      "dias_sin_actualizar": 8,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aea5tz",
       "desarrollador_real": null
@@ -2138,7 +2141,7 @@
       ],
       "due_date_ms": 1794996000000,
       "date_updated_ms": 1793008800000,
-      "dias_sin_actualizar": 7,
+      "dias_sin_actualizar": 8,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aea2jw",
       "desarrollador_real": null
@@ -2425,7 +2428,7 @@
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794477600000,
       "dias_sin_actualizar": 13,
-      "atrasada": false,
+      "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae9fc2",
       "desarrollador_real": "Eduar Hernandez Esquivel"
     },
@@ -2787,7 +2790,7 @@
       ],
       "due_date_ms": 1795514400000,
       "date_updated_ms": 1794218400000,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae8fc1",
       "desarrollador_real": null
@@ -2943,7 +2946,7 @@
       "assignees": [],
       "due_date_ms": 1795082400000,
       "date_updated_ms": 1794996000000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae88xw",
       "desarrollador_real": null
@@ -3013,7 +3016,7 @@
       "assignees": [],
       "due_date_ms": 1795082400000,
       "date_updated_ms": 1795082400000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae88xq",
       "desarrollador_real": null
@@ -3891,7 +3894,7 @@
       ],
       "due_date_ms": 1795168800000,
       "date_updated_ms": 1793700000000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae0pwd",
       "desarrollador_real": null
@@ -4870,7 +4873,7 @@
       ],
       "due_date_ms": 1791280800000,
       "date_updated_ms": 1791194400000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhq1g8",
       "desarrollador_real": "ibrahim.esparza@scisa.com.mx"
@@ -5647,7 +5650,7 @@
       ],
       "due_date_ms": 1793613600000,
       "date_updated_ms": 1789466400000,
-      "dias_sin_actualizar": 29,
+      "dias_sin_actualizar": 30,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akh4349",
       "desarrollador_real": null
@@ -5759,7 +5762,7 @@
       ],
       "due_date_ms": 1791972000000,
       "date_updated_ms": 1790071200000,
-      "dias_sin_actualizar": 42,
+      "dias_sin_actualizar": 43,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ake8y50",
       "desarrollador_real": null
@@ -6192,7 +6195,7 @@
       ],
       "due_date_ms": 1794996000000,
       "date_updated_ms": 1794304800000,
-      "dias_sin_actualizar": 5,
+      "dias_sin_actualizar": 6,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ake6xcq",
       "desarrollador_real": null
@@ -6392,7 +6395,7 @@
       ],
       "due_date_ms": 1792576800000,
       "date_updated_ms": 1788256800000,
-      "dias_sin_actualizar": 35,
+      "dias_sin_actualizar": 36,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ak7775f",
       "desarrollador_real": null
@@ -6516,7 +6519,7 @@
       ],
       "due_date_ms": 1788775200000,
       "date_updated_ms": 1786701600000,
-      "dias_sin_actualizar": 79,
+      "dias_sin_actualizar": 80,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ak1qr8j",
       "desarrollador_real": null
@@ -7048,7 +7051,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1793060698753,
-      "dias_sin_actualizar": 29,
+      "dias_sin_actualizar": 30,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajwjvv0",
       "desarrollador_real": null
@@ -7475,7 +7478,7 @@
       ],
       "due_date_ms": 1795773600000,
       "date_updated_ms": 1785751200000,
-      "dias_sin_actualizar": 7,
+      "dias_sin_actualizar": 8,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajt7nkt",
       "desarrollador_real": null
@@ -7522,7 +7525,7 @@
       ],
       "due_date_ms": 1786701600000,
       "date_updated_ms": 1785751200000,
-      "dias_sin_actualizar": 47,
+      "dias_sin_actualizar": 48,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajrwe12",
       "desarrollador_real": null
@@ -7584,7 +7587,7 @@
       ],
       "due_date_ms": 1795773600000,
       "date_updated_ms": 1787047200000,
-      "dias_sin_actualizar": 7,
+      "dias_sin_actualizar": 8,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ajkkrgy",
       "desarrollador_real": null
@@ -7854,7 +7857,7 @@
       ],
       "due_date_ms": 1792490400000,
       "date_updated_ms": 1790071200000,
-      "dias_sin_actualizar": 36,
+      "dias_sin_actualizar": 37,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ajgnp2d",
       "desarrollador_real": null
@@ -8827,7 +8830,7 @@
       ],
       "due_date_ms": 1780048800000,
       "date_updated_ms": 1779444000000,
-      "dias_sin_actualizar": 180,
+      "dias_sin_actualizar": 181,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ahm2rtp",
       "desarrollador_real": null
@@ -12875,7 +12878,7 @@
       ],
       "due_date_ms": 1795413600000,
       "date_updated_ms": 1794895200000,
-      "dias_sin_actualizar": 8,
+      "dias_sin_actualizar": 9,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86adpqcx2",
       "desarrollador_real": "Jesus Hervey Moreno"
@@ -17666,7 +17669,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1795519859545,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aegcy8",
       "desarrollador_real": null
@@ -28233,10 +28236,10 @@
     },
     {
       "empleado": "23",
-      "total_horas": 10237.5,
-      "num_registros": 5107,
+      "total_horas": 10242.25,
+      "num_registros": 5113,
       "promedio_horas_registro": 2,
-      "pct_descripciones_unicas": 33.42,
+      "pct_descripciones_unicas": 33.44,
       "top_descripciones_repetidas": [
         {
           "desc": "Preparando ambiente Virtual para Pruebas",
@@ -28285,7 +28288,7 @@
         "2024-11": 211.5,
         "2026-03": 220,
         "2023-03": 236.5,
-        "2026-11": 177.25,
+        "2026-11": 182,
         "2025-04": 223.5,
         "2026-08": 216.25,
         "2023-11": 224,
@@ -32768,15 +32771,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2696",
-      "categoria": "TST",
-      "horas": 10.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3353",
       "categoria": "TST",
       "horas": 39.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2696",
+      "categoria": "TST",
+      "horas": 10.5,
       "clickup_match": null
     },
     {
@@ -32798,6 +32801,12 @@
       "clickup_match": null
     },
     {
+      "id_proyecto": "3371",
+      "categoria": "PTC",
+      "horas": 7.5,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "2475",
       "categoria": "DEV",
       "horas": 1.5,
@@ -32807,12 +32816,6 @@
       "id_proyecto": "2935",
       "categoria": "No aplica",
       "horas": 2.42,
-      "clickup_match": null
-    },
-    {
-      "id_proyecto": "3371",
-      "categoria": "PTC",
-      "horas": 7.5,
       "clickup_match": null
     },
     {
@@ -33194,15 +33197,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3167",
-      "categoria": "No aplica",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3505",
       "categoria": "ADM",
       "horas": 17,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3167",
+      "categoria": "No aplica",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -33410,15 +33413,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3017",
-      "categoria": "OTR",
-      "horas": 62.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3366",
       "categoria": "SOP",
       "horas": 15.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3017",
+      "categoria": "OTR",
+      "horas": 62.75,
       "clickup_match": null
     },
     {
@@ -33788,15 +33791,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2703",
-      "categoria": "ANL",
-      "horas": 53.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3345",
       "categoria": "PTC",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2703",
+      "categoria": "ANL",
+      "horas": 53.5,
       "clickup_match": null
     },
     {
@@ -34040,15 +34043,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3007",
-      "categoria": "ANL",
-      "horas": 67,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3371",
       "categoria": "DEV",
       "horas": 204.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3007",
+      "categoria": "ANL",
+      "horas": 67,
       "clickup_match": null
     },
     {
@@ -34322,15 +34325,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3019",
-      "categoria": "ADM",
-      "horas": 8.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2760",
       "categoria": "DEV",
       "horas": 2,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3019",
+      "categoria": "ADM",
+      "horas": 8.25,
       "clickup_match": null
     },
     {
@@ -34430,15 +34433,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2654",
-      "categoria": "ANL",
-      "horas": 83.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3453",
       "categoria": "ANL",
       "horas": 26.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2654",
+      "categoria": "ANL",
+      "horas": 83.75,
       "clickup_match": null
     },
     {
@@ -34460,15 +34463,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2532",
-      "categoria": "TST",
-      "horas": 0.33,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3188",
       "categoria": "ANL",
       "horas": 2.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2532",
+      "categoria": "TST",
+      "horas": 0.33,
       "clickup_match": null
     },
     {
@@ -34502,15 +34505,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2672",
-      "categoria": "ANL",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3150",
       "categoria": "CCE",
       "horas": 2.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2672",
+      "categoria": "ANL",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -34574,15 +34577,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2899",
-      "categoria": "OTR",
-      "horas": 3.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3458",
       "categoria": "PTC",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2899",
+      "categoria": "OTR",
+      "horas": 3.75,
       "clickup_match": null
     },
     {
@@ -35240,15 +35243,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3157",
-      "categoria": "ADV",
-      "horas": 0.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3251",
       "categoria": "SOP",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3157",
+      "categoria": "ADV",
+      "horas": 0.75,
       "clickup_match": null
     },
     {
@@ -35648,15 +35651,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2719",
-      "categoria": "ADM",
-      "horas": 2,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3503",
       "categoria": "TST",
       "horas": 3.33,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2719",
+      "categoria": "ADM",
+      "horas": 2,
       "clickup_match": null
     },
     {
@@ -36272,15 +36275,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3072",
-      "categoria": "ANL",
-      "horas": 16,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3371",
       "categoria": "ANL",
       "horas": 15,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3072",
+      "categoria": "ANL",
+      "horas": 16,
       "clickup_match": null
     },
     {
@@ -36386,15 +36389,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2318",
-      "categoria": "ADM",
-      "horas": 17,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3299",
       "categoria": "No aplica",
       "horas": 6.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2318",
+      "categoria": "ADM",
+      "horas": 17,
       "clickup_match": null
     },
     {
@@ -36842,15 +36845,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2420",
-      "categoria": "ANL",
-      "horas": 5.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3307",
       "categoria": "No aplica",
       "horas": 0.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2420",
+      "categoria": "ANL",
+      "horas": 5.5,
       "clickup_match": null
     },
     {
@@ -37478,15 +37481,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3307",
-      "categoria": "ADM",
-      "horas": 1.92,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3237",
       "categoria": "DOC",
       "horas": 13.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3307",
+      "categoria": "ADM",
+      "horas": 1.92,
       "clickup_match": null
     },
     {
@@ -37532,15 +37535,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2587",
-      "categoria": "ANL",
-      "horas": 1.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3108",
       "categoria": "ADM",
       "horas": 2.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2587",
+      "categoria": "ANL",
+      "horas": 1.75,
       "clickup_match": null
     },
     {
@@ -37646,15 +37649,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3086",
-      "categoria": "DEV",
-      "horas": 31,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3361",
       "categoria": "ANL",
       "horas": 1.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3086",
+      "categoria": "DEV",
+      "horas": 31,
       "clickup_match": null
     },
     {
@@ -37772,15 +37775,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3012",
-      "categoria": "DEV",
-      "horas": 150.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2930",
       "categoria": "DOC",
       "horas": 12.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3012",
+      "categoria": "DEV",
+      "horas": 150.75,
       "clickup_match": null
     },
     {
@@ -37814,15 +37817,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2959",
-      "categoria": "ANL",
-      "horas": 83.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3373",
       "categoria": "ADM",
       "horas": 0.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2959",
+      "categoria": "ANL",
+      "horas": 83.75,
       "clickup_match": null
     },
     {
@@ -37898,6 +37901,12 @@
       "clickup_match": null
     },
     {
+      "id_proyecto": "2095",
+      "categoria": "ADM",
+      "horas": 1.72,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "1471",
       "categoria": "OTR",
       "horas": 27.75,
@@ -37907,12 +37916,6 @@
       "id_proyecto": "2952",
       "categoria": "ADM",
       "horas": 14.5,
-      "clickup_match": null
-    },
-    {
-      "id_proyecto": "2095",
-      "categoria": "ADM",
-      "horas": 1.72,
       "clickup_match": null
     },
     {
@@ -37976,15 +37979,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2515",
-      "categoria": "IMP",
-      "horas": 27.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3359",
       "categoria": "PTC",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2515",
+      "categoria": "IMP",
+      "horas": 27.5,
       "clickup_match": null
     },
     {
@@ -38054,15 +38057,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2674",
-      "categoria": "ANL",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3249",
       "categoria": "IMP",
       "horas": 8,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2674",
+      "categoria": "ANL",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -38228,15 +38231,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2313",
-      "categoria": "DEV",
-      "horas": 5.33,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3229",
       "categoria": "ANL",
       "horas": 82.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2313",
+      "categoria": "DEV",
+      "horas": 5.33,
       "clickup_match": null
     },
     {
@@ -38710,7 +38713,7 @@
     {
       "id_proyecto": "3502",
       "categoria": "ANL",
-      "horas": 5,
+      "horas": 6.5,
       "clickup_match": null
     },
     {
@@ -38996,15 +38999,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2376",
-      "categoria": "SOP",
-      "horas": 1.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3338",
       "categoria": "ADM",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2376",
+      "categoria": "SOP",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -39080,15 +39083,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2655",
-      "categoria": "TST",
-      "horas": 6,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3360",
       "categoria": "DOC",
       "horas": 19.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2655",
+      "categoria": "TST",
+      "horas": 6,
       "clickup_match": null
     },
     {
@@ -39200,15 +39203,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2592",
-      "categoria": "ADV",
-      "horas": 4,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3273",
       "categoria": "SOP",
       "horas": 3.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2592",
+      "categoria": "ADV",
+      "horas": 4,
       "clickup_match": null
     },
     {
@@ -39365,6 +39368,12 @@
       "id_proyecto": "2695",
       "categoria": "ADM",
       "horas": 110.9,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3517",
+      "categoria": "ANL",
+      "horas": 1.25,
       "clickup_match": null
     },
     {
@@ -39560,15 +39569,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3011",
-      "categoria": "No aplica",
-      "horas": 27.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3280",
       "categoria": "DOC",
       "horas": 0.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3011",
+      "categoria": "No aplica",
+      "horas": 27.75,
       "clickup_match": null
     },
     {
@@ -39596,15 +39605,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3510",
-      "categoria": "SOP",
-      "horas": 0.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3229",
       "categoria": "PTC",
       "horas": 6.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3510",
+      "categoria": "SOP",
+      "horas": 0.5,
       "clickup_match": null
     },
     {
@@ -39752,15 +39761,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2754",
-      "categoria": "DOC",
-      "horas": 10,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3250",
       "categoria": "ADM",
       "horas": 2.67,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2754",
+      "categoria": "DOC",
+      "horas": 10,
       "clickup_match": null
     },
     {
@@ -39776,15 +39785,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2876",
-      "categoria": "ADM",
-      "horas": 5.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3009",
       "categoria": "ADM",
       "horas": 4.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2876",
+      "categoria": "ADM",
+      "horas": 5.75,
       "clickup_match": null
     },
     {
@@ -39992,15 +40001,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2546",
-      "categoria": "TST",
-      "horas": 67.47,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2708",
       "categoria": "ADV",
       "horas": 1.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2546",
+      "categoria": "TST",
+      "horas": 67.47,
       "clickup_match": null
     },
     {
@@ -40994,15 +41003,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2402",
-      "categoria": "DEV",
-      "horas": 181,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3339",
       "categoria": "ANL",
       "horas": 2.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2402",
+      "categoria": "DEV",
+      "horas": 181,
       "clickup_match": null
     },
     {
@@ -41072,15 +41081,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3175",
-      "categoria": "ANL",
-      "horas": 21.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3265",
       "categoria": "OTR",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3175",
+      "categoria": "ANL",
+      "horas": 21.25,
       "clickup_match": null
     },
     {
@@ -41096,15 +41105,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2410",
-      "categoria": "IMP",
-      "horas": 52.47,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2708",
       "categoria": "No aplica",
       "horas": 34,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2410",
+      "categoria": "IMP",
+      "horas": 52.47,
       "clickup_match": null
     },
     {
@@ -41252,15 +41261,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2272",
-      "categoria": "DEV",
-      "horas": 170.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3327",
       "categoria": "ADM",
       "horas": 2.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2272",
+      "categoria": "DEV",
+      "horas": 170.25,
       "clickup_match": null
     },
     {
@@ -41294,15 +41303,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2624",
-      "categoria": "IMP",
-      "horas": 0.37,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3229",
       "categoria": "TST",
       "horas": 22,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2624",
+      "categoria": "IMP",
+      "horas": 0.37,
       "clickup_match": null
     },
     {
@@ -41324,15 +41333,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2952",
-      "categoria": "CCE",
-      "horas": 2.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3143",
       "categoria": "TST",
       "horas": 17.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2952",
+      "categoria": "CCE",
+      "horas": 2.5,
       "clickup_match": null
     },
     {
@@ -41468,15 +41477,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2666",
-      "categoria": "ANL",
-      "horas": 38.42,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2921",
       "categoria": "No aplica",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2666",
+      "categoria": "ANL",
+      "horas": 38.42,
       "clickup_match": null
     },
     {
@@ -41546,15 +41555,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3068",
-      "categoria": "DEV",
-      "horas": 78.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3348",
       "categoria": "OTR",
       "horas": 119,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3068",
+      "categoria": "DEV",
+      "horas": 78.5,
       "clickup_match": null
     },
     {
@@ -41588,15 +41597,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3137",
-      "categoria": "ANL",
-      "horas": 37.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2856",
       "categoria": "ADM",
       "horas": 12.47,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3137",
+      "categoria": "ANL",
+      "horas": 37.75,
       "clickup_match": null
     },
     {
@@ -41774,15 +41783,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2824",
-      "categoria": "DOC",
-      "horas": 13.83,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2945",
       "categoria": "ANL",
       "horas": 6.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2824",
+      "categoria": "DOC",
+      "horas": 13.83,
       "clickup_match": null
     },
     {
@@ -41828,15 +41837,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2763",
-      "categoria": "ADV",
-      "horas": 2,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3461",
       "categoria": "ANL",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2763",
+      "categoria": "ADV",
+      "horas": 2,
       "clickup_match": null
     },
     {
@@ -41846,15 +41855,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3047",
-      "categoria": "DEV",
-      "horas": 173,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3122",
       "categoria": "ADM",
       "horas": 5.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3047",
+      "categoria": "DEV",
+      "horas": 173,
       "clickup_match": null
     },
     {
@@ -42086,15 +42095,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2869",
-      "categoria": "DOC",
-      "horas": 12,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3249",
       "categoria": "TST",
       "horas": 9.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2869",
+      "categoria": "DOC",
+      "horas": 12,
       "clickup_match": null
     },
     {
@@ -42248,15 +42257,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3137",
-      "categoria": "ADM",
-      "horas": 5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3203",
       "categoria": "DEV",
       "horas": 62,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3137",
+      "categoria": "ADM",
+      "horas": 5,
       "clickup_match": null
     },
     {
@@ -42524,15 +42533,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2718",
-      "categoria": "ADM",
-      "horas": 13.12,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3293",
       "categoria": "PTC",
       "horas": 1.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2718",
+      "categoria": "ADM",
+      "horas": 13.12,
       "clickup_match": null
     },
     {
@@ -42848,15 +42857,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2509",
-      "categoria": "DOC",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3359",
       "categoria": "CCI",
       "horas": 1.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2509",
+      "categoria": "DOC",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -43850,15 +43859,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3038",
-      "categoria": "DOC",
-      "horas": 9.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3071",
       "categoria": "No aplica",
       "horas": 0.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3038",
+      "categoria": "DOC",
+      "horas": 9.25,
       "clickup_match": null
     },
     {
@@ -44318,15 +44327,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3509",
-      "categoria": "ADM",
-      "horas": 5.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3211",
       "categoria": "ADM",
       "horas": 9.08,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3509",
+      "categoria": "ADM",
+      "horas": 5.25,
       "clickup_match": null
     },
     {
@@ -44386,7 +44395,7 @@
     {
       "id_proyecto": "3496",
       "categoria": "ANL",
-      "horas": 30.25,
+      "horas": 32.25,
       "clickup_match": null
     },
     {
@@ -44888,15 +44897,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3134",
-      "categoria": "ADM",
-      "horas": 4.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2999",
       "categoria": "DOC",
       "horas": 3.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3134",
+      "categoria": "ADM",
+      "horas": 4.75,
       "clickup_match": null
     },
     {
@@ -45044,14 +45053,14 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2826",
-      "categoria": "ADM",
+      "id_proyecto": "2950",
+      "categoria": "ANL",
       "horas": 0.5,
       "clickup_match": null
     },
     {
-      "id_proyecto": "2950",
-      "categoria": "ANL",
+      "id_proyecto": "2826",
+      "categoria": "ADM",
       "horas": 0.5,
       "clickup_match": null
     },
@@ -45164,15 +45173,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2792",
-      "categoria": "DEV",
-      "horas": 44,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3349",
       "categoria": "ADM",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2792",
+      "categoria": "DEV",
+      "horas": 44,
       "clickup_match": null
     },
     {
@@ -45332,15 +45341,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2642",
-      "categoria": "ANL",
-      "horas": 54,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3233",
       "categoria": "ADM",
       "horas": 11.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2642",
+      "categoria": "ANL",
+      "horas": 54,
       "clickup_match": null
     },
     {
@@ -45512,15 +45521,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2654",
-      "categoria": "DEV",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3342",
       "categoria": "DEV",
       "horas": 128.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2654",
+      "categoria": "DEV",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -45602,15 +45611,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2858",
-      "categoria": "DEV",
-      "horas": 3.65,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2526",
       "categoria": "ADM",
       "horas": 664.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2858",
+      "categoria": "DEV",
+      "horas": 3.65,
       "clickup_match": null
     },
     {
@@ -45620,14 +45629,14 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2632",
-      "categoria": "OTR",
+      "id_proyecto": "2960",
+      "categoria": "IMP",
       "horas": 0.25,
       "clickup_match": null
     },
     {
-      "id_proyecto": "2960",
-      "categoria": "IMP",
+      "id_proyecto": "2632",
+      "categoria": "OTR",
       "horas": 0.25,
       "clickup_match": null
     },
@@ -45644,15 +45653,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2600",
-      "categoria": "CCE",
-      "horas": 5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3474",
       "categoria": "ANL",
       "horas": 1.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2600",
+      "categoria": "CCE",
+      "horas": 5,
       "clickup_match": null
     },
     {
@@ -45758,15 +45767,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3090",
-      "categoria": "No aplica",
-      "horas": 1.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3360",
       "categoria": "PTC",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3090",
+      "categoria": "No aplica",
+      "horas": 1.75,
       "clickup_match": null
     },
     {
@@ -45914,15 +45923,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3142",
-      "categoria": "ANL",
-      "horas": 11.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2961",
       "categoria": "SOP",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3142",
+      "categoria": "ANL",
+      "horas": 11.5,
       "clickup_match": null
     },
     {
@@ -46064,15 +46073,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2578",
-      "categoria": "IMP",
-      "horas": 2.55,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3255",
       "categoria": "ANL",
       "horas": 5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2578",
+      "categoria": "IMP",
+      "horas": 2.55,
       "clickup_match": null
     },
     {
@@ -46280,15 +46289,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3343",
-      "categoria": "TST",
-      "horas": 7.63,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3302",
       "categoria": "ANL",
       "horas": 4,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3343",
+      "categoria": "TST",
+      "horas": 7.63,
       "clickup_match": null
     },
     {
@@ -46616,15 +46625,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2658",
-      "categoria": "TST",
-      "horas": 50.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3326",
       "categoria": "SOP",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2658",
+      "categoria": "TST",
+      "horas": 50.5,
       "clickup_match": null
     },
     {
@@ -46718,12 +46727,6 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2780",
-      "categoria": "ADV",
-      "horas": 2.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2859",
       "categoria": "SOP",
       "horas": 0.25,
@@ -46733,6 +46736,12 @@
       "id_proyecto": "2914",
       "categoria": "No aplica",
       "horas": 28.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2780",
+      "categoria": "ADV",
+      "horas": 2.75,
       "clickup_match": null
     },
     {
@@ -47072,15 +47081,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2640",
-      "categoria": "SOP",
-      "horas": 0.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3173",
       "categoria": "ADM",
       "horas": 6.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2640",
+      "categoria": "SOP",
+      "horas": 0.75,
       "clickup_match": null
     },
     {
@@ -47132,15 +47141,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2173",
-      "categoria": "TST",
-      "horas": 1239.6,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3329",
       "categoria": "DOC",
       "horas": 12,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2173",
+      "categoria": "TST",
+      "horas": 1239.6,
       "clickup_match": null
     },
     {
@@ -47270,15 +47279,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2421",
-      "categoria": "DOC",
-      "horas": 5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3482",
       "categoria": "ANL",
       "horas": 0.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2421",
+      "categoria": "DOC",
+      "horas": 5,
       "clickup_match": null
     },
     {
@@ -47348,21 +47357,27 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3192",
-      "categoria": "ADM",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2606",
       "categoria": "ADV",
       "horas": 12.75,
       "clickup_match": null
     },
     {
+      "id_proyecto": "3192",
+      "categoria": "ADM",
+      "horas": 1,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "2537",
       "categoria": "ADV",
       "horas": 5.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3306",
+      "categoria": "CCI",
+      "horas": 2.25,
       "clickup_match": null
     },
     {
@@ -47375,12 +47390,6 @@
       "id_proyecto": "2375",
       "categoria": "DOC",
       "horas": 3,
-      "clickup_match": null
-    },
-    {
-      "id_proyecto": "3306",
-      "categoria": "CCI",
-      "horas": 2.25,
       "clickup_match": null
     },
     {
@@ -47456,15 +47465,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2861",
-      "categoria": "IMP",
-      "horas": 0.58,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2650",
       "categoria": "ADM",
       "horas": 6.53,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2861",
+      "categoria": "IMP",
+      "horas": 0.58,
       "clickup_match": null
     },
     {
@@ -47654,15 +47663,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2334",
-      "categoria": "TST",
-      "horas": 4.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3058",
       "categoria": "OTR",
       "horas": 1.83,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2334",
+      "categoria": "TST",
+      "horas": 4.5,
       "clickup_match": null
     },
     {
@@ -47834,15 +47843,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3047",
-      "categoria": "TST",
-      "horas": 9.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3086",
       "categoria": "TST",
       "horas": 6.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3047",
+      "categoria": "TST",
+      "horas": 9.75,
       "clickup_match": null
     },
     {
@@ -48290,12 +48299,6 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3062",
-      "categoria": "ADM",
-      "horas": 3.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2941",
       "categoria": "ADM",
       "horas": 1,
@@ -48305,6 +48308,12 @@
       "id_proyecto": "2660",
       "categoria": "SOP",
       "horas": 32.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3062",
+      "categoria": "ADM",
+      "horas": 3.25,
       "clickup_match": null
     },
     {
@@ -48410,15 +48419,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2485",
-      "categoria": "ADV",
-      "horas": 81.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3494",
       "categoria": "ANL",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2485",
+      "categoria": "ADV",
+      "horas": 81.75,
       "clickup_match": null
     },
     {
@@ -48530,15 +48539,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3033",
-      "categoria": "No aplica",
-      "horas": 14.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3296",
       "categoria": "ADM",
       "horas": 7.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3033",
+      "categoria": "No aplica",
+      "horas": 14.5,
       "clickup_match": null
     },
     {
@@ -48980,15 +48989,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2993",
-      "categoria": "IMP",
-      "horas": 4,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2794",
       "categoria": "ADM",
       "horas": 26.3,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2993",
+      "categoria": "IMP",
+      "horas": 4,
       "clickup_match": null
     },
     {
@@ -49280,15 +49289,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2969",
-      "categoria": "ANL",
-      "horas": 1.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3058",
       "categoria": "ACO",
       "horas": 6,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2969",
+      "categoria": "ANL",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -49682,15 +49691,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2400",
-      "categoria": "DOC",
-      "horas": 17,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3159",
       "categoria": "TST",
       "horas": 10.92,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2400",
+      "categoria": "DOC",
+      "horas": 17,
       "clickup_match": null
     },
     {
@@ -49760,12 +49769,6 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2640",
-      "categoria": "No aplica",
-      "horas": 9,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3485",
       "categoria": "DEV",
       "horas": 30,
@@ -49775,6 +49778,12 @@
       "id_proyecto": "3505",
       "categoria": "DEV",
       "horas": 12,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2640",
+      "categoria": "No aplica",
+      "horas": 9,
       "clickup_match": null
     },
     {
@@ -50414,15 +50423,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2460",
-      "categoria": "ANL",
-      "horas": 72.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2693",
       "categoria": "DEV",
       "horas": 45,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2460",
+      "categoria": "ANL",
+      "horas": 72.25,
       "clickup_match": null
     },
     {
@@ -50444,15 +50453,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2893",
-      "categoria": "ADM",
-      "horas": 1.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3470",
       "categoria": "No aplica",
       "horas": 2.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2893",
+      "categoria": "ADM",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -50618,15 +50627,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3107",
-      "categoria": "IMP",
-      "horas": 0.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2955",
       "categoria": "SOP",
       "horas": 3,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3107",
+      "categoria": "IMP",
+      "horas": 0.5,
       "clickup_match": null
     },
     {
@@ -51116,15 +51125,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2543",
-      "categoria": "OTR",
-      "horas": 12,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3360",
       "categoria": "OTR",
       "horas": 16.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2543",
+      "categoria": "OTR",
+      "horas": 12,
       "clickup_match": null
     },
     {
@@ -51176,15 +51185,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3011",
-      "categoria": "DEV",
-      "horas": 91.62,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2949",
       "categoria": "SOP",
       "horas": 3.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3011",
+      "categoria": "DEV",
+      "horas": 91.62,
       "clickup_match": null
     },
     {
@@ -51236,15 +51245,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2636",
-      "categoria": "DOC",
-      "horas": 1,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3121",
       "categoria": "ANL",
       "horas": 2.37,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2636",
+      "categoria": "DOC",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -51356,15 +51365,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2557",
-      "categoria": "OTR",
-      "horas": 0.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3375",
       "categoria": "DOC",
       "horas": 3.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2557",
+      "categoria": "OTR",
+      "horas": 0.75,
       "clickup_match": null
     },
     {
@@ -51950,15 +51959,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3486",
-      "categoria": "IMP",
-      "horas": 1.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3249",
       "categoria": "ADV",
       "horas": 2.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3486",
+      "categoria": "IMP",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -52508,15 +52517,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2599",
-      "categoria": "ANL",
-      "horas": 0.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3332",
       "categoria": "OFI",
       "horas": 1,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2599",
+      "categoria": "ANL",
+      "horas": 0.25,
       "clickup_match": null
     },
     {
@@ -52550,15 +52559,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2818",
-      "categoria": "No aplica",
-      "horas": 24,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3493",
       "categoria": "ADM",
       "horas": 1.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2818",
+      "categoria": "No aplica",
+      "horas": 24,
       "clickup_match": null
     },
     {
@@ -54146,15 +54155,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2376",
-      "categoria": "DEV",
-      "horas": 107.42,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3343",
       "categoria": "DEV",
       "horas": 82,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2376",
+      "categoria": "DEV",
+      "horas": 107.42,
       "clickup_match": null
     },
     {
@@ -54236,27 +54245,27 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2684",
-      "categoria": "DOC",
-      "horas": 12,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2796",
       "categoria": "ADM",
       "horas": 7.92,
       "clickup_match": null
     },
     {
-      "id_proyecto": "2553",
-      "categoria": "ANL",
-      "horas": 1,
+      "id_proyecto": "2684",
+      "categoria": "DOC",
+      "horas": 12,
       "clickup_match": null
     },
     {
       "id_proyecto": "3222",
       "categoria": "ACO",
       "horas": 9.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2553",
+      "categoria": "ANL",
+      "horas": 1,
       "clickup_match": null
     },
     {
@@ -54344,15 +54353,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3035",
-      "categoria": "ANL",
-      "horas": 3.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3322",
       "categoria": "ANL",
       "horas": 10.58,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3035",
+      "categoria": "ANL",
+      "horas": 3.75,
       "clickup_match": null
     },
     {
@@ -54692,15 +54701,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "3147",
-      "categoria": "ANL",
-      "horas": 51.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3424",
       "categoria": "ADM",
       "horas": 1.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "3147",
+      "categoria": "ANL",
+      "horas": 51.75,
       "clickup_match": null
     },
     {
@@ -55832,15 +55841,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2720",
-      "categoria": "IMP",
-      "horas": 4,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3252",
       "categoria": "ANL",
       "horas": 9.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2720",
+      "categoria": "IMP",
+      "horas": 4,
       "clickup_match": null
     },
     {
@@ -56018,15 +56027,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2939",
-      "categoria": "ANL",
-      "horas": 10.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3358",
       "categoria": "ADM",
       "horas": 57.5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2939",
+      "categoria": "ANL",
+      "horas": 10.75,
       "clickup_match": null
     },
     {
@@ -56246,15 +56255,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2658",
-      "categoria": "ADV",
-      "horas": 1.5,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3495",
       "categoria": "ANL",
       "horas": 5,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2658",
+      "categoria": "ADV",
+      "horas": 1.5,
       "clickup_match": null
     },
     {
@@ -56408,15 +56417,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2666",
-      "categoria": "IMP",
-      "horas": 194.65,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3063",
       "categoria": "ACO",
       "horas": 10,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2666",
+      "categoria": "IMP",
+      "horas": 194.65,
       "clickup_match": null
     },
     {
@@ -56684,6 +56693,12 @@
       "clickup_match": null
     },
     {
+      "id_proyecto": "2935",
+      "categoria": "DOC",
+      "horas": 5.75,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "2599",
       "categoria": "DEV",
       "horas": 0.5,
@@ -56693,12 +56708,6 @@
       "id_proyecto": "2998",
       "categoria": "No aplica",
       "horas": 3.25,
-      "clickup_match": null
-    },
-    {
-      "id_proyecto": "2935",
-      "categoria": "DOC",
-      "horas": 5.75,
       "clickup_match": null
     },
     {
@@ -57248,15 +57257,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2570",
-      "categoria": "IMP",
-      "horas": 19.75,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "2488",
       "categoria": "TST",
       "horas": 11,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2570",
+      "categoria": "IMP",
+      "horas": 19.75,
       "clickup_match": null
     },
     {
@@ -57344,15 +57353,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2458",
-      "categoria": "TST",
-      "horas": 5.72,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3519",
       "categoria": "No aplica",
       "horas": 12,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2458",
+      "categoria": "TST",
+      "horas": 5.72,
       "clickup_match": null
     },
     {
@@ -57530,15 +57539,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2173",
-      "categoria": "ANL",
-      "horas": 517.92,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3347",
       "categoria": "ANL",
       "horas": 22.25,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2173",
+      "categoria": "ANL",
+      "horas": 517.92,
       "clickup_match": null
     },
     {
@@ -58478,15 +58487,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2337",
-      "categoria": "CCE",
-      "horas": 2,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3467",
       "categoria": "DEV",
       "horas": 125.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2337",
+      "categoria": "CCE",
+      "horas": 2,
       "clickup_match": null
     },
     {
@@ -58640,6 +58649,12 @@
       "clickup_match": null
     },
     {
+      "id_proyecto": "3230",
+      "categoria": "ADM",
+      "horas": 0.5,
+      "clickup_match": null
+    },
+    {
       "id_proyecto": "2684",
       "categoria": "DEV",
       "horas": 80,
@@ -58649,12 +58664,6 @@
       "id_proyecto": "2257",
       "categoria": "ADM",
       "horas": 2,
-      "clickup_match": null
-    },
-    {
-      "id_proyecto": "3230",
-      "categoria": "ADM",
-      "horas": 0.5,
       "clickup_match": null
     },
     {
@@ -58880,15 +58889,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2670",
-      "categoria": "DOC",
-      "horas": 11.25,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3057",
       "categoria": "TST",
       "horas": 7,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2670",
+      "categoria": "DOC",
+      "horas": 11.25,
       "clickup_match": null
     },
     {
@@ -59006,15 +59015,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2484",
-      "categoria": "TST",
-      "horas": 0.33,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3403",
       "categoria": "DEV",
       "horas": 64.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2484",
+      "categoria": "TST",
+      "horas": 0.33,
       "clickup_match": null
     },
     {
@@ -59558,15 +59567,15 @@
       "clickup_match": null
     },
     {
-      "id_proyecto": "2364",
-      "categoria": "TST",
-      "horas": 30,
-      "clickup_match": null
-    },
-    {
       "id_proyecto": "3396",
       "categoria": "ADM",
       "horas": 3.75,
+      "clickup_match": null
+    },
+    {
+      "id_proyecto": "2364",
+      "categoria": "TST",
+      "horas": 30,
       "clickup_match": null
     },
     {
@@ -60288,7 +60297,7 @@
     },
     {
       "cliente": "Bankaool",
-      "total_horas": 7607.83,
+      "total_horas": 7611.08,
       "por_mes": {
         "2023-11": 2.75,
         "2023-12": 15.5,
@@ -60326,7 +60335,7 @@
         "2026-08": 692.28,
         "2026-09": 675.83,
         "2026-10": 638.32,
-        "2026-11": 349.17
+        "2026-11": 352.42
       }
     },
     {
@@ -62214,7 +62223,7 @@
     },
     {
       "cliente": "M2Crowd, IFPE",
-      "total_horas": 237.92,
+      "total_horas": 239.42,
       "por_mes": {
         "2023-12": 1.25,
         "2024-01": 18.58,
@@ -62235,7 +62244,7 @@
         "2026-08": 13.25,
         "2026-09": 7.25,
         "2026-10": 41.22,
-        "2026-11": 16.42
+        "2026-11": 17.92
       }
     },
     {
@@ -68652,15 +68661,15 @@
     },
     {
       "fecha": "2026-11-24",
-      "horas": 78.85
+      "horas": 80.85
     },
     {
       "fecha": "2026-11-25",
-      "horas": 33.25
+      "horas": 34.75
     },
     {
       "fecha": "2026-11-26",
-      "horas": 8.75
+      "horas": 6.5
     },
     {
       "fecha": "2026-11-27",
@@ -68751,14 +68760,14 @@
       "horas": 38
     },
     {
-      "empleado": "P10",
-      "semana": "2024-W12",
-      "horas": 16
-    },
-    {
       "empleado": "122",
       "semana": "2026-W39",
       "horas": 45
+    },
+    {
+      "empleado": "P10",
+      "semana": "2024-W12",
+      "horas": 16
     },
     {
       "empleado": "14",
@@ -69531,14 +69540,14 @@
       "horas": 56.75
     },
     {
-      "empleado": "114",
-      "semana": "2024-W20",
-      "horas": 32.5
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W40",
       "horas": 26.92
+    },
+    {
+      "empleado": "114",
+      "semana": "2024-W20",
+      "horas": 32.5
     },
     {
       "empleado": "87",
@@ -70076,14 +70085,14 @@
       "horas": 48
     },
     {
-      "empleado": "26",
-      "semana": "2023-W48",
-      "horas": 44.32
-    },
-    {
       "empleado": "69",
       "semana": "2025-W39",
       "horas": 50.5
+    },
+    {
+      "empleado": "26",
+      "semana": "2023-W48",
+      "horas": 44.32
     },
     {
       "empleado": "36",
@@ -70376,14 +70385,14 @@
       "horas": 59
     },
     {
-      "empleado": "29",
-      "semana": "2024-W46",
-      "horas": 48.5
-    },
-    {
       "empleado": "123",
       "semana": "2026-W31",
       "horas": 50.75
+    },
+    {
+      "empleado": "29",
+      "semana": "2024-W46",
+      "horas": 48.5
     },
     {
       "empleado": "68",
@@ -70451,13 +70460,13 @@
       "horas": 9
     },
     {
-      "empleado": "36",
-      "semana": "2023-W09",
+      "empleado": "128",
+      "semana": "2026-W36",
       "horas": 45
     },
     {
-      "empleado": "128",
-      "semana": "2026-W36",
+      "empleado": "36",
+      "semana": "2023-W09",
       "horas": 45
     },
     {
@@ -70526,14 +70535,14 @@
       "horas": 9
     },
     {
-      "empleado": "126",
-      "semana": "2025-W22",
-      "horas": 52.5
-    },
-    {
       "empleado": "119",
       "semana": "2026-W31",
       "horas": 37
+    },
+    {
+      "empleado": "126",
+      "semana": "2025-W22",
+      "horas": 52.5
     },
     {
       "empleado": "95",
@@ -70696,14 +70705,14 @@
       "horas": 26.25
     },
     {
-      "empleado": "126",
-      "semana": "2026-W21",
-      "horas": 53
-    },
-    {
       "empleado": "125",
       "semana": "2026-W37",
       "horas": 28
+    },
+    {
+      "empleado": "126",
+      "semana": "2026-W21",
+      "horas": 53
     },
     {
       "empleado": "93",
@@ -70806,14 +70815,14 @@
       "horas": 62
     },
     {
-      "empleado": "121",
-      "semana": "2026-W05",
-      "horas": 34.75
-    },
-    {
       "empleado": "80",
       "semana": "2026-W31",
       "horas": 50.5
+    },
+    {
+      "empleado": "121",
+      "semana": "2026-W05",
+      "horas": 34.75
     },
     {
       "empleado": "20",
@@ -70891,14 +70900,14 @@
       "horas": 45.5
     },
     {
-      "empleado": "110",
-      "semana": "2025-W48",
-      "horas": 40.5
-    },
-    {
       "empleado": "47",
       "semana": "2023-W47",
       "horas": 44.25
+    },
+    {
+      "empleado": "110",
+      "semana": "2025-W48",
+      "horas": 40.5
     },
     {
       "empleado": "19",
@@ -70936,14 +70945,14 @@
       "horas": 37.75
     },
     {
-      "empleado": "87",
-      "semana": "2023-W26",
-      "horas": 41
-    },
-    {
       "empleado": "70",
       "semana": "2026-W26",
       "horas": 37.33
+    },
+    {
+      "empleado": "87",
+      "semana": "2023-W26",
+      "horas": 41
     },
     {
       "empleado": "29",
@@ -70961,14 +70970,14 @@
       "horas": 44
     },
     {
-      "empleado": "54",
-      "semana": "2023-W23",
-      "horas": 48.25
-    },
-    {
       "empleado": "129",
       "semana": "2026-W35",
       "horas": 43
+    },
+    {
+      "empleado": "54",
+      "semana": "2023-W23",
+      "horas": 48.25
     },
     {
       "empleado": "68",
@@ -71006,14 +71015,14 @@
       "horas": 45.25
     },
     {
-      "empleado": "P31",
-      "semana": "2025-W47",
-      "horas": 31.08
-    },
-    {
       "empleado": "26",
       "semana": "2025-W37",
       "horas": 25.42
+    },
+    {
+      "empleado": "P31",
+      "semana": "2025-W47",
+      "horas": 31.08
     },
     {
       "empleado": "81",
@@ -71196,14 +71205,14 @@
       "horas": 38.5
     },
     {
-      "empleado": "91",
-      "semana": "2024-W44",
-      "horas": 86
-    },
-    {
       "empleado": "E23",
       "semana": "2026-W47",
       "horas": 40.5
+    },
+    {
+      "empleado": "91",
+      "semana": "2024-W44",
+      "horas": 86
     },
     {
       "empleado": "111",
@@ -71726,6 +71735,11 @@
       "horas": 32.25
     },
     {
+      "empleado": "20",
+      "semana": "2024-W43",
+      "horas": 41.5
+    },
+    {
       "empleado": "67",
       "semana": "2023-W48",
       "horas": 45.75
@@ -71734,11 +71748,6 @@
       "empleado": "93",
       "semana": "2023-W06",
       "horas": 36
-    },
-    {
-      "empleado": "20",
-      "semana": "2024-W43",
-      "horas": 41.5
     },
     {
       "empleado": "95",
@@ -71841,14 +71850,14 @@
       "horas": 50
     },
     {
-      "empleado": "29",
-      "semana": "2023-W28",
-      "horas": 24.92
-    },
-    {
       "empleado": "14",
       "semana": "2025-W39",
       "horas": 9.58
+    },
+    {
+      "empleado": "29",
+      "semana": "2023-W28",
+      "horas": 24.92
     },
     {
       "empleado": "94",
@@ -72251,14 +72260,14 @@
       "horas": 50.33
     },
     {
-      "empleado": "P28",
-      "semana": "2025-W47",
-      "horas": 9
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W39",
       "horas": 21.33
+    },
+    {
+      "empleado": "P28",
+      "semana": "2025-W47",
+      "horas": 9
     },
     {
       "empleado": "128",
@@ -72391,6 +72400,11 @@
       "horas": 37.5
     },
     {
+      "empleado": "P40",
+      "semana": "2026-W25",
+      "horas": 21.5
+    },
+    {
       "empleado": "126",
       "semana": "2025-W20",
       "horas": 50
@@ -72399,11 +72413,6 @@
       "empleado": "P36",
       "semana": "2026-W10",
       "horas": 30
-    },
-    {
-      "empleado": "P40",
-      "semana": "2026-W25",
-      "horas": 21.5
     },
     {
       "empleado": "14",
@@ -73061,14 +73070,14 @@
       "horas": 30.75
     },
     {
-      "empleado": "P27",
-      "semana": "2025-W22",
-      "horas": 26.25
-    },
-    {
       "empleado": "112",
       "semana": "2026-W42",
       "horas": 40.25
+    },
+    {
+      "empleado": "P27",
+      "semana": "2025-W22",
+      "horas": 26.25
     },
     {
       "empleado": "121",
@@ -73211,14 +73220,14 @@
       "horas": 45
     },
     {
-      "empleado": "22",
-      "semana": "2025-W51",
-      "horas": 36.5
-    },
-    {
       "empleado": "47",
       "semana": "2026-W25",
       "horas": 59.08
+    },
+    {
+      "empleado": "22",
+      "semana": "2025-W51",
+      "horas": 36.5
     },
     {
       "empleado": "127",
@@ -73361,14 +73370,14 @@
       "horas": 39.25
     },
     {
-      "empleado": "112",
-      "semana": "2024-W18",
-      "horas": 39.5
-    },
-    {
       "empleado": "100",
       "semana": "2026-W42",
       "horas": 77.5
+    },
+    {
+      "empleado": "112",
+      "semana": "2024-W18",
+      "horas": 39.5
     },
     {
       "empleado": "50",
@@ -73476,14 +73485,14 @@
       "horas": 9
     },
     {
-      "empleado": "29",
-      "semana": "2026-W47",
-      "horas": 31.33
-    },
-    {
       "empleado": "108",
       "semana": "2024-W39",
       "horas": 47
+    },
+    {
+      "empleado": "29",
+      "semana": "2026-W47",
+      "horas": 31.33
     },
     {
       "empleado": "100",
@@ -73716,14 +73725,14 @@
       "horas": 46.75
     },
     {
-      "empleado": "68",
-      "semana": "2026-W52",
-      "horas": 9
-    },
-    {
       "empleado": "100",
       "semana": "2026-W36",
       "horas": 50
+    },
+    {
+      "empleado": "68",
+      "semana": "2026-W52",
+      "horas": 9
     },
     {
       "empleado": "66",
@@ -73866,14 +73875,14 @@
       "horas": 38.5
     },
     {
-      "empleado": "20",
-      "semana": "2025-W25",
-      "horas": 40.25
-    },
-    {
       "empleado": "125",
       "semana": "2026-W25",
       "horas": 26.53
+    },
+    {
+      "empleado": "20",
+      "semana": "2025-W25",
+      "horas": 40.25
     },
     {
       "empleado": "111",
@@ -73946,6 +73955,11 @@
       "horas": 37
     },
     {
+      "empleado": "69",
+      "semana": "2026-W39",
+      "horas": 48
+    },
+    {
       "empleado": "27",
       "semana": "2025-W04",
       "horas": 22.5
@@ -73954,11 +73968,6 @@
       "empleado": "105",
       "semana": "2025-W42",
       "horas": 42.75
-    },
-    {
-      "empleado": "69",
-      "semana": "2026-W39",
-      "horas": 48
     },
     {
       "empleado": "108",
@@ -74026,6 +74035,11 @@
       "horas": 30
     },
     {
+      "empleado": "69",
+      "semana": "2025-W38",
+      "horas": 49
+    },
+    {
       "empleado": "29",
       "semana": "2023-W15",
       "horas": 5.5
@@ -74036,24 +74050,19 @@
       "horas": 9
     },
     {
-      "empleado": "69",
-      "semana": "2025-W38",
-      "horas": 49
-    },
-    {
       "empleado": "108",
       "semana": "2025-W43",
       "horas": 38.5
     },
     {
-      "empleado": "121",
-      "semana": "2026-W11",
-      "horas": 30.25
-    },
-    {
       "empleado": "133",
       "semana": "2026-W33",
       "horas": 50
+    },
+    {
+      "empleado": "121",
+      "semana": "2026-W11",
+      "horas": 30.25
     },
     {
       "empleado": "20",
@@ -74076,14 +74085,14 @@
       "horas": 42.75
     },
     {
-      "empleado": "121",
-      "semana": "2026-W02",
-      "horas": 41.25
-    },
-    {
       "empleado": "19",
       "semana": "2023-W18",
       "horas": 1.5
+    },
+    {
+      "empleado": "121",
+      "semana": "2026-W02",
+      "horas": 41.25
     },
     {
       "empleado": "E16",
@@ -74216,24 +74225,24 @@
       "horas": 9
     },
     {
-      "empleado": "22",
-      "semana": "2024-W08",
-      "horas": 39
-    },
-    {
       "empleado": "114",
       "semana": "2026-W28",
       "horas": 38.25
     },
     {
-      "empleado": "111",
-      "semana": "2023-W29",
-      "horas": 41.5
+      "empleado": "22",
+      "semana": "2024-W08",
+      "horas": 39
     },
     {
       "empleado": "19",
       "semana": "2024-W44",
       "horas": 42.5
+    },
+    {
+      "empleado": "111",
+      "semana": "2023-W29",
+      "horas": 41.5
     },
     {
       "empleado": "100",
@@ -74291,6 +74300,11 @@
       "horas": 46
     },
     {
+      "empleado": "126",
+      "semana": "2026-W40",
+      "horas": 50.25
+    },
+    {
       "empleado": "33",
       "semana": "2026-W45",
       "horas": 68.5
@@ -74299,11 +74313,6 @@
       "empleado": "20",
       "semana": "2024-W27",
       "horas": 42.5
-    },
-    {
-      "empleado": "126",
-      "semana": "2026-W40",
-      "horas": 50.25
     },
     {
       "empleado": "27",
@@ -74366,14 +74375,14 @@
       "horas": 41.5
     },
     {
-      "empleado": "66",
-      "semana": "2025-W29",
-      "horas": 31
-    },
-    {
       "empleado": "E13",
       "semana": "2026-W40",
       "horas": 45
+    },
+    {
+      "empleado": "66",
+      "semana": "2025-W29",
+      "horas": 31
     },
     {
       "empleado": "99",
@@ -74381,24 +74390,24 @@
       "horas": 6.25
     },
     {
-      "empleado": "69",
-      "semana": "2025-W07",
-      "horas": 48.5
-    },
-    {
       "empleado": "123",
       "semana": "2026-W43",
       "horas": 46.5
     },
     {
-      "empleado": "70",
-      "semana": "2023-W17",
-      "horas": 35
+      "empleado": "69",
+      "semana": "2025-W07",
+      "horas": 48.5
     },
     {
       "empleado": "69",
       "semana": "2026-W44",
       "horas": 58.5
+    },
+    {
+      "empleado": "70",
+      "semana": "2023-W17",
+      "horas": 35
     },
     {
       "empleado": "47",
@@ -74576,14 +74585,14 @@
       "horas": 17.75
     },
     {
-      "empleado": "93",
-      "semana": "2025-W28",
-      "horas": 3.5
-    },
-    {
       "empleado": "20",
       "semana": "2026-W37",
       "horas": 43.25
+    },
+    {
+      "empleado": "93",
+      "semana": "2025-W28",
+      "horas": 3.5
     },
     {
       "empleado": "68",
@@ -74641,14 +74650,14 @@
       "horas": 39.92
     },
     {
-      "empleado": "47",
-      "semana": "2025-W25",
-      "horas": 50.5
-    },
-    {
       "empleado": "122",
       "semana": "2026-W44",
       "horas": 45
+    },
+    {
+      "empleado": "47",
+      "semana": "2025-W25",
+      "horas": 50.5
     },
     {
       "empleado": "66",
@@ -74688,7 +74697,7 @@
     {
       "empleado": "23",
       "semana": "2026-W48",
-      "horas": 29.75
+      "horas": 31
     },
     {
       "empleado": "87",
@@ -74721,14 +74730,14 @@
       "horas": 38.75
     },
     {
-      "empleado": "68",
-      "semana": "2024-W11",
-      "horas": 50
-    },
-    {
       "empleado": "128",
       "semana": "2026-W33",
       "horas": 46.5
+    },
+    {
+      "empleado": "68",
+      "semana": "2024-W11",
+      "horas": 50
     },
     {
       "empleado": "27",
@@ -74931,14 +74940,14 @@
       "horas": 55.25
     },
     {
-      "empleado": "110",
-      "semana": "2024-W02",
-      "horas": 40
-    },
-    {
       "empleado": "66",
       "semana": "2026-W43",
       "horas": 28
+    },
+    {
+      "empleado": "110",
+      "semana": "2024-W02",
+      "horas": 40
     },
     {
       "empleado": "50",
@@ -75476,19 +75485,24 @@
       "horas": 42
     },
     {
-      "empleado": "121",
-      "semana": "2024-W51",
-      "horas": 41.25
-    },
-    {
       "empleado": "108",
       "semana": "2024-W47",
       "horas": 41.75
     },
     {
+      "empleado": "121",
+      "semana": "2024-W51",
+      "horas": 41.25
+    },
+    {
       "empleado": "P31",
       "semana": "2026-W32",
       "horas": 20.5
+    },
+    {
+      "empleado": "E13",
+      "semana": "2026-W44",
+      "horas": 45
     },
     {
       "empleado": "91",
@@ -75499,11 +75513,6 @@
       "empleado": "111",
       "semana": "2026-W02",
       "horas": 39.5
-    },
-    {
-      "empleado": "E13",
-      "semana": "2026-W44",
-      "horas": 45
     },
     {
       "empleado": "87",
@@ -75771,14 +75780,14 @@
       "horas": 44
     },
     {
-      "empleado": "57",
-      "semana": "2024-W23",
-      "horas": 5
-    },
-    {
       "empleado": "P36",
       "semana": "2026-W28",
       "horas": 30.75
+    },
+    {
+      "empleado": "57",
+      "semana": "2024-W23",
+      "horas": 5
     },
     {
       "empleado": "54",
@@ -75861,14 +75870,14 @@
       "horas": 45.25
     },
     {
-      "empleado": "54",
-      "semana": "2023-W04",
-      "horas": 48.25
-    },
-    {
       "empleado": "100",
       "semana": "2026-W41",
       "horas": 82.5
+    },
+    {
+      "empleado": "54",
+      "semana": "2023-W04",
+      "horas": 48.25
     },
     {
       "empleado": "67",
@@ -75991,6 +76000,11 @@
       "horas": 27
     },
     {
+      "empleado": "P38",
+      "semana": "2026-W29",
+      "horas": 23.5
+    },
+    {
       "empleado": "33",
       "semana": "2025-W33",
       "horas": 46
@@ -75999,11 +76013,6 @@
       "empleado": "22",
       "semana": "2024-W28",
       "horas": 33
-    },
-    {
-      "empleado": "P38",
-      "semana": "2026-W29",
-      "horas": 23.5
     },
     {
       "empleado": "126",
@@ -76091,14 +76100,14 @@
       "horas": 52.25
     },
     {
-      "empleado": "93",
-      "semana": "2026-W38",
-      "horas": 9
-    },
-    {
       "empleado": "19",
       "semana": "2024-W05",
       "horas": 37.5
+    },
+    {
+      "empleado": "93",
+      "semana": "2026-W38",
+      "horas": 9
     },
     {
       "empleado": "47",
@@ -76271,14 +76280,14 @@
       "horas": 47.37
     },
     {
-      "empleado": "30",
-      "semana": "2024-W24",
-      "horas": 25
-    },
-    {
       "empleado": "105",
       "semana": "2025-W36",
       "horas": 43.75
+    },
+    {
+      "empleado": "30",
+      "semana": "2024-W24",
+      "horas": 25
     },
     {
       "empleado": "127",
@@ -76381,14 +76390,14 @@
       "horas": 50
     },
     {
-      "empleado": "103",
-      "semana": "2023-W18",
-      "horas": 33.75
-    },
-    {
       "empleado": "54",
       "semana": "2025-W38",
       "horas": 47
+    },
+    {
+      "empleado": "103",
+      "semana": "2023-W18",
+      "horas": 33.75
     },
     {
       "empleado": "66",
@@ -76421,14 +76430,14 @@
       "horas": 45.25
     },
     {
-      "empleado": "P37",
-      "semana": "2025-W52",
-      "horas": 9
-    },
-    {
       "empleado": "26",
       "semana": "2026-W46",
       "horas": 39.83
+    },
+    {
+      "empleado": "P37",
+      "semana": "2025-W52",
+      "horas": 9
     },
     {
       "empleado": "47",
@@ -77136,14 +77145,14 @@
       "horas": 28.5
     },
     {
-      "empleado": "3",
-      "semana": "2024-W11",
-      "horas": 46
-    },
-    {
       "empleado": "29",
       "semana": "2025-W38",
       "horas": 30.62
+    },
+    {
+      "empleado": "3",
+      "semana": "2024-W11",
+      "horas": 46
     },
     {
       "empleado": "47",
@@ -77286,14 +77295,14 @@
       "horas": 43
     },
     {
-      "empleado": "30",
-      "semana": "2026-W10",
-      "horas": 30.5
-    },
-    {
       "empleado": "112",
       "semana": "2026-W43",
       "horas": 45
+    },
+    {
+      "empleado": "30",
+      "semana": "2026-W10",
+      "horas": 30.5
     },
     {
       "empleado": "117",
@@ -77336,14 +77345,14 @@
       "horas": 50
     },
     {
-      "empleado": "14",
-      "semana": "2025-W37",
-      "horas": 5.92
-    },
-    {
       "empleado": "108",
       "semana": "2024-W44",
       "horas": 40
+    },
+    {
+      "empleado": "14",
+      "semana": "2025-W37",
+      "horas": 5.92
     },
     {
       "empleado": "22",
@@ -77411,14 +77420,14 @@
       "horas": 41
     },
     {
-      "empleado": "56",
-      "semana": "2026-W17",
-      "horas": 40.5
-    },
-    {
       "empleado": "E26",
       "semana": "2026-W46",
       "horas": 45
+    },
+    {
+      "empleado": "56",
+      "semana": "2026-W17",
+      "horas": 40.5
     },
     {
       "empleado": "60",
@@ -77466,14 +77475,14 @@
       "horas": 51
     },
     {
-      "empleado": "14",
-      "semana": "2025-W05",
-      "horas": 13.83
-    },
-    {
       "empleado": "20",
       "semana": "2026-W42",
       "horas": 48.5
+    },
+    {
+      "empleado": "14",
+      "semana": "2025-W05",
+      "horas": 13.83
     },
     {
       "empleado": "119",
@@ -77731,14 +77740,14 @@
       "horas": 24
     },
     {
-      "empleado": "100",
-      "semana": "2026-W07",
-      "horas": 46
-    },
-    {
       "empleado": "22",
       "semana": "2026-W29",
       "horas": 50
+    },
+    {
+      "empleado": "100",
+      "semana": "2026-W07",
+      "horas": 46
     },
     {
       "empleado": "54",
@@ -77806,14 +77815,14 @@
       "horas": 47.75
     },
     {
-      "empleado": "22",
-      "semana": "2024-W25",
-      "horas": 44
-    },
-    {
       "empleado": "108",
       "semana": "2024-W36",
       "horas": 42
+    },
+    {
+      "empleado": "22",
+      "semana": "2024-W25",
+      "horas": 44
     },
     {
       "empleado": "95",
@@ -77931,14 +77940,14 @@
       "horas": 17.33
     },
     {
-      "empleado": "47",
-      "semana": "2023-W07",
-      "horas": 53.5
-    },
-    {
       "empleado": "19",
       "semana": "2025-W26",
       "horas": 47.82
+    },
+    {
+      "empleado": "47",
+      "semana": "2023-W07",
+      "horas": 53.5
     },
     {
       "empleado": "47",
@@ -77976,11 +77985,6 @@
       "horas": 26.33
     },
     {
-      "empleado": "130",
-      "semana": "2026-W13",
-      "horas": 49
-    },
-    {
       "empleado": "129",
       "semana": "2025-W37",
       "horas": 45.5
@@ -77989,6 +77993,11 @@
       "empleado": "30",
       "semana": "2026-W39",
       "horas": 25.75
+    },
+    {
+      "empleado": "130",
+      "semana": "2026-W13",
+      "horas": 49
     },
     {
       "empleado": "126",
@@ -78021,14 +78030,14 @@
       "horas": 5.5
     },
     {
-      "empleado": "67",
-      "semana": "2026-W03",
-      "horas": 39.25
-    },
-    {
       "empleado": "108",
       "semana": "2024-W51",
       "horas": 39.75
+    },
+    {
+      "empleado": "67",
+      "semana": "2026-W03",
+      "horas": 39.25
     },
     {
       "empleado": "69",
@@ -78116,14 +78125,14 @@
       "horas": 49.25
     },
     {
-      "empleado": "P37",
-      "semana": "2025-W38",
-      "horas": 9
-    },
-    {
       "empleado": "132",
       "semana": "2026-W41",
       "horas": 50
+    },
+    {
+      "empleado": "P37",
+      "semana": "2025-W38",
+      "horas": 9
     },
     {
       "empleado": "111",
@@ -78341,14 +78350,14 @@
       "horas": 31
     },
     {
-      "empleado": "114",
-      "semana": "2025-W22",
-      "horas": 46
-    },
-    {
       "empleado": "116",
       "semana": "2025-W30",
       "horas": 43
+    },
+    {
+      "empleado": "114",
+      "semana": "2025-W22",
+      "horas": 46
     },
     {
       "empleado": "P38",
@@ -78401,14 +78410,14 @@
       "horas": 48.25
     },
     {
-      "empleado": "78",
-      "semana": "2023-W05",
-      "horas": 45
-    },
-    {
       "empleado": "19",
       "semana": "2024-W31",
       "horas": 39.65
+    },
+    {
+      "empleado": "78",
+      "semana": "2023-W05",
+      "horas": 45
     },
     {
       "empleado": "29",
@@ -78531,14 +78540,14 @@
       "horas": 34.75
     },
     {
-      "empleado": "15",
-      "semana": "2025-W38",
-      "horas": 9
-    },
-    {
       "empleado": "23",
       "semana": "2025-W37",
       "horas": 50.25
+    },
+    {
+      "empleado": "15",
+      "semana": "2025-W38",
+      "horas": 9
     },
     {
       "empleado": "14",
@@ -78601,14 +78610,14 @@
       "horas": 35.5
     },
     {
-      "empleado": "87",
-      "semana": "2023-W48",
-      "horas": 42.5
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W24",
       "horas": 27.33
+    },
+    {
+      "empleado": "87",
+      "semana": "2023-W48",
+      "horas": 42.5
     },
     {
       "empleado": "69",
@@ -78661,14 +78670,14 @@
       "horas": 47
     },
     {
-      "empleado": "105",
-      "semana": "2024-W33",
-      "horas": 46
-    },
-    {
       "empleado": "111",
       "semana": "2026-W37",
       "horas": 42.5
+    },
+    {
+      "empleado": "105",
+      "semana": "2024-W33",
+      "horas": 46
     },
     {
       "empleado": "111",
@@ -78721,14 +78730,14 @@
       "horas": 46.58
     },
     {
-      "empleado": "22",
-      "semana": "2025-W01",
-      "horas": 55
-    },
-    {
       "empleado": "29",
       "semana": "2026-W27",
       "horas": 51.1
+    },
+    {
+      "empleado": "22",
+      "semana": "2025-W01",
+      "horas": 55
     },
     {
       "empleado": "119",
@@ -79031,14 +79040,14 @@
       "horas": 48.5
     },
     {
-      "empleado": "70",
-      "semana": "2025-W32",
-      "horas": 54
-    },
-    {
       "empleado": "P38",
       "semana": "2026-W34",
       "horas": 20.75
+    },
+    {
+      "empleado": "70",
+      "semana": "2025-W32",
+      "horas": 54
     },
     {
       "empleado": "54",
@@ -79446,14 +79455,14 @@
       "horas": 45
     },
     {
-      "empleado": "33",
-      "semana": "2025-W24",
-      "horas": 62
-    },
-    {
       "empleado": "19",
       "semana": "2026-W30",
       "horas": 44.25
+    },
+    {
+      "empleado": "33",
+      "semana": "2025-W24",
+      "horas": 62
     },
     {
       "empleado": "110",
@@ -79606,14 +79615,14 @@
       "horas": 6.25
     },
     {
-      "empleado": "20",
-      "semana": "2026-W36",
-      "horas": 45.25
-    },
-    {
       "empleado": "E14",
       "semana": "2026-W29",
       "horas": 45
+    },
+    {
+      "empleado": "20",
+      "semana": "2026-W36",
+      "horas": 45.25
     },
     {
       "empleado": "125",
@@ -79671,14 +79680,14 @@
       "horas": 45
     },
     {
-      "empleado": "78",
-      "semana": "2023-W09",
-      "horas": 45.25
-    },
-    {
       "empleado": "19",
       "semana": "2024-W48",
       "horas": 42.75
+    },
+    {
+      "empleado": "78",
+      "semana": "2023-W09",
+      "horas": 45.25
     },
     {
       "empleado": "108",
@@ -79796,14 +79805,14 @@
       "horas": 43.5
     },
     {
-      "empleado": "94",
-      "semana": "2023-W41",
-      "horas": 21.25
-    },
-    {
       "empleado": "124",
       "semana": "2026-W40",
       "horas": 46.5
+    },
+    {
+      "empleado": "94",
+      "semana": "2023-W41",
+      "horas": 21.25
     },
     {
       "empleado": "91",
@@ -79841,14 +79850,14 @@
       "horas": 45.75
     },
     {
-      "empleado": "87",
-      "semana": "2025-W18",
-      "horas": 46.5
-    },
-    {
       "empleado": "100",
       "semana": "2026-W44",
       "horas": 60
+    },
+    {
+      "empleado": "87",
+      "semana": "2025-W18",
+      "horas": 46.5
     },
     {
       "empleado": "26",
@@ -80481,14 +80490,14 @@
       "horas": 25.75
     },
     {
-      "empleado": "30",
-      "semana": "2024-W41",
-      "horas": 34.5
-    },
-    {
       "empleado": "125",
       "semana": "2026-W32",
       "horas": 35.17
+    },
+    {
+      "empleado": "30",
+      "semana": "2024-W41",
+      "horas": 34.5
     },
     {
       "empleado": "20",
@@ -80516,14 +80525,14 @@
       "horas": 41.25
     },
     {
-      "empleado": "30",
-      "semana": "2025-W44",
-      "horas": 38.75
-    },
-    {
       "empleado": "E23",
       "semana": "2026-W43",
       "horas": 40
+    },
+    {
+      "empleado": "30",
+      "semana": "2025-W44",
+      "horas": 38.75
     },
     {
       "empleado": "128",
@@ -80541,14 +80550,14 @@
       "horas": 46.5
     },
     {
-      "empleado": "22",
-      "semana": "2024-W02",
-      "horas": 38.25
-    },
-    {
       "empleado": "129",
       "semana": "2026-W38",
       "horas": 44
+    },
+    {
+      "empleado": "22",
+      "semana": "2024-W02",
+      "horas": 38.25
     },
     {
       "empleado": "9",
@@ -80926,14 +80935,14 @@
       "horas": 45
     },
     {
-      "empleado": "66",
-      "semana": "2024-W12",
-      "horas": 31
-    },
-    {
       "empleado": "111",
       "semana": "2026-W32",
       "horas": 39.75
+    },
+    {
+      "empleado": "66",
+      "semana": "2024-W12",
+      "horas": 31
     },
     {
       "empleado": "26",
@@ -81016,14 +81025,14 @@
       "horas": 33
     },
     {
-      "empleado": "27",
-      "semana": "2023-W51",
-      "horas": 33.5
-    },
-    {
       "empleado": "19",
       "semana": "2025-W10",
       "horas": 38.92
+    },
+    {
+      "empleado": "27",
+      "semana": "2023-W51",
+      "horas": 33.5
     },
     {
       "empleado": "69",
@@ -81131,14 +81140,14 @@
       "horas": 45
     },
     {
-      "empleado": "99",
-      "semana": "2024-W01",
-      "horas": 38
-    },
-    {
       "empleado": "119",
       "semana": "2026-W34",
       "horas": 26.5
+    },
+    {
+      "empleado": "99",
+      "semana": "2024-W01",
+      "horas": 38
     },
     {
       "empleado": "114",
@@ -81266,6 +81275,11 @@
       "horas": 50.25
     },
     {
+      "empleado": "100",
+      "semana": "2026-W26",
+      "horas": 57.5
+    },
+    {
       "empleado": "22",
       "semana": "2023-W35",
       "horas": 6.5
@@ -81274,11 +81288,6 @@
       "empleado": "121",
       "semana": "2025-W31",
       "horas": 31
-    },
-    {
-      "empleado": "100",
-      "semana": "2026-W26",
-      "horas": 57.5
     },
     {
       "empleado": "27",
@@ -81411,14 +81420,14 @@
       "horas": 50
     },
     {
-      "empleado": "19",
-      "semana": "2026-W20",
-      "horas": 38.27
-    },
-    {
       "empleado": "129",
       "semana": "2026-W28",
       "horas": 44.25
+    },
+    {
+      "empleado": "19",
+      "semana": "2026-W20",
+      "horas": 38.27
     },
     {
       "empleado": "117",
@@ -81556,9 +81565,9 @@
       "horas": 31
     },
     {
-      "empleado": "20",
-      "semana": "2023-W13",
-      "horas": 43.25
+      "empleado": "108",
+      "semana": "2024-W52",
+      "horas": 42.5
     },
     {
       "empleado": "19",
@@ -81566,9 +81575,9 @@
       "horas": 39.92
     },
     {
-      "empleado": "108",
-      "semana": "2024-W52",
-      "horas": 42.5
+      "empleado": "20",
+      "semana": "2023-W13",
+      "horas": 43.25
     },
     {
       "empleado": "47",
@@ -81621,14 +81630,14 @@
       "horas": 45
     },
     {
-      "empleado": "19",
-      "semana": "2026-W25",
-      "horas": 41.75
-    },
-    {
       "empleado": "50",
       "semana": "2026-W24",
       "horas": 46.67
+    },
+    {
+      "empleado": "19",
+      "semana": "2026-W25",
+      "horas": 41.75
     },
     {
       "empleado": "68",
@@ -81636,14 +81645,14 @@
       "horas": 50
     },
     {
-      "empleado": "111",
-      "semana": "2023-W03",
-      "horas": 24.5
-    },
-    {
       "empleado": "22",
       "semana": "2025-W37",
       "horas": 30.5
+    },
+    {
+      "empleado": "111",
+      "semana": "2023-W03",
+      "horas": 24.5
     },
     {
       "empleado": "114",
@@ -81666,14 +81675,14 @@
       "horas": 40.25
     },
     {
-      "empleado": "P30",
-      "semana": "2026-W08",
-      "horas": 9.5
-    },
-    {
       "empleado": "P36",
       "semana": "2026-W33",
       "horas": 18
+    },
+    {
+      "empleado": "P30",
+      "semana": "2026-W08",
+      "horas": 9.5
     },
     {
       "empleado": "70",
@@ -81771,14 +81780,14 @@
       "horas": 48.75
     },
     {
-      "empleado": "124",
-      "semana": "2025-W26",
-      "horas": 45
-    },
-    {
       "empleado": "70",
       "semana": "2026-W25",
       "horas": 39.5
+    },
+    {
+      "empleado": "124",
+      "semana": "2025-W26",
+      "horas": 45
     },
     {
       "empleado": "22",
@@ -81916,14 +81925,14 @@
       "horas": 39.75
     },
     {
-      "empleado": "111",
-      "semana": "2023-W39",
-      "horas": 40.25
-    },
-    {
       "empleado": "69",
       "semana": "2026-W38",
       "horas": 48.42
+    },
+    {
+      "empleado": "111",
+      "semana": "2023-W39",
+      "horas": 40.25
     },
     {
       "empleado": "124",
@@ -82546,13 +82555,13 @@
       "horas": 48
     },
     {
-      "empleado": "70",
-      "semana": "2023-W45",
+      "empleado": "124",
+      "semana": "2026-W24",
       "horas": 45
     },
     {
-      "empleado": "124",
-      "semana": "2026-W24",
+      "empleado": "70",
+      "semana": "2023-W45",
       "horas": 45
     },
     {
@@ -82576,14 +82585,14 @@
       "horas": 44.45
     },
     {
-      "empleado": "50",
-      "semana": "2025-W47",
-      "horas": 44.92
-    },
-    {
       "empleado": "121",
       "semana": "2025-W50",
       "horas": 36.75
+    },
+    {
+      "empleado": "50",
+      "semana": "2025-W47",
+      "horas": 44.92
     },
     {
       "empleado": "117",
@@ -82681,24 +82690,24 @@
       "horas": 35.5
     },
     {
-      "empleado": "22",
-      "semana": "2025-W20",
-      "horas": 32
-    },
-    {
       "empleado": "E16",
       "semana": "2026-W43",
       "horas": 45
     },
     {
-      "empleado": "120",
-      "semana": "2025-W42",
-      "horas": 52
+      "empleado": "22",
+      "semana": "2025-W20",
+      "horas": 32
     },
     {
       "empleado": "120",
       "semana": "2025-W38",
       "horas": 50.5
+    },
+    {
+      "empleado": "120",
+      "semana": "2025-W42",
+      "horas": 52
     },
     {
       "empleado": "14",
@@ -82716,14 +82725,14 @@
       "horas": 60.75
     },
     {
-      "empleado": "66",
-      "semana": "2025-W20",
-      "horas": 45
-    },
-    {
       "empleado": "54",
       "semana": "2026-W39",
       "horas": 42
+    },
+    {
+      "empleado": "66",
+      "semana": "2025-W20",
+      "horas": 45
     },
     {
       "empleado": "119",
@@ -82861,14 +82870,14 @@
       "horas": 39.75
     },
     {
-      "empleado": "70",
-      "semana": "2024-W05",
-      "horas": 50
-    },
-    {
       "empleado": "19",
       "semana": "2025-W23",
       "horas": 41.12
+    },
+    {
+      "empleado": "70",
+      "semana": "2024-W05",
+      "horas": 50
     },
     {
       "empleado": "100",
@@ -82886,14 +82895,14 @@
       "horas": 59
     },
     {
-      "empleado": "29",
-      "semana": "2023-W45",
-      "horas": 47.78
-    },
-    {
       "empleado": "110",
       "semana": "2026-W33",
       "horas": 40
+    },
+    {
+      "empleado": "29",
+      "semana": "2023-W45",
+      "horas": 47.78
     },
     {
       "empleado": "112",
@@ -82966,14 +82975,14 @@
       "horas": 45
     },
     {
-      "empleado": "105",
-      "semana": "2026-W06",
-      "horas": 34
-    },
-    {
       "empleado": "P35",
       "semana": "2026-W29",
       "horas": 31.5
+    },
+    {
+      "empleado": "105",
+      "semana": "2026-W06",
+      "horas": 34
     },
     {
       "empleado": "103",
@@ -83151,14 +83160,14 @@
       "horas": 30
     },
     {
-      "empleado": "67",
-      "semana": "2024-W02",
-      "horas": 42.75
-    },
-    {
       "empleado": "19",
       "semana": "2024-W34",
       "horas": 40.5
+    },
+    {
+      "empleado": "67",
+      "semana": "2024-W02",
+      "horas": 42.75
     },
     {
       "empleado": "50",
@@ -83306,14 +83315,14 @@
       "horas": 66.25
     },
     {
-      "empleado": "67",
-      "semana": "2023-W40",
-      "horas": 42
-    },
-    {
       "empleado": "50",
       "semana": "2026-W40",
       "horas": 44.92
+    },
+    {
+      "empleado": "67",
+      "semana": "2023-W40",
+      "horas": 42
     },
     {
       "empleado": "127",
@@ -83361,6 +83370,11 @@
       "horas": 11.5
     },
     {
+      "empleado": "133",
+      "semana": "2026-W46",
+      "horas": 50
+    },
+    {
       "empleado": "99",
       "semana": "2024-W15",
       "horas": 47.5
@@ -83369,11 +83383,6 @@
       "empleado": "114",
       "semana": "2025-W51",
       "horas": 45.25
-    },
-    {
-      "empleado": "133",
-      "semana": "2026-W46",
-      "horas": 50
     },
     {
       "empleado": "112",
@@ -83462,6 +83471,11 @@
     },
     {
       "empleado": "127",
+      "semana": "2026-W46",
+      "horas": 48.5
+    },
+    {
+      "empleado": "127",
       "semana": "2025-W35",
       "horas": 45.25
     },
@@ -83469,11 +83483,6 @@
       "empleado": "22",
       "semana": "2023-W05",
       "horas": 48.75
-    },
-    {
-      "empleado": "127",
-      "semana": "2026-W46",
-      "horas": 48.5
     },
     {
       "empleado": "26",
@@ -83521,14 +83530,14 @@
       "horas": 44
     },
     {
-      "empleado": "94",
-      "semana": "2023-W02",
-      "horas": 40.25
-    },
-    {
       "empleado": "50",
       "semana": "2026-W46",
       "horas": 43.1
+    },
+    {
+      "empleado": "94",
+      "semana": "2023-W02",
+      "horas": 40.25
     },
     {
       "empleado": "81",
@@ -83541,14 +83550,14 @@
       "horas": 35.75
     },
     {
-      "empleado": "20",
-      "semana": "2025-W43",
-      "horas": 44.25
-    },
-    {
       "empleado": "70",
       "semana": "2025-W38",
       "horas": 46
+    },
+    {
+      "empleado": "20",
+      "semana": "2025-W43",
+      "horas": 44.25
     },
     {
       "empleado": "120",
@@ -83841,14 +83850,14 @@
       "horas": 50
     },
     {
-      "empleado": "94",
-      "semana": "2023-W28",
-      "horas": 13.75
-    },
-    {
       "empleado": "19",
       "semana": "2024-W45",
       "horas": 41.75
+    },
+    {
+      "empleado": "94",
+      "semana": "2023-W28",
+      "horas": 13.75
     },
     {
       "empleado": "33",
@@ -83891,14 +83900,14 @@
       "horas": 40.17
     },
     {
-      "empleado": "132",
-      "semana": "2025-W50",
-      "horas": 50.5
-    },
-    {
       "empleado": "67",
       "semana": "2026-W43",
       "horas": 40.25
+    },
+    {
+      "empleado": "132",
+      "semana": "2025-W50",
+      "horas": 50.5
     },
     {
       "empleado": "125",
@@ -84006,6 +84015,11 @@
       "horas": 45.17
     },
     {
+      "empleado": "47",
+      "semana": "2026-W23",
+      "horas": 50
+    },
+    {
       "empleado": "50",
       "semana": "2023-W03",
       "horas": 44.35
@@ -84014,11 +84028,6 @@
       "empleado": "126",
       "semana": "2026-W08",
       "horas": 55
-    },
-    {
-      "empleado": "47",
-      "semana": "2026-W23",
-      "horas": 50
     },
     {
       "empleado": "122",
@@ -84421,14 +84430,14 @@
       "horas": 43
     },
     {
-      "empleado": "125",
-      "semana": "2025-W28",
-      "horas": 19.62
-    },
-    {
       "empleado": "133",
       "semana": "2026-W39",
       "horas": 50
+    },
+    {
+      "empleado": "125",
+      "semana": "2025-W28",
+      "horas": 19.62
     },
     {
       "empleado": "70",
@@ -84876,14 +84885,14 @@
       "horas": 50.25
     },
     {
-      "empleado": "14",
-      "semana": "2023-W19",
-      "horas": 11.17
-    },
-    {
       "empleado": "E16",
       "semana": "2026-W26",
       "horas": 45
+    },
+    {
+      "empleado": "14",
+      "semana": "2023-W19",
+      "horas": 11.17
     },
     {
       "empleado": "23",
@@ -85286,14 +85295,14 @@
       "horas": 35.92
     },
     {
-      "empleado": "128",
-      "semana": "2026-W14",
-      "horas": 45
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W26",
       "horas": 27.33
+    },
+    {
+      "empleado": "128",
+      "semana": "2026-W14",
+      "horas": 45
     },
     {
       "empleado": "50",
@@ -85366,14 +85375,14 @@
       "horas": 41.25
     },
     {
-      "empleado": "127",
-      "semana": "2025-W51",
-      "horas": 45
-    },
-    {
       "empleado": "121",
       "semana": "2026-W28",
       "horas": 41.5
+    },
+    {
+      "empleado": "127",
+      "semana": "2025-W51",
+      "horas": 45
     },
     {
       "empleado": "87",
@@ -85451,14 +85460,14 @@
       "horas": 48.83
     },
     {
-      "empleado": "123",
-      "semana": "2025-W29",
-      "horas": 50
-    },
-    {
       "empleado": "105",
       "semana": "2026-W29",
       "horas": 45
+    },
+    {
+      "empleado": "123",
+      "semana": "2025-W29",
+      "horas": 50
     },
     {
       "empleado": "125",
@@ -85511,14 +85520,14 @@
       "horas": 47
     },
     {
-      "empleado": "33",
-      "semana": "2023-W38",
-      "horas": 45.25
-    },
-    {
       "empleado": "20",
       "semana": "2024-W33",
       "horas": 40.5
+    },
+    {
+      "empleado": "33",
+      "semana": "2023-W38",
+      "horas": 45.25
     },
     {
       "empleado": "20",
@@ -85591,6 +85600,11 @@
       "horas": 50
     },
     {
+      "empleado": "67",
+      "semana": "2026-W27",
+      "horas": 40.75
+    },
+    {
       "empleado": "50",
       "semana": "2023-W41",
       "horas": 43.45
@@ -85599,11 +85613,6 @@
       "empleado": "80",
       "semana": "2026-W14",
       "horas": 42.5
-    },
-    {
-      "empleado": "67",
-      "semana": "2026-W27",
-      "horas": 40.75
     },
     {
       "empleado": "105",
@@ -85676,13 +85685,13 @@
       "horas": 45.75
     },
     {
-      "empleado": "95",
-      "semana": "2023-W40",
+      "empleado": "128",
+      "semana": "2026-W38",
       "horas": 45
     },
     {
-      "empleado": "128",
-      "semana": "2026-W38",
+      "empleado": "95",
+      "semana": "2023-W40",
       "horas": 45
     },
     {
@@ -86131,14 +86140,14 @@
       "horas": 48.5
     },
     {
-      "empleado": "123",
-      "semana": "2025-W32",
-      "horas": 50
-    },
-    {
       "empleado": "110",
       "semana": "2026-W34",
       "horas": 37
+    },
+    {
+      "empleado": "123",
+      "semana": "2025-W32",
+      "horas": 50
     },
     {
       "empleado": "29",
@@ -86146,14 +86155,14 @@
       "horas": 45.03
     },
     {
-      "empleado": "112",
-      "semana": "2026-W17",
-      "horas": 38
-    },
-    {
       "empleado": "20",
       "semana": "2024-W40",
       "horas": 28.5
+    },
+    {
+      "empleado": "112",
+      "semana": "2026-W17",
+      "horas": 38
     },
     {
       "empleado": "33",
@@ -86416,14 +86425,14 @@
       "horas": 45
     },
     {
-      "empleado": "100",
-      "semana": "2023-W07",
-      "horas": 45
-    },
-    {
       "empleado": "66",
       "semana": "2026-W34",
       "horas": 33
+    },
+    {
+      "empleado": "100",
+      "semana": "2023-W07",
+      "horas": 45
     },
     {
       "empleado": "33",
@@ -86631,6 +86640,11 @@
       "horas": 47
     },
     {
+      "empleado": "108",
+      "semana": "2025-W39",
+      "horas": 34.25
+    },
+    {
       "empleado": "68",
       "semana": "2023-W16",
       "horas": 50
@@ -86639,11 +86653,6 @@
       "empleado": "120",
       "semana": "2026-W12",
       "horas": 46
-    },
-    {
-      "empleado": "108",
-      "semana": "2025-W39",
-      "horas": 34.25
     },
     {
       "empleado": "117",
@@ -86761,14 +86770,14 @@
       "horas": 40
     },
     {
-      "empleado": "124",
-      "semana": "2026-W17",
-      "horas": 43.5
-    },
-    {
       "empleado": "19",
       "semana": "2024-W37",
       "horas": 41.75
+    },
+    {
+      "empleado": "124",
+      "semana": "2026-W17",
+      "horas": 43.5
     },
     {
       "empleado": "108",
@@ -86866,14 +86875,14 @@
       "horas": 18
     },
     {
-      "empleado": "87",
-      "semana": "2024-W10",
-      "horas": 45
-    },
-    {
       "empleado": "19",
       "semana": "2025-W19",
       "horas": 45.7
+    },
+    {
+      "empleado": "87",
+      "semana": "2024-W10",
+      "horas": 45
     },
     {
       "empleado": "P25",
@@ -86916,14 +86925,14 @@
       "horas": 9.92
     },
     {
-      "empleado": "120",
-      "semana": "2024-W47",
-      "horas": 36
-    },
-    {
       "empleado": "127",
       "semana": "2026-W42",
       "horas": 56
+    },
+    {
+      "empleado": "120",
+      "semana": "2024-W47",
+      "horas": 36
     },
     {
       "empleado": "P29",
@@ -87011,14 +87020,14 @@
       "horas": 37.25
     },
     {
-      "empleado": "103",
-      "semana": "2023-W38",
-      "horas": 41
-    },
-    {
       "empleado": "112",
       "semana": "2026-W39",
       "horas": 40
+    },
+    {
+      "empleado": "103",
+      "semana": "2023-W38",
+      "horas": 41
     },
     {
       "empleado": "123",
@@ -87176,14 +87185,14 @@
       "horas": 43
     },
     {
-      "empleado": "121",
-      "semana": "2026-W03",
-      "horas": 43.5
-    },
-    {
       "empleado": "23",
       "semana": "2026-W40",
       "horas": 49
+    },
+    {
+      "empleado": "121",
+      "semana": "2026-W03",
+      "horas": 43.5
     },
     {
       "empleado": "105",
@@ -87281,14 +87290,14 @@
       "horas": 11.5
     },
     {
-      "empleado": "94",
-      "semana": "2023-W07",
-      "horas": 10
-    },
-    {
       "empleado": "121",
       "semana": "2025-W14",
       "horas": 42
+    },
+    {
+      "empleado": "94",
+      "semana": "2023-W07",
+      "horas": 10
     },
     {
       "empleado": "P11",
@@ -87626,14 +87635,14 @@
       "horas": 59.25
     },
     {
-      "empleado": "111",
-      "semana": "2024-W07",
-      "horas": 40
-    },
-    {
       "empleado": "133",
       "semana": "2026-W28",
       "horas": 50
+    },
+    {
+      "empleado": "111",
+      "semana": "2024-W07",
+      "horas": 40
     },
     {
       "empleado": "E15",
@@ -87731,14 +87740,14 @@
       "horas": 40.83
     },
     {
-      "empleado": "54",
-      "semana": "2025-W08",
-      "horas": 44
-    },
-    {
       "empleado": "E24",
       "semana": "2026-W47",
       "horas": 46.5
+    },
+    {
+      "empleado": "54",
+      "semana": "2025-W08",
+      "horas": 44
     },
     {
       "empleado": "100",
@@ -87951,14 +87960,14 @@
       "horas": 51.25
     },
     {
-      "empleado": "117",
-      "semana": "2026-W45",
-      "horas": 45
-    },
-    {
       "empleado": "47",
       "semana": "2024-W52",
       "horas": 34.25
+    },
+    {
+      "empleado": "117",
+      "semana": "2026-W45",
+      "horas": 45
     },
     {
       "empleado": "26",
@@ -88001,14 +88010,14 @@
       "horas": 52.5
     },
     {
-      "empleado": "P38",
-      "semana": "2026-W20",
-      "horas": 16.75
-    },
-    {
       "empleado": "66",
       "semana": "2026-W44",
       "horas": 32.23
+    },
+    {
+      "empleado": "P38",
+      "semana": "2026-W20",
+      "horas": 16.75
     },
     {
       "empleado": "67",
@@ -88111,14 +88120,14 @@
       "horas": 45
     },
     {
-      "empleado": "14",
-      "semana": "2023-W46",
-      "horas": 11.08
-    },
-    {
       "empleado": "130",
       "semana": "2026-W46",
       "horas": 44.25
+    },
+    {
+      "empleado": "14",
+      "semana": "2023-W46",
+      "horas": 11.08
     },
     {
       "empleado": "3",
@@ -88241,14 +88250,14 @@
       "horas": 43
     },
     {
-      "empleado": "26",
-      "semana": "2024-W48",
-      "horas": 45.73
-    },
-    {
       "empleado": "130",
       "semana": "2026-W36",
       "horas": 44.5
+    },
+    {
+      "empleado": "26",
+      "semana": "2024-W48",
+      "horas": 45.73
     },
     {
       "empleado": "68",
@@ -88511,14 +88520,14 @@
       "horas": 46.35
     },
     {
-      "empleado": "94",
-      "semana": "2024-W34",
-      "horas": 28.5
-    },
-    {
       "empleado": "56",
       "semana": "2026-W31",
       "horas": 41.25
+    },
+    {
+      "empleado": "94",
+      "semana": "2024-W34",
+      "horas": 28.5
     },
     {
       "empleado": "108",
@@ -89101,14 +89110,14 @@
       "horas": 40.5
     },
     {
-      "empleado": "94",
-      "semana": "2024-W17",
-      "horas": 34.75
-    },
-    {
       "empleado": "P40",
       "semana": "2026-W29",
       "horas": 19
+    },
+    {
+      "empleado": "94",
+      "semana": "2024-W17",
+      "horas": 34.75
     },
     {
       "empleado": "67",
@@ -89171,14 +89180,14 @@
       "horas": 37.25
     },
     {
-      "empleado": "56",
-      "semana": "2026-W11",
-      "horas": 45
-    },
-    {
       "empleado": "23",
       "semana": "2025-W39",
       "horas": 49.75
+    },
+    {
+      "empleado": "56",
+      "semana": "2026-W11",
+      "horas": 45
     },
     {
       "empleado": "105",
@@ -89296,14 +89305,14 @@
       "horas": 46
     },
     {
-      "empleado": "3",
-      "semana": "2024-W35",
-      "horas": 45.5
-    },
-    {
       "empleado": "128",
       "semana": "2026-W21",
       "horas": 46
+    },
+    {
+      "empleado": "3",
+      "semana": "2024-W35",
+      "horas": 45.5
     },
     {
       "empleado": "100",
@@ -89441,14 +89450,14 @@
       "horas": 45
     },
     {
-      "empleado": "67",
-      "semana": "2024-W40",
-      "horas": 33
-    },
-    {
       "empleado": "68",
       "semana": "2026-W43",
       "horas": 45
+    },
+    {
+      "empleado": "67",
+      "semana": "2024-W40",
+      "horas": 33
     },
     {
       "empleado": "132",
@@ -89736,14 +89745,14 @@
       "horas": 28
     },
     {
-      "empleado": "122",
-      "semana": "2025-W33",
-      "horas": 50
-    },
-    {
       "empleado": "129",
       "semana": "2026-W33",
       "horas": 48.5
+    },
+    {
+      "empleado": "122",
+      "semana": "2025-W33",
+      "horas": 50
     },
     {
       "empleado": "30",
@@ -89946,14 +89955,14 @@
       "horas": 37.75
     },
     {
-      "empleado": "47",
-      "semana": "2023-W29",
-      "horas": 51.5
-    },
-    {
       "empleado": "95",
       "semana": "2025-W39",
       "horas": 45
+    },
+    {
+      "empleado": "47",
+      "semana": "2023-W29",
+      "horas": 51.5
     },
     {
       "empleado": "E25",
@@ -90016,14 +90025,14 @@
       "horas": 51.25
     },
     {
-      "empleado": "1",
-      "semana": "2025-W47",
-      "horas": 9
-    },
-    {
       "empleado": "14",
       "semana": "2026-W29",
       "horas": 10.67
+    },
+    {
+      "empleado": "1",
+      "semana": "2025-W47",
+      "horas": 9
     },
     {
       "empleado": "124",
@@ -90256,14 +90265,14 @@
       "horas": 37
     },
     {
-      "empleado": "91",
-      "semana": "2025-W44",
-      "horas": 46.83
-    },
-    {
       "empleado": "122",
       "semana": "2026-W37",
       "horas": 45
+    },
+    {
+      "empleado": "91",
+      "semana": "2025-W44",
+      "horas": 46.83
     },
     {
       "empleado": "50",
@@ -90327,13 +90336,13 @@
     },
     {
       "empleado": "122",
-      "semana": "2025-W31",
-      "horas": 50
+      "semana": "2026-W48",
+      "horas": 21
     },
     {
       "empleado": "122",
-      "semana": "2026-W48",
-      "horas": 21
+      "semana": "2025-W31",
+      "horas": 50
     },
     {
       "empleado": "111",
@@ -90386,14 +90395,14 @@
       "horas": 49.75
     },
     {
-      "empleado": "95",
-      "semana": "2025-W46",
-      "horas": 45.5
-    },
-    {
       "empleado": "33",
       "semana": "2026-W37",
       "horas": 45
+    },
+    {
+      "empleado": "95",
+      "semana": "2025-W46",
+      "horas": 45.5
     },
     {
       "empleado": "94",
@@ -90426,14 +90435,14 @@
       "horas": 24.5
     },
     {
-      "empleado": "69",
-      "semana": "2025-W43",
-      "horas": 49.5
-    },
-    {
       "empleado": "19",
       "semana": "2025-W28",
       "horas": 46.67
+    },
+    {
+      "empleado": "69",
+      "semana": "2025-W43",
+      "horas": 49.5
     },
     {
       "empleado": "47",
@@ -90721,14 +90730,14 @@
       "horas": 36
     },
     {
-      "empleado": "27",
-      "semana": "2023-W03",
-      "horas": 43
-    },
-    {
       "empleado": "128",
       "semana": "2026-W40",
       "horas": 45
+    },
+    {
+      "empleado": "27",
+      "semana": "2023-W03",
+      "horas": 43
     },
     {
       "empleado": "116",
@@ -90786,14 +90795,14 @@
       "horas": 46.5
     },
     {
-      "empleado": "68",
-      "semana": "2023-W21",
-      "horas": 50
-    },
-    {
       "empleado": "108",
       "semana": "2026-W42",
       "horas": 39.75
+    },
+    {
+      "empleado": "68",
+      "semana": "2023-W21",
+      "horas": 50
     },
     {
       "empleado": "112",
@@ -90856,14 +90865,14 @@
       "horas": 21.67
     },
     {
-      "empleado": "100",
-      "semana": "2023-W12",
-      "horas": 46
-    },
-    {
       "empleado": "33",
       "semana": "2026-W35",
       "horas": 48.5
+    },
+    {
+      "empleado": "100",
+      "semana": "2023-W12",
+      "horas": 46
     },
     {
       "empleado": "91",
@@ -91041,14 +91050,14 @@
       "horas": 42.5
     },
     {
-      "empleado": "50",
-      "semana": "2025-W51",
-      "horas": 40.17
-    },
-    {
       "empleado": "128",
       "semana": "2025-W39",
       "horas": 47
+    },
+    {
+      "empleado": "50",
+      "semana": "2025-W51",
+      "horas": 40.17
     },
     {
       "empleado": "116",
@@ -91301,14 +91310,14 @@
       "horas": 45
     },
     {
-      "empleado": "80",
-      "semana": "2026-W09",
-      "horas": 50
-    },
-    {
       "empleado": "136",
       "semana": "2026-W37",
       "horas": 37.5
+    },
+    {
+      "empleado": "80",
+      "semana": "2026-W09",
+      "horas": 50
     },
     {
       "empleado": "30",
@@ -91341,14 +91350,14 @@
       "horas": 42
     },
     {
-      "empleado": "47",
-      "semana": "2025-W45",
-      "horas": 50.25
-    },
-    {
       "empleado": "126",
       "semana": "2026-W38",
       "horas": 50.5
+    },
+    {
+      "empleado": "47",
+      "semana": "2025-W45",
+      "horas": 50.25
     },
     {
       "empleado": "23",
@@ -91436,14 +91445,14 @@
       "horas": 50
     },
     {
-      "empleado": "111",
-      "semana": "2023-W24",
-      "horas": 26.75
-    },
-    {
       "empleado": "66",
       "semana": "2026-W35",
       "horas": 29.5
+    },
+    {
+      "empleado": "111",
+      "semana": "2023-W24",
+      "horas": 26.75
     },
     {
       "empleado": "33",
@@ -91591,14 +91600,14 @@
       "horas": 42.25
     },
     {
-      "empleado": "108",
-      "semana": "2024-W06",
-      "horas": 35.25
-    },
-    {
       "empleado": "19",
       "semana": "2025-W34",
       "horas": 41.5
+    },
+    {
+      "empleado": "108",
+      "semana": "2024-W06",
+      "horas": 35.25
     },
     {
       "empleado": "22",
@@ -91681,14 +91690,14 @@
       "horas": 36.5
     },
     {
-      "empleado": "54",
-      "semana": "2026-W15",
-      "horas": 44.25
-    },
-    {
       "empleado": "19",
       "semana": "2025-W43",
       "horas": 33.25
+    },
+    {
+      "empleado": "54",
+      "semana": "2026-W15",
+      "horas": 44.25
     },
     {
       "empleado": "133",
@@ -91696,14 +91705,14 @@
       "horas": 50
     },
     {
-      "empleado": "69",
-      "semana": "2026-W05",
-      "horas": 44.75
-    },
-    {
       "empleado": "123",
       "semana": "2026-W40",
       "horas": 45
+    },
+    {
+      "empleado": "69",
+      "semana": "2026-W05",
+      "horas": 44.75
     },
     {
       "empleado": "114",
@@ -91776,14 +91785,14 @@
       "horas": 49.5
     },
     {
-      "empleado": "P31",
-      "semana": "2026-W10",
-      "horas": 23
-    },
-    {
       "empleado": "108",
       "semana": "2024-W16",
       "horas": 43
+    },
+    {
+      "empleado": "P31",
+      "semana": "2026-W10",
+      "horas": 23
     },
     {
       "empleado": "69",
@@ -92506,14 +92515,14 @@
       "horas": 34
     },
     {
-      "empleado": "108",
-      "semana": "2023-W39",
-      "horas": 40
-    },
-    {
       "empleado": "P40",
       "semana": "2026-W38",
       "horas": 9
+    },
+    {
+      "empleado": "108",
+      "semana": "2023-W39",
+      "horas": 40
     },
     {
       "empleado": "105",
@@ -92531,14 +92540,14 @@
       "horas": 45
     },
     {
-      "empleado": "54",
-      "semana": "2023-W40",
-      "horas": 49.5
-    },
-    {
       "empleado": "112",
       "semana": "2026-W25",
       "horas": 35
+    },
+    {
+      "empleado": "54",
+      "semana": "2023-W40",
+      "horas": 49.5
     },
     {
       "empleado": "129",
@@ -92641,14 +92650,14 @@
       "horas": 50
     },
     {
-      "empleado": "29",
-      "semana": "2023-W11",
-      "horas": 2.5
-    },
-    {
       "empleado": "123",
       "semana": "2026-W46",
       "horas": 50
+    },
+    {
+      "empleado": "29",
+      "semana": "2023-W11",
+      "horas": 2.5
     },
     {
       "empleado": "68",
@@ -92871,14 +92880,14 @@
       "horas": 41.45
     },
     {
-      "empleado": "80",
-      "semana": "2023-W37",
-      "horas": 46
-    },
-    {
       "empleado": "128",
       "semana": "2026-W44",
       "horas": 50.5
+    },
+    {
+      "empleado": "80",
+      "semana": "2023-W37",
+      "horas": 46
     },
     {
       "empleado": "100",
@@ -93036,14 +93045,14 @@
       "horas": 49
     },
     {
-      "empleado": "3",
-      "semana": "2025-W13",
-      "horas": 45
-    },
-    {
       "empleado": "29",
       "semana": "2026-W44",
       "horas": 41.75
+    },
+    {
+      "empleado": "3",
+      "semana": "2025-W13",
+      "horas": 45
     },
     {
       "empleado": "132",
@@ -93116,14 +93125,14 @@
       "horas": 47
     },
     {
-      "empleado": "P31",
-      "semana": "2026-W15",
-      "horas": 17.22
-    },
-    {
       "empleado": "22",
       "semana": "2026-W47",
       "horas": 41.75
+    },
+    {
+      "empleado": "P31",
+      "semana": "2026-W15",
+      "horas": 17.22
     },
     {
       "empleado": "110",
@@ -93151,14 +93160,14 @@
       "horas": 44.25
     },
     {
-      "empleado": "30",
-      "semana": "2024-W04",
-      "horas": 21
-    },
-    {
       "empleado": "132",
       "semana": "2026-W26",
       "horas": 49.25
+    },
+    {
+      "empleado": "30",
+      "semana": "2024-W04",
+      "horas": 21
     },
     {
       "empleado": "P31",
@@ -93256,14 +93265,14 @@
       "horas": 9
     },
     {
-      "empleado": "129",
-      "semana": "2026-W04",
-      "horas": 47.5
-    },
-    {
       "empleado": "14",
       "semana": "2025-W44",
       "horas": 10.83
+    },
+    {
+      "empleado": "129",
+      "semana": "2026-W04",
+      "horas": 47.5
     },
     {
       "empleado": "36",
@@ -93311,14 +93320,14 @@
       "horas": 16.33
     },
     {
-      "empleado": "47",
-      "semana": "2023-W34",
-      "horas": 56.75
-    },
-    {
       "empleado": "126",
       "semana": "2026-W26",
       "horas": 50
+    },
+    {
+      "empleado": "47",
+      "semana": "2023-W34",
+      "horas": 56.75
     },
     {
       "empleado": "66",
@@ -93511,14 +93520,14 @@
       "horas": 48.67
     },
     {
-      "empleado": "95",
-      "semana": "2025-W22",
-      "horas": 46
-    },
-    {
       "empleado": "47",
       "semana": "2024-W15",
       "horas": 46.75
+    },
+    {
+      "empleado": "95",
+      "semana": "2025-W22",
+      "horas": 46
     },
     {
       "empleado": "E18",
@@ -93586,14 +93595,14 @@
       "horas": 41.58
     },
     {
-      "empleado": "94",
-      "semana": "2024-W41",
-      "horas": 26.25
-    },
-    {
       "empleado": "66",
       "semana": "2026-W41",
       "horas": 31.75
+    },
+    {
+      "empleado": "94",
+      "semana": "2024-W41",
+      "horas": 26.25
     },
     {
       "empleado": "26",
@@ -93616,14 +93625,14 @@
       "horas": 46.25
     },
     {
-      "empleado": "50",
-      "semana": "2024-W10",
-      "horas": 41.2
-    },
-    {
       "empleado": "30",
       "semana": "2026-W01",
       "horas": 36.5
+    },
+    {
+      "empleado": "50",
+      "semana": "2024-W10",
+      "horas": 41.2
     },
     {
       "empleado": "22",
@@ -93711,14 +93720,14 @@
       "horas": 39.5
     },
     {
-      "empleado": "124",
-      "semana": "2025-W17",
-      "horas": 45
-    },
-    {
       "empleado": "20",
       "semana": "2026-W39",
       "horas": 41.75
+    },
+    {
+      "empleado": "124",
+      "semana": "2025-W17",
+      "horas": 45
     },
     {
       "empleado": "121",
@@ -94211,14 +94220,14 @@
       "horas": 31
     },
     {
-      "empleado": "27",
-      "semana": "2023-W20",
-      "horas": 30.5
-    },
-    {
       "empleado": "69",
       "semana": "2026-W43",
       "horas": 52.75
+    },
+    {
+      "empleado": "27",
+      "semana": "2023-W20",
+      "horas": 30.5
     },
     {
       "empleado": "E16",
@@ -94316,6 +94325,11 @@
       "horas": 9
     },
     {
+      "empleado": "120",
+      "semana": "2026-W23",
+      "horas": 45
+    },
+    {
       "empleado": "66",
       "semana": "2024-W36",
       "horas": 44
@@ -94324,11 +94338,6 @@
       "empleado": "95",
       "semana": "2024-W17",
       "horas": 47
-    },
-    {
-      "empleado": "120",
-      "semana": "2026-W23",
-      "horas": 45
     },
     {
       "empleado": "68",
@@ -94381,14 +94390,14 @@
       "horas": 48
     },
     {
-      "empleado": "108",
-      "semana": "2026-W10",
-      "horas": 37.25
-    },
-    {
       "empleado": "47",
       "semana": "2024-W14",
       "horas": 52.75
+    },
+    {
+      "empleado": "108",
+      "semana": "2026-W10",
+      "horas": 37.25
     },
     {
       "empleado": "20",
@@ -94491,14 +94500,14 @@
       "horas": 42.25
     },
     {
-      "empleado": "112",
-      "semana": "2023-W25",
-      "horas": 21.25
-    },
-    {
       "empleado": "P38",
       "semana": "2026-W23",
       "horas": 19
+    },
+    {
+      "empleado": "112",
+      "semana": "2023-W25",
+      "horas": 21.25
     },
     {
       "empleado": "68",
@@ -94536,14 +94545,14 @@
       "horas": 24.75
     },
     {
-      "empleado": "94",
-      "semana": "2025-W02",
-      "horas": 40.5
-    },
-    {
       "empleado": "123",
       "semana": "2026-W29",
       "horas": 50
+    },
+    {
+      "empleado": "94",
+      "semana": "2025-W02",
+      "horas": 40.5
     },
     {
       "empleado": "99",
@@ -94671,14 +94680,14 @@
       "horas": 45
     },
     {
-      "empleado": "105",
-      "semana": "2025-W29",
-      "horas": 48
-    },
-    {
       "empleado": "91",
       "semana": "2026-W22",
       "horas": 45.08
+    },
+    {
+      "empleado": "105",
+      "semana": "2025-W29",
+      "horas": 48
     },
     {
       "empleado": "94",
@@ -94711,14 +94720,14 @@
       "horas": 46.5
     },
     {
-      "empleado": "69",
-      "semana": "2024-W49",
-      "horas": 48.75
-    },
-    {
       "empleado": "130",
       "semana": "2026-W27",
       "horas": 45.25
+    },
+    {
+      "empleado": "69",
+      "semana": "2024-W49",
+      "horas": 48.75
     },
     {
       "empleado": "30",
@@ -94901,14 +94910,14 @@
       "horas": 21
     },
     {
-      "empleado": "127",
-      "semana": "2026-W09",
-      "horas": 45.25
-    },
-    {
       "empleado": "136",
       "semana": "2026-W22",
       "horas": 24.83
+    },
+    {
+      "empleado": "127",
+      "semana": "2026-W09",
+      "horas": 45.25
     },
     {
       "empleado": "100",
@@ -95161,14 +95170,14 @@
       "horas": 39
     },
     {
-      "empleado": "30",
-      "semana": "2025-W35",
-      "horas": 24.25
-    },
-    {
       "empleado": "56",
       "semana": "2025-W39",
       "horas": 45.5
+    },
+    {
+      "empleado": "30",
+      "semana": "2025-W35",
+      "horas": 24.25
     },
     {
       "empleado": "119",
@@ -95761,14 +95770,14 @@
       "horas": 41.25
     },
     {
-      "empleado": "110",
-      "semana": "2023-W12",
-      "horas": 0.75
-    },
-    {
       "empleado": "93",
       "semana": "2025-W41",
       "horas": 12.5
+    },
+    {
+      "empleado": "110",
+      "semana": "2023-W12",
+      "horas": 0.75
     },
     {
       "empleado": "3",
@@ -95796,14 +95805,14 @@
       "horas": 43.5
     },
     {
-      "empleado": "117",
-      "semana": "2024-W32",
-      "horas": 49.5
-    },
-    {
       "empleado": "133",
       "semana": "2026-W43",
       "horas": 50
+    },
+    {
+      "empleado": "117",
+      "semana": "2024-W32",
+      "horas": 49.5
     },
     {
       "empleado": "83",
@@ -97171,14 +97180,14 @@
       "horas": 36
     },
     {
-      "empleado": "23",
-      "semana": "2025-W46",
-      "horas": 48.5
-    },
-    {
       "empleado": "19",
       "semana": "2024-W14",
       "horas": 34.25
+    },
+    {
+      "empleado": "23",
+      "semana": "2025-W46",
+      "horas": 48.5
     },
     {
       "empleado": "111",
@@ -97256,14 +97265,14 @@
       "horas": 45.48
     },
     {
-      "empleado": "54",
-      "semana": "2025-W45",
-      "horas": 45.75
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W23",
       "horas": 18
+    },
+    {
+      "empleado": "54",
+      "semana": "2025-W45",
+      "horas": 45.75
     },
     {
       "empleado": "95",
@@ -97371,14 +97380,14 @@
       "horas": 32
     },
     {
-      "empleado": "33",
-      "semana": "2026-W01",
-      "horas": 43
-    },
-    {
       "empleado": "14",
       "semana": "2026-W47",
       "horas": 26.12
+    },
+    {
+      "empleado": "33",
+      "semana": "2026-W01",
+      "horas": 43
     },
     {
       "empleado": "68",
@@ -97861,14 +97870,14 @@
       "horas": 50
     },
     {
-      "empleado": "105",
-      "semana": "2023-W21",
-      "horas": 29.75
-    },
-    {
       "empleado": "124",
       "semana": "2026-W39",
       "horas": 48.75
+    },
+    {
+      "empleado": "105",
+      "semana": "2023-W21",
+      "horas": 29.75
     },
     {
       "empleado": "119",
@@ -98201,14 +98210,14 @@
       "horas": 11.08
     },
     {
-      "empleado": "95",
-      "semana": "2025-W35",
-      "horas": 45
-    },
-    {
       "empleado": "125",
       "semana": "2026-W24",
       "horas": 27.33
+    },
+    {
+      "empleado": "95",
+      "semana": "2025-W35",
+      "horas": 45
     },
     {
       "empleado": "P39",
@@ -98256,14 +98265,14 @@
       "horas": 40.75
     },
     {
-      "empleado": "87",
-      "semana": "2023-W39",
-      "horas": 43.75
-    },
-    {
       "empleado": "124",
       "semana": "2026-W28",
       "horas": 48.25
+    },
+    {
+      "empleado": "87",
+      "semana": "2023-W39",
+      "horas": 43.75
     },
     {
       "empleado": "67",
@@ -98381,14 +98390,14 @@
       "horas": 34.75
     },
     {
-      "empleado": "67",
-      "semana": "2026-W11",
-      "horas": 38.25
-    },
-    {
       "empleado": "126",
       "semana": "2026-W41",
       "horas": 48.5
+    },
+    {
+      "empleado": "67",
+      "semana": "2026-W11",
+      "horas": 38.25
     },
     {
       "empleado": "67",
@@ -98436,14 +98445,14 @@
       "horas": 38
     },
     {
-      "empleado": "23",
-      "semana": "2024-W40",
-      "horas": 50
-    },
-    {
       "empleado": "111",
       "semana": "2026-W43",
       "horas": 44.75
+    },
+    {
+      "empleado": "23",
+      "semana": "2024-W40",
+      "horas": 50
     },
     {
       "empleado": "50",
@@ -98546,24 +98555,24 @@
       "horas": 47.5
     },
     {
-      "empleado": "110",
-      "semana": "2024-W04",
-      "horas": 37
-    },
-    {
       "empleado": "127",
       "semana": "2025-W39",
       "horas": 46
     },
     {
-      "empleado": "57",
-      "semana": "2026-W38",
-      "horas": 9
+      "empleado": "110",
+      "semana": "2024-W04",
+      "horas": 37
     },
     {
       "empleado": "111",
       "semana": "2026-W38",
       "horas": 41.25
+    },
+    {
+      "empleado": "57",
+      "semana": "2026-W38",
+      "horas": 9
     },
     {
       "empleado": "66",
@@ -98621,14 +98630,14 @@
       "horas": 50
     },
     {
-      "empleado": "69",
-      "semana": "2025-W42",
-      "horas": 50
-    },
-    {
       "empleado": "19",
       "semana": "2025-W44",
       "horas": 38.33
+    },
+    {
+      "empleado": "69",
+      "semana": "2025-W42",
+      "horas": 50
     },
     {
       "empleado": "6",
@@ -98676,14 +98685,14 @@
       "horas": 36.33
     },
     {
-      "empleado": "26",
-      "semana": "2026-W12",
-      "horas": 38.75
-    },
-    {
       "empleado": "19",
       "semana": "2024-W16",
       "horas": 38.17
+    },
+    {
+      "empleado": "26",
+      "semana": "2026-W12",
+      "horas": 38.75
     },
     {
       "empleado": "47",
@@ -98931,14 +98940,14 @@
       "horas": 46.5
     },
     {
-      "empleado": "103",
-      "semana": "2024-W07",
-      "horas": 45
-    },
-    {
       "empleado": "100",
       "semana": "2026-W24",
       "horas": 53.25
+    },
+    {
+      "empleado": "103",
+      "semana": "2024-W07",
+      "horas": 45
     },
     {
       "empleado": "70",
@@ -99036,14 +99045,14 @@
       "horas": 45
     },
     {
-      "empleado": "94",
-      "semana": "2023-W22",
-      "horas": 36.75
-    },
-    {
       "empleado": "22",
       "semana": "2025-W39",
       "horas": 37
+    },
+    {
+      "empleado": "94",
+      "semana": "2023-W22",
+      "horas": 36.75
     },
     {
       "empleado": "22",
@@ -99186,14 +99195,14 @@
       "horas": 45
     },
     {
-      "empleado": "121",
-      "semana": "2025-W18",
-      "horas": 39.5
-    },
-    {
       "empleado": "125",
       "semana": "2026-W05",
       "horas": 29.75
+    },
+    {
+      "empleado": "121",
+      "semana": "2025-W18",
+      "horas": 39.5
     },
     {
       "empleado": "103",
@@ -99391,14 +99400,14 @@
       "horas": 36
     },
     {
-      "empleado": "133",
-      "semana": "2026-W13",
-      "horas": 45
-    },
-    {
       "empleado": "112",
       "semana": "2026-W37",
       "horas": 45.75
+    },
+    {
+      "empleado": "133",
+      "semana": "2026-W13",
+      "horas": 45
     },
     {
       "empleado": "95",
@@ -99661,14 +99670,14 @@
       "horas": 42.25
     },
     {
-      "empleado": "68",
-      "semana": "2023-W47",
-      "horas": 52
-    },
-    {
       "empleado": "130",
       "semana": "2026-W28",
       "horas": 45.5
+    },
+    {
+      "empleado": "68",
+      "semana": "2023-W47",
+      "horas": 52
     },
     {
       "empleado": "36",
@@ -100076,14 +100085,14 @@
       "horas": 40.78
     },
     {
-      "empleado": "87",
-      "semana": "2025-W11",
-      "horas": 42.75
-    },
-    {
       "empleado": "100",
       "semana": "2026-W37",
       "horas": 60
+    },
+    {
+      "empleado": "87",
+      "semana": "2025-W11",
+      "horas": 42.75
     },
     {
       "empleado": "66",
@@ -100116,24 +100125,24 @@
       "horas": 39.75
     },
     {
-      "empleado": "95",
-      "semana": "2024-W04",
-      "horas": 45
-    },
-    {
       "empleado": "47",
       "semana": "2024-W45",
       "horas": 45
     },
     {
-      "empleado": "50",
-      "semana": "2026-W12",
-      "horas": 44.75
+      "empleado": "95",
+      "semana": "2024-W04",
+      "horas": 45
     },
     {
       "empleado": "19",
       "semana": "2025-W32",
       "horas": 44.33
+    },
+    {
+      "empleado": "50",
+      "semana": "2026-W12",
+      "horas": 44.75
     },
     {
       "empleado": "27",
@@ -100316,6 +100325,11 @@
       "horas": 49
     },
     {
+      "empleado": "20",
+      "semana": "2024-W46",
+      "horas": 48.5
+    },
+    {
       "empleado": "110",
       "semana": "2024-W15",
       "horas": 40.75
@@ -100324,11 +100338,6 @@
       "empleado": "23",
       "semana": "2024-W22",
       "horas": 49
-    },
-    {
-      "empleado": "20",
-      "semana": "2024-W46",
-      "horas": 48.5
     },
     {
       "empleado": "23",
@@ -100636,14 +100645,14 @@
       "horas": 37
     },
     {
-      "empleado": "P38",
-      "semana": "2026-W31",
-      "horas": 25
-    },
-    {
       "empleado": "108",
       "semana": "2024-W37",
       "horas": 38.5
+    },
+    {
+      "empleado": "P38",
+      "semana": "2026-W31",
+      "horas": 25
     },
     {
       "empleado": "47",
@@ -100711,14 +100720,14 @@
       "horas": 45.5
     },
     {
-      "empleado": "111",
-      "semana": "2024-W21",
-      "horas": 40.5
-    },
-    {
       "empleado": "E21",
       "semana": "2026-W45",
       "horas": 11.75
+    },
+    {
+      "empleado": "111",
+      "semana": "2024-W21",
+      "horas": 40.5
     },
     {
       "empleado": "87",
@@ -100791,14 +100800,14 @@
       "horas": 81.75
     },
     {
-      "empleado": "66",
-      "semana": "2026-W13",
-      "horas": 44.25
-    },
-    {
       "empleado": "117",
       "semana": "2026-W30",
       "horas": 45.5
+    },
+    {
+      "empleado": "66",
+      "semana": "2026-W13",
+      "horas": 44.25
     },
     {
       "empleado": "P38",
@@ -100971,14 +100980,14 @@
       "horas": 55
     },
     {
-      "empleado": "91",
-      "semana": "2023-W42",
-      "horas": 46.62
-    },
-    {
       "empleado": "130",
       "semana": "2026-W33",
       "horas": 44.25
+    },
+    {
+      "empleado": "91",
+      "semana": "2023-W42",
+      "horas": 46.62
     },
     {
       "empleado": "80",
@@ -100986,14 +100995,14 @@
       "horas": 40.75
     },
     {
-      "empleado": "3",
-      "semana": "2023-W30",
-      "horas": 45.25
-    },
-    {
       "empleado": "129",
       "semana": "2026-W42",
       "horas": 45
+    },
+    {
+      "empleado": "3",
+      "semana": "2023-W30",
+      "horas": 45.25
     },
     {
       "empleado": "30",
@@ -101006,14 +101015,14 @@
       "horas": 0.25
     },
     {
-      "empleado": "124",
-      "semana": "2026-W08",
-      "horas": 43.5
-    },
-    {
       "empleado": "47",
       "semana": "2026-W34",
       "horas": 53
+    },
+    {
+      "empleado": "124",
+      "semana": "2026-W08",
+      "horas": 43.5
     },
     {
       "empleado": "67",
@@ -101031,14 +101040,14 @@
       "horas": 49
     },
     {
-      "empleado": "105",
-      "semana": "2024-W10",
-      "horas": 45
-    },
-    {
       "empleado": "114",
       "semana": "2026-W37",
       "horas": 42.75
+    },
+    {
+      "empleado": "105",
+      "semana": "2024-W10",
+      "horas": 45
     },
     {
       "empleado": "122",
@@ -101071,14 +101080,14 @@
       "horas": 40.25
     },
     {
-      "empleado": "118",
-      "semana": "2024-W30",
-      "horas": 35
-    },
-    {
       "empleado": "67",
       "semana": "2026-W30",
       "horas": 41
+    },
+    {
+      "empleado": "118",
+      "semana": "2024-W30",
+      "horas": 35
     },
     {
       "empleado": "E14",
@@ -101121,14 +101130,14 @@
       "horas": 4.83
     },
     {
-      "empleado": "54",
-      "semana": "2023-W32",
-      "horas": 48
-    },
-    {
       "empleado": "26",
       "semana": "2026-W24",
       "horas": 43.42
+    },
+    {
+      "empleado": "54",
+      "semana": "2023-W32",
+      "horas": 48
     },
     {
       "empleado": "50",
@@ -101281,14 +101290,14 @@
       "horas": 37.5
     },
     {
-      "empleado": "83",
-      "semana": "2025-W47",
-      "horas": 9
-    },
-    {
       "empleado": "P29",
       "semana": "2025-W39",
       "horas": 30
+    },
+    {
+      "empleado": "83",
+      "semana": "2025-W47",
+      "horas": 9
     },
     {
       "empleado": "132",
@@ -101356,14 +101365,14 @@
       "horas": 37.25
     },
     {
-      "empleado": "80",
-      "semana": "2026-W19",
-      "horas": 45
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W38",
       "horas": 26.33
+    },
+    {
+      "empleado": "80",
+      "semana": "2026-W19",
+      "horas": 45
     },
     {
       "empleado": "26",
@@ -101576,14 +101585,14 @@
       "horas": 45.25
     },
     {
-      "empleado": "128",
-      "semana": "2026-W45",
-      "horas": 45
-    },
-    {
       "empleado": "54",
       "semana": "2026-W42",
       "horas": 43.5
+    },
+    {
+      "empleado": "128",
+      "semana": "2026-W45",
+      "horas": 45
     },
     {
       "empleado": "33",
@@ -101896,14 +101905,14 @@
       "horas": 47.5
     },
     {
-      "empleado": "124",
-      "semana": "2025-W31",
-      "horas": 45
-    },
-    {
       "empleado": "126",
       "semana": "2026-W25",
       "horas": 47.75
+    },
+    {
+      "empleado": "124",
+      "semana": "2025-W31",
+      "horas": 45
     },
     {
       "empleado": "68",
@@ -101931,14 +101940,14 @@
       "horas": 46.92
     },
     {
-      "empleado": "114",
-      "semana": "2026-W18",
-      "horas": 42.5
-    },
-    {
       "empleado": "111",
       "semana": "2026-W35",
       "horas": 40.25
+    },
+    {
+      "empleado": "114",
+      "semana": "2026-W18",
+      "horas": 42.5
     },
     {
       "empleado": "P31",
@@ -101986,14 +101995,14 @@
       "horas": 43.25
     },
     {
-      "empleado": "132",
-      "semana": "2026-W13",
-      "horas": 50
-    },
-    {
       "empleado": "108",
       "semana": "2024-W17",
       "horas": 43
+    },
+    {
+      "empleado": "132",
+      "semana": "2026-W13",
+      "horas": 50
     },
     {
       "empleado": "68",
@@ -102246,14 +102255,14 @@
       "horas": 25.75
     },
     {
-      "empleado": "30",
-      "semana": "2026-W13",
-      "horas": 25.67
-    },
-    {
       "empleado": "91",
       "semana": "2026-W37",
       "horas": 45.25
+    },
+    {
+      "empleado": "30",
+      "semana": "2026-W13",
+      "horas": 25.67
     },
     {
       "empleado": "27",
@@ -102351,14 +102360,14 @@
       "horas": 56.5
     },
     {
-      "empleado": "36",
-      "semana": "2025-W12",
-      "horas": 45
-    },
-    {
       "empleado": "P31",
       "semana": "2026-W37",
       "horas": 23.42
+    },
+    {
+      "empleado": "36",
+      "semana": "2025-W12",
+      "horas": 45
     },
     {
       "empleado": "70",
@@ -102446,14 +102455,14 @@
       "horas": 49
     },
     {
-      "empleado": "47",
-      "semana": "2026-W13",
-      "horas": 53
-    },
-    {
       "empleado": "114",
       "semana": "2026-W39",
       "horas": 46.25
+    },
+    {
+      "empleado": "47",
+      "semana": "2026-W13",
+      "horas": 53
     },
     {
       "empleado": "118",
@@ -102466,14 +102475,14 @@
       "horas": 41
     },
     {
-      "empleado": "118",
-      "semana": "2025-W07",
-      "horas": 44
-    },
-    {
       "empleado": "127",
       "semana": "2026-W36",
       "horas": 45
+    },
+    {
+      "empleado": "118",
+      "semana": "2025-W07",
+      "horas": 44
     },
     {
       "empleado": "94",
@@ -102501,14 +102510,14 @@
       "horas": 44.5
     },
     {
-      "empleado": "67",
-      "semana": "2025-W50",
-      "horas": 39.5
-    },
-    {
       "empleado": "23",
       "semana": "2026-W46",
       "horas": 49.25
+    },
+    {
+      "empleado": "67",
+      "semana": "2025-W50",
+      "horas": 39.5
     },
     {
       "empleado": "100",
@@ -102566,14 +102575,14 @@
       "horas": 9.25
     },
     {
-      "empleado": "93",
-      "semana": "2023-W02",
-      "horas": 45
-    },
-    {
       "empleado": "29",
       "semana": "2026-W46",
       "horas": 40.25
+    },
+    {
+      "empleado": "93",
+      "semana": "2023-W02",
+      "horas": 45
     },
     {
       "empleado": "23",
@@ -102666,14 +102675,14 @@
       "horas": 45
     },
     {
-      "empleado": "22",
-      "semana": "2023-W52",
-      "horas": 37.25
-    },
-    {
       "empleado": "47",
       "semana": "2026-W26",
       "horas": 51
+    },
+    {
+      "empleado": "22",
+      "semana": "2023-W52",
+      "horas": 37.25
     },
     {
       "empleado": "27",
@@ -102836,14 +102845,14 @@
       "horas": 34.75
     },
     {
-      "empleado": "36",
-      "semana": "2025-W19",
-      "horas": 45
-    },
-    {
       "empleado": "117",
       "semana": "2025-W39",
       "horas": 46.25
+    },
+    {
+      "empleado": "36",
+      "semana": "2025-W19",
+      "horas": 45
     },
     {
       "empleado": "80",
@@ -102936,14 +102945,14 @@
       "horas": 46
     },
     {
-      "empleado": "68",
-      "semana": "2024-W42",
-      "horas": 50
-    },
-    {
       "empleado": "122",
       "semana": "2026-W43",
       "horas": 46
+    },
+    {
+      "empleado": "68",
+      "semana": "2024-W42",
+      "horas": 50
     },
     {
       "empleado": "103",
@@ -103166,14 +103175,14 @@
       "horas": 42
     },
     {
-      "empleado": "67",
-      "semana": "2025-W14",
-      "horas": 43.5
-    },
-    {
       "empleado": "123",
       "semana": "2026-W34",
       "horas": 45
+    },
+    {
+      "empleado": "67",
+      "semana": "2025-W14",
+      "horas": 43.5
     },
     {
       "empleado": "131",
@@ -103741,14 +103750,14 @@
       "horas": 42
     },
     {
-      "empleado": "1",
-      "semana": "2026-W14",
-      "horas": 18
-    },
-    {
       "empleado": "69",
       "semana": "2026-W33",
       "horas": 52.5
+    },
+    {
+      "empleado": "1",
+      "semana": "2026-W14",
+      "horas": 18
     },
     {
       "empleado": "47",
@@ -103821,14 +103830,14 @@
       "horas": 49.75
     },
     {
-      "empleado": "14",
-      "semana": "2026-W12",
-      "horas": 16.58
-    },
-    {
       "empleado": "123",
       "semana": "2026-W30",
       "horas": 45
+    },
+    {
+      "empleado": "14",
+      "semana": "2026-W12",
+      "horas": 16.58
     },
     {
       "empleado": "69",
@@ -103996,14 +104005,14 @@
       "horas": 41
     },
     {
-      "empleado": "100",
-      "semana": "2023-W34",
-      "horas": 47
-    },
-    {
       "empleado": "30",
       "semana": "2026-W33",
       "horas": 31.5
+    },
+    {
+      "empleado": "100",
+      "semana": "2023-W34",
+      "horas": 47
     },
     {
       "empleado": "91",
@@ -104176,14 +104185,14 @@
       "horas": 45
     },
     {
-      "empleado": "P29",
-      "semana": "2025-W48",
-      "horas": 30
-    },
-    {
       "empleado": "47",
       "semana": "2024-W46",
       "horas": 52
+    },
+    {
+      "empleado": "P29",
+      "semana": "2025-W48",
+      "horas": 30
     },
     {
       "empleado": "117",
@@ -104516,6 +104525,11 @@
       "horas": 41.5
     },
     {
+      "empleado": "P30",
+      "semana": "2026-W04",
+      "horas": 10.42
+    },
+    {
       "empleado": "91",
       "semana": "2023-W17",
       "horas": 50.45
@@ -104524,11 +104538,6 @@
       "empleado": "14",
       "semana": "2023-W18",
       "horas": 30.3
-    },
-    {
-      "empleado": "P30",
-      "semana": "2026-W04",
-      "horas": 10.42
     },
     {
       "empleado": "78",
@@ -104666,14 +104675,14 @@
       "horas": 37
     },
     {
-      "empleado": "111",
-      "semana": "2023-W49",
-      "horas": 42
-    },
-    {
       "empleado": "29",
       "semana": "2026-W41",
       "horas": 43.92
+    },
+    {
+      "empleado": "111",
+      "semana": "2023-W49",
+      "horas": 42
     },
     {
       "empleado": "47",
@@ -104776,14 +104785,14 @@
       "horas": 9
     },
     {
-      "empleado": "22",
-      "semana": "2026-W35",
-      "horas": 45
-    },
-    {
       "empleado": "136",
       "semana": "2026-W25",
       "horas": 34
+    },
+    {
+      "empleado": "22",
+      "semana": "2026-W35",
+      "horas": 45
     },
     {
       "empleado": "50",
@@ -104916,14 +104925,14 @@
       "horas": 41
     },
     {
-      "empleado": "P27",
-      "semana": "2025-W24",
-      "horas": 26.25
-    },
-    {
       "empleado": "131",
       "semana": "2026-W44",
       "horas": 45
+    },
+    {
+      "empleado": "P27",
+      "semana": "2025-W24",
+      "horas": 26.25
     },
     {
       "empleado": "107",
@@ -105071,14 +105080,14 @@
       "horas": 9
     },
     {
-      "empleado": "94",
-      "semana": "2024-W27",
-      "horas": 35
-    },
-    {
       "empleado": "131",
       "semana": "2026-W35",
       "horas": 40.25
+    },
+    {
+      "empleado": "94",
+      "semana": "2024-W27",
+      "horas": 35
     },
     {
       "empleado": "14",
@@ -105126,14 +105135,14 @@
       "horas": 26.5
     },
     {
-      "empleado": "68",
-      "semana": "2026-W01",
-      "horas": 50
-    },
-    {
       "empleado": "120",
       "semana": "2026-W46",
       "horas": 45
+    },
+    {
+      "empleado": "68",
+      "semana": "2026-W01",
+      "horas": 50
     },
     {
       "empleado": "122",
@@ -105141,14 +105150,14 @@
       "horas": 48.75
     },
     {
-      "empleado": "128",
-      "semana": "2026-W09",
-      "horas": 44.98
-    },
-    {
       "empleado": "20",
       "semana": "2024-W06",
       "horas": 32
+    },
+    {
+      "empleado": "128",
+      "semana": "2026-W09",
+      "horas": 44.98
     },
     {
       "empleado": "112",
@@ -105406,8 +105415,8 @@
       "horas": 47.93
     },
     {
-      "empleado": "E23",
-      "semana": "2026-W42",
+      "empleado": "67",
+      "semana": "2026-W24",
       "horas": 40
     },
     {
@@ -105416,8 +105425,8 @@
       "horas": 42.5
     },
     {
-      "empleado": "67",
-      "semana": "2026-W24",
+      "empleado": "E23",
+      "semana": "2026-W42",
       "horas": 40
     },
     {
@@ -105446,14 +105455,14 @@
       "horas": 9
     },
     {
-      "empleado": "P35",
-      "semana": "2026-W15",
-      "horas": 20
-    },
-    {
       "empleado": "19",
       "semana": "2026-W10",
       "horas": 35.95
+    },
+    {
+      "empleado": "P35",
+      "semana": "2026-W15",
+      "horas": 20
     },
     {
       "empleado": "131",
@@ -105466,14 +105475,14 @@
       "horas": 36
     },
     {
-      "empleado": "99",
-      "semana": "2024-W11",
-      "horas": 46
-    },
-    {
       "empleado": "P36",
       "semana": "2026-W32",
       "horas": 30
+    },
+    {
+      "empleado": "99",
+      "semana": "2024-W11",
+      "horas": 46
     },
     {
       "empleado": "50",
@@ -105591,14 +105600,14 @@
       "horas": 50
     },
     {
-      "empleado": "103",
-      "semana": "2023-W02",
-      "horas": 44.67
-    },
-    {
       "empleado": "136",
       "semana": "2026-W39",
       "horas": 29.75
+    },
+    {
+      "empleado": "103",
+      "semana": "2023-W02",
+      "horas": 44.67
     },
     {
       "empleado": "29",
@@ -105731,14 +105740,14 @@
       "horas": 16.5
     },
     {
-      "empleado": "103",
-      "semana": "2024-W20",
-      "horas": 45.45
-    },
-    {
       "empleado": "91",
       "semana": "2026-W27",
       "horas": 46.33
+    },
+    {
+      "empleado": "103",
+      "semana": "2024-W20",
+      "horas": 45.45
     },
     {
       "empleado": "95",
@@ -105751,14 +105760,14 @@
       "horas": 5.75
     },
     {
-      "empleado": "23",
-      "semana": "2026-W07",
-      "horas": 49.25
-    },
-    {
       "empleado": "108",
       "semana": "2023-W37",
       "horas": 41
+    },
+    {
+      "empleado": "23",
+      "semana": "2026-W07",
+      "horas": 49.25
     },
     {
       "empleado": "93",
@@ -105776,14 +105785,14 @@
       "horas": 39.5
     },
     {
-      "empleado": "100",
-      "semana": "2025-W16",
-      "horas": 53
-    },
-    {
       "empleado": "122",
       "semana": "2026-W40",
       "horas": 45
+    },
+    {
+      "empleado": "100",
+      "semana": "2025-W16",
+      "horas": 53
     },
     {
       "empleado": "111",
@@ -105811,14 +105820,14 @@
       "horas": 45
     },
     {
-      "empleado": "33",
-      "semana": "2023-W10",
-      "horas": 48.5
-    },
-    {
       "empleado": "30",
       "semana": "2026-W37",
       "horas": 26
+    },
+    {
+      "empleado": "33",
+      "semana": "2023-W10",
+      "horas": 48.5
     },
     {
       "empleado": "94",
@@ -106096,14 +106105,14 @@
       "horas": 20.5
     },
     {
-      "empleado": "120",
-      "semana": "2026-W09",
-      "horas": 47.5
-    },
-    {
       "empleado": "47",
       "semana": "2023-W43",
       "horas": 55.75
+    },
+    {
+      "empleado": "120",
+      "semana": "2026-W09",
+      "horas": 47.5
     },
     {
       "empleado": "22",
@@ -106201,14 +106210,14 @@
       "horas": 46
     },
     {
-      "empleado": "6",
-      "semana": "2023-W28",
-      "horas": 19
-    },
-    {
       "empleado": "111",
       "semana": "2026-W21",
       "horas": 41
+    },
+    {
+      "empleado": "6",
+      "semana": "2023-W28",
+      "horas": 19
     },
     {
       "empleado": "114",
@@ -106601,14 +106610,14 @@
       "horas": 42.5
     },
     {
-      "empleado": "119",
-      "semana": "2025-W11",
-      "horas": 40
-    },
-    {
       "empleado": "93",
       "semana": "2025-W39",
       "horas": 3
+    },
+    {
+      "empleado": "119",
+      "semana": "2025-W11",
+      "horas": 40
     },
     {
       "empleado": "69",
@@ -106756,14 +106765,14 @@
       "horas": 41.5
     },
     {
-      "empleado": "54",
-      "semana": "2024-W31",
-      "horas": 46.25
-    },
-    {
       "empleado": "E25",
       "semana": "2026-W44",
       "horas": 48.25
+    },
+    {
+      "empleado": "54",
+      "semana": "2024-W31",
+      "horas": 46.25
     },
     {
       "empleado": "E21",
@@ -106786,13 +106795,13 @@
       "horas": 36.83
     },
     {
-      "empleado": "97",
-      "semana": "2023-W01",
+      "empleado": "26",
+      "semana": "2025-W38",
       "horas": 41.25
     },
     {
-      "empleado": "26",
-      "semana": "2025-W38",
+      "empleado": "97",
+      "semana": "2023-W01",
       "horas": 41.25
     },
     {
@@ -106981,14 +106990,14 @@
       "horas": 30
     },
     {
-      "empleado": "47",
-      "semana": "2025-W40",
-      "horas": 59
-    },
-    {
       "empleado": "133",
       "semana": "2026-W29",
       "horas": 50
+    },
+    {
+      "empleado": "47",
+      "semana": "2025-W40",
+      "horas": 59
     },
     {
       "empleado": "112",
@@ -107181,14 +107190,14 @@
       "horas": 41.25
     },
     {
-      "empleado": "30",
-      "semana": "2024-W49",
-      "horas": 35.25
-    },
-    {
       "empleado": "29",
       "semana": "2025-W40",
       "horas": 39.92
+    },
+    {
+      "empleado": "30",
+      "semana": "2024-W49",
+      "horas": 35.25
     },
     {
       "empleado": "100",
@@ -107401,14 +107410,14 @@
       "horas": 44.25
     },
     {
-      "empleado": "93",
-      "semana": "2023-W01",
-      "horas": 46
-    },
-    {
       "empleado": "P41",
       "semana": "2026-W46",
       "horas": 25
+    },
+    {
+      "empleado": "93",
+      "semana": "2023-W01",
+      "horas": 46
     },
     {
       "empleado": "23",
@@ -107501,14 +107510,14 @@
       "horas": 9
     },
     {
-      "empleado": "54",
-      "semana": "2026-W03",
-      "horas": 40
-    },
-    {
       "empleado": "14",
       "semana": "2026-W39",
       "horas": 16.5
+    },
+    {
+      "empleado": "54",
+      "semana": "2026-W03",
+      "horas": 40
     },
     {
       "empleado": "22",
@@ -107516,14 +107525,14 @@
       "horas": 39.25
     },
     {
-      "empleado": "100",
-      "semana": "2023-W28",
-      "horas": 45
-    },
-    {
       "empleado": "47",
       "semana": "2025-W52",
       "horas": 36.75
+    },
+    {
+      "empleado": "100",
+      "semana": "2023-W28",
+      "horas": 45
     },
     {
       "empleado": "114",
@@ -107551,6 +107560,11 @@
       "horas": 45
     },
     {
+      "empleado": "19",
+      "semana": "2025-W05",
+      "horas": 41.75
+    },
+    {
       "empleado": "36",
       "semana": "2024-W46",
       "horas": 45
@@ -107559,11 +107573,6 @@
       "empleado": "113",
       "semana": "2025-W47",
       "horas": 9
-    },
-    {
-      "empleado": "19",
-      "semana": "2025-W05",
-      "horas": 41.75
     },
     {
       "empleado": "99",
@@ -107661,14 +107670,14 @@
       "horas": 43.75
     },
     {
-      "empleado": "54",
-      "semana": "2025-W49",
-      "horas": 40.75
-    },
-    {
       "empleado": "19",
       "semana": "2025-W20",
       "horas": 44.5
+    },
+    {
+      "empleado": "54",
+      "semana": "2025-W49",
+      "horas": 40.75
     },
     {
       "empleado": "3",
@@ -107851,14 +107860,14 @@
       "horas": 45
     },
     {
-      "empleado": "99",
-      "semana": "2025-W15",
-      "horas": 47
-    },
-    {
       "empleado": "20",
       "semana": "2026-W26",
       "horas": 45.25
+    },
+    {
+      "empleado": "99",
+      "semana": "2025-W15",
+      "horas": 47
     },
     {
       "empleado": "93",
@@ -107981,6 +107990,11 @@
       "horas": 51.25
     },
     {
+      "empleado": "33",
+      "semana": "2026-W24",
+      "horas": 51
+    },
+    {
       "empleado": "P11",
       "semana": "2024-W21",
       "horas": 41.5
@@ -107989,11 +108003,6 @@
       "empleado": "110",
       "semana": "2026-W05",
       "horas": 40
-    },
-    {
-      "empleado": "33",
-      "semana": "2026-W24",
-      "horas": 51
     },
     {
       "empleado": "80",
@@ -108021,14 +108030,14 @@
       "horas": 42
     },
     {
-      "empleado": "110",
-      "semana": "2023-W47",
-      "horas": 27.75
-    },
-    {
       "empleado": "47",
       "semana": "2024-W40",
       "horas": 37.5
+    },
+    {
+      "empleado": "110",
+      "semana": "2023-W47",
+      "horas": 27.75
     },
     {
       "empleado": "80",
@@ -108041,14 +108050,14 @@
       "horas": 48.65
     },
     {
-      "empleado": "87",
-      "semana": "2025-W10",
-      "horas": 41.75
-    },
-    {
       "empleado": "47",
       "semana": "2025-W37",
       "horas": 52.5
+    },
+    {
+      "empleado": "87",
+      "semana": "2025-W10",
+      "horas": 41.75
     },
     {
       "empleado": "P31",
@@ -108131,14 +108140,14 @@
       "horas": 30.25
     },
     {
-      "empleado": "68",
-      "semana": "2024-W18",
-      "horas": 50
-    },
-    {
       "empleado": "56",
       "semana": "2026-W43",
       "horas": 16.75
+    },
+    {
+      "empleado": "68",
+      "semana": "2024-W18",
+      "horas": 50
     },
     {
       "empleado": "68",
@@ -108436,13 +108445,13 @@
       "horas": 38
     },
     {
-      "empleado": "E14",
-      "semana": "2026-W24",
+      "empleado": "20",
+      "semana": "2024-W45",
       "horas": 45
     },
     {
-      "empleado": "20",
-      "semana": "2024-W45",
+      "empleado": "E14",
+      "semana": "2026-W24",
       "horas": 45
     },
     {
@@ -108676,14 +108685,14 @@
       "horas": 34.25
     },
     {
-      "empleado": "91",
-      "semana": "2023-W43",
-      "horas": 47.23
-    },
-    {
       "empleado": "131",
       "semana": "2026-W41",
       "horas": 42.25
+    },
+    {
+      "empleado": "91",
+      "semana": "2023-W43",
+      "horas": 47.23
     },
     {
       "empleado": "111",
@@ -108961,14 +108970,14 @@
       "horas": 45
     },
     {
-      "empleado": "125",
-      "semana": "2026-W07",
-      "horas": 24
-    },
-    {
       "empleado": "108",
       "semana": "2024-W32",
       "horas": 40.75
+    },
+    {
+      "empleado": "125",
+      "semana": "2026-W07",
+      "horas": 24
     },
     {
       "empleado": "124",
@@ -109166,14 +109175,14 @@
       "horas": 38.5
     },
     {
-      "empleado": "70",
-      "semana": "2023-W38",
-      "horas": 36
-    },
-    {
       "empleado": "108",
       "semana": "2026-W41",
       "horas": 39.5
+    },
+    {
+      "empleado": "70",
+      "semana": "2023-W38",
+      "horas": 36
     },
     {
       "empleado": "54",
@@ -109411,14 +109420,14 @@
       "horas": 45.5
     },
     {
-      "empleado": "99",
-      "semana": "2025-W23",
-      "horas": 44.5
-    },
-    {
       "empleado": "E21",
       "semana": "2026-W46",
       "horas": 30
+    },
+    {
+      "empleado": "99",
+      "semana": "2025-W23",
+      "horas": 44.5
     },
     {
       "empleado": "P10",
@@ -109451,14 +109460,14 @@
       "horas": 0.75
     },
     {
-      "empleado": "80",
-      "semana": "2026-W06",
-      "horas": 50
-    },
-    {
       "empleado": "19",
       "semana": "2026-W28",
       "horas": 41.35
+    },
+    {
+      "empleado": "80",
+      "semana": "2026-W06",
+      "horas": 50
     },
     {
       "empleado": "103",
@@ -109776,14 +109785,14 @@
       "horas": 55.25
     },
     {
-      "empleado": "P37",
-      "semana": "2026-W14",
-      "horas": 18
-    },
-    {
       "empleado": "122",
       "semana": "2026-W36",
       "horas": 45
+    },
+    {
+      "empleado": "P37",
+      "semana": "2026-W14",
+      "horas": 18
     },
     {
       "empleado": "91",
@@ -109796,14 +109805,14 @@
       "horas": 57
     },
     {
-      "empleado": "121",
-      "semana": "2026-W09",
-      "horas": 34.25
-    },
-    {
       "empleado": "68",
       "semana": "2026-W39",
       "horas": 44.5
+    },
+    {
+      "empleado": "121",
+      "semana": "2026-W09",
+      "horas": 34.25
     },
     {
       "empleado": "30",
@@ -109956,14 +109965,14 @@
       "horas": 45
     },
     {
-      "empleado": "30",
-      "semana": "2026-W14",
-      "horas": 45
-    },
-    {
       "empleado": "80",
       "semana": "2026-W36",
       "horas": 45.5
+    },
+    {
+      "empleado": "30",
+      "semana": "2026-W14",
+      "horas": 45
     },
     {
       "empleado": "33",
@@ -109981,14 +109990,14 @@
       "horas": 45
     },
     {
-      "empleado": "23",
-      "semana": "2023-W06",
-      "horas": 50
-    },
-    {
       "empleado": "E18",
       "semana": "2026-W31",
       "horas": 45
+    },
+    {
+      "empleado": "23",
+      "semana": "2023-W06",
+      "horas": 50
     },
     {
       "empleado": "91",
@@ -110161,14 +110170,14 @@
       "horas": 62
     },
     {
-      "empleado": "69",
-      "semana": "2023-W23",
-      "horas": 47.5
-    },
-    {
       "empleado": "14",
       "semana": "2026-W23",
       "horas": 21.83
+    },
+    {
+      "empleado": "69",
+      "semana": "2023-W23",
+      "horas": 47.5
     },
     {
       "empleado": "108",
@@ -110691,14 +110700,14 @@
       "horas": 51.25
     },
     {
-      "empleado": "80",
-      "semana": "2023-W10",
-      "horas": 46
-    },
-    {
       "empleado": "47",
       "semana": "2024-W35",
       "horas": 47.83
+    },
+    {
+      "empleado": "80",
+      "semana": "2023-W10",
+      "horas": 46
     },
     {
       "empleado": "100",
@@ -110756,14 +110765,14 @@
       "horas": 38
     },
     {
-      "empleado": "122",
-      "semana": "2025-W44",
-      "horas": 45
-    },
-    {
       "empleado": "120",
       "semana": "2026-W43",
       "horas": 44.75
+    },
+    {
+      "empleado": "122",
+      "semana": "2025-W44",
+      "horas": 45
     },
     {
       "empleado": "23",
@@ -110866,14 +110875,14 @@
       "horas": 42.5
     },
     {
-      "empleado": "124",
-      "semana": "2025-W43",
-      "horas": 47
-    },
-    {
       "empleado": "129",
       "semana": "2025-W43",
       "horas": 41
+    },
+    {
+      "empleado": "124",
+      "semana": "2025-W43",
+      "horas": 47
     },
     {
       "empleado": "111",
@@ -110886,14 +110895,14 @@
       "horas": 10.08
     },
     {
-      "empleado": "14",
-      "semana": "2026-W09",
-      "horas": 9.08
-    },
-    {
       "empleado": "110",
       "semana": "2026-W25",
       "horas": 42
+    },
+    {
+      "empleado": "14",
+      "semana": "2026-W09",
+      "horas": 9.08
     },
     {
       "empleado": "20",
@@ -111521,14 +111530,14 @@
       "horas": 16.75
     },
     {
-      "empleado": "123",
-      "semana": "2025-W43",
-      "horas": 47
-    },
-    {
       "empleado": "108",
       "semana": "2026-W32",
       "horas": 38
+    },
+    {
+      "empleado": "123",
+      "semana": "2025-W43",
+      "horas": 47
     },
     {
       "empleado": "117",
@@ -111551,11 +111560,6 @@
       "horas": 42.75
     },
     {
-      "empleado": "126",
-      "semana": "2025-W47",
-      "horas": 52
-    },
-    {
       "empleado": "100",
       "semana": "2026-W34",
       "horas": 54
@@ -111564,6 +111568,11 @@
       "empleado": "E13",
       "semana": "2026-W34",
       "horas": 45
+    },
+    {
+      "empleado": "126",
+      "semana": "2025-W47",
+      "horas": 52
     },
     {
       "empleado": "110",
@@ -111881,14 +111890,14 @@
       "horas": 45
     },
     {
-      "empleado": "26",
-      "semana": "2025-W41",
-      "horas": 31.5
-    },
-    {
       "empleado": "110",
       "semana": "2026-W48",
       "horas": 24
+    },
+    {
+      "empleado": "26",
+      "semana": "2025-W41",
+      "horas": 31.5
     },
     {
       "empleado": "20",
@@ -111956,14 +111965,14 @@
       "horas": 11.22
     },
     {
-      "empleado": "87",
-      "semana": "2025-W08",
-      "horas": 50
-    },
-    {
       "empleado": "125",
       "semana": "2026-W44",
       "horas": 33.72
+    },
+    {
+      "empleado": "87",
+      "semana": "2025-W08",
+      "horas": 50
     },
     {
       "empleado": "50",
@@ -112141,24 +112150,24 @@
       "horas": 45
     },
     {
-      "empleado": "15",
-      "semana": "2023-W32",
-      "horas": 3
-    },
-    {
-      "empleado": "125",
-      "semana": "2026-W38",
-      "horas": 42.33
-    },
-    {
       "empleado": "30",
       "semana": "2026-W25",
       "horas": 26.33
     },
     {
+      "empleado": "15",
+      "semana": "2023-W32",
+      "horas": 3
+    },
+    {
       "empleado": "20",
       "semana": "2024-W30",
       "horas": 38
+    },
+    {
+      "empleado": "125",
+      "semana": "2026-W38",
+      "horas": 42.33
     },
     {
       "empleado": "111",
@@ -128851,8 +128860,8 @@
         "SOP": 37,
         "CCE": 9.75,
         "No aplica": 110.5,
-        "DOC": 7.5,
         "OTR": 8.25,
+        "DOC": 7.5,
         "IMP": 110,
         "TST": 72.75,
         "DEV": 95.25
@@ -128864,8 +128873,8 @@
         "SOP": 6.48,
         "CCE": 1.71,
         "No aplica": 19.34,
-        "DOC": 1.31,
         "OTR": 1.44,
+        "DOC": 1.31,
         "IMP": 19.26,
         "TST": 12.74,
         "DEV": 16.67
@@ -138418,16 +138427,16 @@
       "nombre": "SCISA_03496_Interfaz de Corpay",
       "cliente": "Bankaool",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 30.75,
-      "desviacion": -30.75,
+      "horas_trabajadas": 32.75,
+      "desviacion": -32.75,
       "pct_desviacion": null,
       "categorias_horas": {
         "ADM": 0.5,
-        "ANL": 30.25
+        "ANL": 32.25
       },
       "categorias_pct": {
-        "ADM": 1.63,
-        "ANL": 98.37
+        "ADM": 1.53,
+        "ANL": 98.47
       },
       "status_clickup": "pre análisis",
       "due_date_ms": 1795168800000,
@@ -138502,11 +138511,11 @@
       "nombre": "SCISA_03502_Reimplementación SIGLO PLD Net y versión ReadOnly instancia actual",
       "cliente": "M2Crowd, IFPE",
       "horas_presupuestadas": 0,
-      "horas_trabajadas": 5,
-      "desviacion": -5,
+      "horas_trabajadas": 6.5,
+      "desviacion": -6.5,
       "pct_desviacion": null,
       "categorias_horas": {
-        "ANL": 5
+        "ANL": 6.5
       },
       "categorias_pct": {
         "ANL": 100
@@ -138805,6 +138814,25 @@
         "DEV": 8.51,
         "ANL": 34.04,
         "ADV": 23.4
+      },
+      "status_clickup": null,
+      "due_date_ms": null,
+      "dias_sin_actualizar": null
+    },
+    {
+      "id_proyecto": "3517",
+      "proj_code": "SCISA_03517",
+      "nombre": "SCISA_03517_Interfaz de Maccorp",
+      "cliente": "Bankaool",
+      "horas_presupuestadas": 0,
+      "horas_trabajadas": 1.25,
+      "desviacion": -1.25,
+      "pct_desviacion": null,
+      "categorias_horas": {
+        "ANL": 1.25
+      },
+      "categorias_pct": {
+        "ANL": 100
       },
       "status_clickup": null,
       "due_date_ms": null,
