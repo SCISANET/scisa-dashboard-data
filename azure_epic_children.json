@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:00:10.296Z",
+  "generated_at": "2026-11-27T22:00:10.497Z",
   "epics": [
     {
       "epic_id": 170,
@@ -11234,7 +11234,7 @@
           "id": 12099,
           "titulo": "[RF-02] - Ajustar campo de cuenta para BIC / ABA / SWIFT",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-10-16",
           "fecha_fin": "2026-10-20",
           "fecha_objetivo": "2026-10-19",
@@ -13940,7 +13940,7 @@
           "id": 12411,
           "titulo": "[RF-01] - Solventar lentitud en el módulo de Liquidación de Operaciones (SIGLONET)",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-17",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-13",
@@ -14328,8 +14328,8 @@
           "id": 12458,
           "titulo": "Error cierre de día por cache",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-19",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-19",
           "asignado": "Antonio Pequeño",
@@ -14339,7 +14339,7 @@
           "id": 12493,
           "titulo": "Error en archivo de cierre contable",
           "tipo": "Bug",
-          "estado": "Pending Review",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-20",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-23",
@@ -14767,9 +14767,9 @@
           "id": 12524,
           "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Fin de Día - Validador de operaciones web por completar considera la fecha valor",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-24",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-27",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12524"
@@ -14778,20 +14778,20 @@
           "id": 12534,
           "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Monitor de Autorizaciones - Solicitudes de precaptura de beneficiario pendientes no se muestran y detienen el fin de día",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-25",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-27",
           "fecha_objetivo": "2026-11-25",
-          "asignado": "Gael Flores",
+          "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12534"
         },
         {
           "id": 12535,
           "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Interfaz FAH - Operaciones web por completar fecha valor no se incluyen en el registro del FAH",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-25",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-27",
           "fecha_objetivo": "2026-11-25",
           "asignado": "Isaid Arena",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12535"
@@ -14838,7 +14838,7 @@
           "id": 12526,
           "titulo": "Cuando se edita una dirección solo se deben mostrar los activos y de los inactivos solamente del que fue guardado.",
           "tipo": "Bug",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-11-24",
           "fecha_fin": "2026-11-26",
           "fecha_objetivo": "2026-11-26",
@@ -14968,6 +14968,73 @@
       "epic_id": 12558,
       "proyecto_azure": "BANKAOOL_GIT",
       "hijos": []
+    },
+    {
+      "epic_id": 12561,
+      "proyecto_azure": "BancoBase_GIT",
+      "hijos": [
+        {
+          "id": 12183,
+          "titulo": "Registro error en envío correo tareas WS - bitacora_op",
+          "tipo": "Feature",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-21",
+          "fecha_fin": "2026-10-22",
+          "fecha_objetivo": "2026-10-27",
+          "asignado": "Mauricio Gonzalez",
+          "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12183"
+        }
+      ]
+    },
+    {
+      "epic_id": 12563,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12564,
+          "titulo": "[BUG-SIGLONET-3.12.110] - Destinatarios de Pago - Preselección del banco corresponsal default al dar de alta una forma Cargo/Abono",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12564"
+        },
+        {
+          "id": 12565,
+          "titulo": "[BUG-SIGLONET-3.12.110] - Monitor de Autorizaciones - La forma de liquidación queda activa al autorizar la precaptura de beneficiario",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12565"
+        },
+        {
+          "id": 12566,
+          "titulo": "[BUG-SIGLONET-3.12.110] - Formas de Liquidación - Solo nace inactiva la forma Cargo/Abono con Cargo Web de promotor; Banco en el Extranjero y demás nacen activas",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12566"
+        },
+        {
+          "id": 12567,
+          "titulo": "[BUG-SIGLONET-3.12.110] - Tipos de Cambio Apertura y Cierre - El job de apertura ACLME crea el registro del día si el inicio de día no lo generó",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12567"
+        }
+      ]
     }
   ],
   "notas": [
