@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:52:30.000Z",
+  "generated_at": "2026-11-27T00:00:00.000Z",
   "proyectos": [
     {
       "proj_code": "SCISA_00000",
@@ -2013,13 +2013,19 @@
     {
       "proj_code": "SCISA_03039",
       "doc_encontrado": true,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1YG4D0lXaIl-AIgIkDGJLTuzdaP2zJ7hy54EVd5-y8bE/edit?usp=drivesdk",
+      "doc_url": "https://docs.google.com/spreadsheets/d/1b_Chx1hxyggyhTZtDAMJQYGfJOQ4EyxmdHT60mpjIE0/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 20,
-        "DEV": 160
+        "ANL": 11,
+        "PTC": 8,
+        "DEV": 12,
+        "TST": 6,
+        "DOC": 4,
+        "ADV": 9,
+        "ACO": 13,
+        "ADM": 1
       },
-      "total": 180,
-      "nota": null
+      "total": 64,
+      "nota": "doc_url anterior ya no existe en Drive (archivo eliminado/reemplazado); se localizó el PT vigente en la misma carpeta 'Plan de Trabajo'"
     },
     {
       "proj_code": "SCISA_03040",
@@ -2313,18 +2319,19 @@
     {
       "proj_code": "SCISA_03082",
       "doc_encontrado": true,
-      "doc_url": "https://docs.google.com/spreadsheets/d/1p9pq-5qx-Z-gg0o8ARHd7GW6B3Zi78MF_T9AF0uyOpw/edit?usp=drivesdk",
+      "doc_url": "https://docs.google.com/spreadsheets/d/1EN29NSoeEY4BQSdru6NP-a0XV8Wa2KTKwa_s0PYI9jw/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 84,
-        "DEV": 250,
-        "TST": 32,
-        "DOC": 0,
-        "ADV": 4,
-        "ACO": 0,
-        "ADM": 7
+        "ANL": 68,
+        "PTC": 23,
+        "DEV": 275,
+        "TST": 37,
+        "DOC": 9,
+        "ADV": 6,
+        "ACO": 10,
+        "ADM": 18
       },
-      "total": 377,
-      "nota": null
+      "total": 446,
+      "nota": "doc_url anterior quedó marcado como '_Obsoleto' en Drive; se actualizó al PT vigente ('SCISA_03082 - Cambio en Escenario de alertamiento_Plan_Actividades') en la misma carpeta"
     },
     {
       "proj_code": "SCISA_03083",
@@ -5675,17 +5682,17 @@
       "doc_encontrado": true,
       "doc_url": "https://docs.google.com/spreadsheets/d/1Yh_FZFmffna3rIP67ZbL6HWBX8wGFYqCiy1mrqnwnuk/edit?usp=drivesdk",
       "categorias": {
-        "ANL": 1,
+        "ANL": 4,
         "PTC": 13,
-        "DEV": 1,
-        "TST": 1,
-        "DOC": 4,
-        "ADV": 9,
+        "DEV": 56,
+        "TST": 40,
+        "DOC": 15,
+        "ADV": 14,
         "ACO": 13,
-        "ADM": 2
+        "ADM": 9
       },
-      "total": 44,
-      "nota": null
+      "total": 164,
+      "nota": "PT actualizado en Drive el 2026-11-26 (antes tenía valores placeholder sin personalizar)"
     },
     {
       "proj_code": "SCISA_03497",
