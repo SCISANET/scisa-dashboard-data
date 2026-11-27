@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:00:09.699Z",
+  "generated_at": "2026-11-27T15:00:15.411Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1809,7 +1809,7 @@
         {
           "id": 12337,
           "titulo": "V.1.1.6",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-26",
           "fecha_objetivo": "2026-11-06",
           "asignado": "Andy Roberto Mesta Gonzalez",
