@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:00:10.268Z",
+  "generated_at": "2026-11-27T22:00:10.462Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -750,7 +750,7 @@
         {
           "id": 12425,
           "titulo": "V.3.12.109: Integración y Resolución de Errores Críticos, Altos Postproducción",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-17",
           "fecha_objetivo": "2026-11-19",
           "asignado": "Isaid Arena",
@@ -762,13 +762,13 @@
         {
           "id": 12522,
           "titulo": "V.3.12.108-fix: Integración y Resolución de Errores Críticos, Altos Postproducción",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-24",
           "fecha_objetivo": "2026-11-24",
           "asignado": "Isaid Arena",
           "total_hijos": 3,
-          "hijos_cerrados": 0,
-          "pct_progreso": 0,
+          "hijos_cerrados": 3,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12522"
         },
         {
@@ -782,6 +782,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12553"
+        },
+        {
+          "id": 12563,
+          "titulo": "V.3.12.110-fix: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Isaid Arena",
+          "total_hijos": 4,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12563"
         }
       ]
     },
@@ -1195,6 +1207,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12418"
+        },
+        {
+          "id": 12561,
+          "titulo": "SigloServices v.3.8.2",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-27",
+          "fecha_objetivo": "2026-11-27",
+          "asignado": "Eduar Hernandez",
+          "total_hijos": 1,
+          "hijos_cerrados": 1,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12561"
         }
       ]
     },
@@ -3309,6 +3333,18 @@
           "hijos_cerrados": 5,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12248"
+        },
+        {
+          "id": 12436,
+          "titulo": "v2.12.8",
+          "estado": "Done",
+          "fecha_inicio": "2026-08-10",
+          "fecha_objetivo": "2026-08-14",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12436"
         },
         {
           "id": 12442,
