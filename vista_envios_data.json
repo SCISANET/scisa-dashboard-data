@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:00:00.000Z",
+  "generated_at": "2026-11-27T19:00:00.000Z",
   "envios": [
     {
       "cliente": "PLD SCISA",
@@ -68,7 +68,7 @@
       "fecha_envio": "2026-02-25",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNet%20Bancrea/_workitems/edit/10077",
       "pipe": "false"
     },
     {
@@ -78,7 +78,7 @@
       "fecha_envio": "2026-02-18",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNet%20Bancrea/_workitems/edit/9947",
       "pipe": "false"
     },
     {
@@ -108,7 +108,27 @@
       "fecha_envio": "2026-04-06",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNet%20Bancrea/_workitems/edit/10347/",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BANCREA",
+      "ambiente_cliente": "Desarrollo",
+      "version": "4.11.5",
+      "fecha_envio": "2026-11-26",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/PLDNet%20Bancrea/_workitems/edit/12235",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BANCREA",
+      "ambiente_cliente": "Desarrollo",
+      "version": "4.11.4",
+      "fecha_envio": "2026-11-03",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/PLDNet%20Bancrea/_workitems/edit/11624/",
       "pipe": "false"
     },
     {
@@ -574,11 +594,31 @@
     {
       "cliente": "ACTINVER",
       "ambiente_cliente": "QA",
+      "version": "2.12.07",
+      "fecha_envio": "2026-06-22",
+      "producto": null,
+      "ruta_artifact": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/11253",
+      "pipe": null
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
+      "version": "2.12.08",
+      "fecha_envio": "2026-08-14",
+      "producto": null,
+      "ruta_artifact": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/12436",
+      "pipe": null
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
       "version": "2.13.00",
       "fecha_envio": "2026-06-30",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/10826/",
       "pipe": null
     },
     {
@@ -588,7 +628,7 @@
       "fecha_envio": "2026-09-11",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/10826/",
       "pipe": null
     },
     {
@@ -598,7 +638,7 @@
       "fecha_envio": "2026-10-12",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/10826/",
       "pipe": null
     },
     {
@@ -608,7 +648,7 @@
       "fecha_envio": "2026-10-30",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/PLDNET_Actinver/_workitems/edit/10826/",
       "pipe": null
     },
     {
@@ -1928,7 +1968,7 @@
       "fecha_envio": "2026-11-12",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/BANBAJIO_GIT/_workitems/edit/12391/",
       "pipe": null
     },
     {
@@ -1938,7 +1978,7 @@
       "fecha_envio": "2026-11-17",
       "producto": null,
       "ruta_artifact": "📝",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/BANBAJIO_GIT/_workitems/edit/12522/",
       "pipe": null
     },
     {
@@ -2529,6 +2569,16 @@
       "producto": null,
       "ruta_artifact": "https://scisa.visualstudio.com/BANKAOOL_GIT/_workitems/edit/12337/",
       "backlog": "https://scisa.visualstudio.com/BANKAOOL_GIT/_workitems/edit/12337/",
+      "pipe": "false"
+    },
+    {
+      "cliente": "Bankaool",
+      "ambiente_cliente": "Desarrollo",
+      "version": "1.1.6",
+      "fecha_envio": "2026-11-26",
+      "producto": null,
+      "ruta_artifact": null,
+      "backlog": "https://scisa.visualstudio.com/BANKAOOL_GIT/_workitems/edit/12557",
       "pipe": "false"
     },
     {
@@ -3209,6 +3259,16 @@
       "producto": null,
       "ruta_artifact": null,
       "backlog": "https://scisa.visualstudio.com/BANCREA_GIT/_backlogs/backlog/BANCREA_GIT%20Team/Epics?workitem=12433",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BANCREA",
+      "ambiente_cliente": "Desarrollo",
+      "version": "1.0.48.0",
+      "fecha_envio": "2026-09-22",
+      "producto": null,
+      "ruta_artifact": null,
+      "backlog": "https://scisa.visualstudio.com/BANCREA_GIT/_workitems/edit/12432",
       "pipe": "false"
     },
     {
