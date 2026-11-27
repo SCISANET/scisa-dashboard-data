@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:44:00.978Z",
+  "generated_at": "2026-11-27T18:00:25.452Z",
   "clickup_tasks": [
     {
       "id": "17tq1aefk7u",
@@ -600,7 +600,7 @@
       ],
       "due_date_ms": 1796119200000,
       "date_updated_ms": 1795687200000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0zu",
       "desarrollador_real": null
@@ -672,7 +672,7 @@
       ],
       "due_date_ms": 1796292000000,
       "date_updated_ms": 1796119200000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0zn",
       "desarrollador_real": null
@@ -744,7 +744,7 @@
       ],
       "due_date_ms": 1796724000000,
       "date_updated_ms": 1796292000000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0zg",
       "desarrollador_real": null
@@ -816,7 +816,7 @@
       ],
       "due_date_ms": 1796983200000,
       "date_updated_ms": 1796810400000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0zb",
       "desarrollador_real": null
@@ -888,7 +888,7 @@
       ],
       "due_date_ms": 1797415200000,
       "date_updated_ms": 1797242400000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0z6",
       "desarrollador_real": null
@@ -960,7 +960,7 @@
       ],
       "due_date_ms": 1797847200000,
       "date_updated_ms": 1797501600000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0z1",
       "desarrollador_real": null
@@ -1032,7 +1032,7 @@
       ],
       "due_date_ms": 1796378400000,
       "date_updated_ms": 1796205600000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0yw",
       "desarrollador_real": null
@@ -1104,7 +1104,7 @@
       ],
       "due_date_ms": 1796810400000,
       "date_updated_ms": 1796637600000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0yq",
       "desarrollador_real": null
@@ -1176,7 +1176,7 @@
       ],
       "due_date_ms": 1797242400000,
       "date_updated_ms": 1796810400000,
-      "dias_sin_actualizar": 0,
+      "dias_sin_actualizar": 1,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aee0yj",
       "desarrollador_real": null
@@ -1788,7 +1788,7 @@
       ],
       "due_date_ms": 1796292000000,
       "date_updated_ms": 1793008800000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 0,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1aeae34",
       "desarrollador_real": "Angel Daniel Doria"
@@ -1860,7 +1860,7 @@
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1793613600000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 0,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1aeae2h",
       "desarrollador_real": null
@@ -2434,7 +2434,7 @@
       ],
       "due_date_ms": 1795687200000,
       "date_updated_ms": 1794477600000,
-      "dias_sin_actualizar": 14,
+      "dias_sin_actualizar": 15,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1ae9fc2",
       "desarrollador_real": "Eduar Hernandez Esquivel"
@@ -4044,7 +4044,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1791307242697,
-      "dias_sin_actualizar": 51,
+      "dias_sin_actualizar": 52,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae0pmf",
       "desarrollador_real": null
@@ -4060,7 +4060,7 @@
       ],
       "due_date_ms": 1796032800000,
       "date_updated_ms": 1791799200000,
-      "dias_sin_actualizar": 13,
+      "dias_sin_actualizar": 0,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae0p96",
       "desarrollador_real": "Gael Flores Cantu"
@@ -4626,7 +4626,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1791306564495,
-      "dias_sin_actualizar": 51,
+      "dias_sin_actualizar": 52,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1adxkrk",
       "desarrollador_real": null
@@ -4768,7 +4768,7 @@
       ],
       "due_date_ms": 1795514400000,
       "date_updated_ms": 1791972000000,
-      "dias_sin_actualizar": 2,
+      "dias_sin_actualizar": 3,
       "atrasada": true,
       "url": "https://app.clickup.com/t/17tq1adx4ee",
       "desarrollador_real": "Astrid Ovalle"
@@ -5815,7 +5815,7 @@
       ],
       "due_date_ms": 1794909600000,
       "date_updated_ms": 1788170400000,
-      "dias_sin_actualizar": 8,
+      "dias_sin_actualizar": 9,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ake6z0n",
       "desarrollador_real": null
@@ -5877,7 +5877,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1788861600000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ywy",
       "desarrollador_real": null
@@ -5893,7 +5893,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1789120800000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6yw9",
       "desarrollador_real": null
@@ -5969,7 +5969,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1793700000000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6yqd",
       "desarrollador_real": null
@@ -5985,7 +5985,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1793613600000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ypq",
       "desarrollador_real": null
@@ -6092,7 +6092,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1793786400000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6ybn",
       "desarrollador_real": null
@@ -6218,7 +6218,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1793872800000,
-      "dias_sin_actualizar": 6,
+      "dias_sin_actualizar": 7,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ake6x9n",
       "desarrollador_real": null
@@ -6598,7 +6598,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1785146400000,
-      "dias_sin_actualizar": 64,
+      "dias_sin_actualizar": 65,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ak13zet",
       "desarrollador_real": null
@@ -8940,7 +8940,7 @@
       ],
       "due_date_ms": 1784109600000,
       "date_updated_ms": 1779271200000,
-      "dias_sin_actualizar": 51,
+      "dias_sin_actualizar": 52,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86ahkmnkx",
       "desarrollador_real": null
@@ -9043,7 +9043,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1779124948479,
-      "dias_sin_actualizar": 192,
+      "dias_sin_actualizar": 193,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ahhztkk",
       "desarrollador_real": null
@@ -12477,7 +12477,7 @@
       ],
       "due_date_ms": 1796032800000,
       "date_updated_ms": 1795514400000,
-      "dias_sin_actualizar": 3,
+      "dias_sin_actualizar": 4,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86ae0hcuz",
       "desarrollador_real": "Jesus Hervey Moreno"
@@ -14071,16 +14071,17 @@
       "id": "86af8w2fd",
       "name": "SCISA_03082_#2 - Cambio en Escenario de alertamiento",
       "proj_code": "SCISA_03082",
-      "status": "qa cliente/internno",
+      "status": "en desarrollo",
       "priority": "urgent",
       "assignees": [
         "Orlando Ruben De la Rosa Garcia"
       ],
-      "due_date_ms": 1782727200000,
-      "date_updated_ms": 1795127723796,
+      "due_date_ms": 1827572400000,
+      "date_updated_ms": 1777978800000,
       "dias_sin_actualizar": 0,
-      "atrasada": true,
-      "url": "https://app.clickup.com/t/86af8w2fd"
+      "atrasada": false,
+      "url": "https://app.clickup.com/t/86af8w2fd",
+      "desarrollador_real": "Jairo Jahir Chavarria Maldonado"
     },
     {
       "id": "17tq1ae55k3",
@@ -17468,7 +17469,7 @@
       ],
       "due_date_ms": 1790762400000,
       "date_updated_ms": 1790589600000,
-      "dias_sin_actualizar": 64,
+      "dias_sin_actualizar": 65,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppv8",
       "desarrollador_real": null
@@ -17484,7 +17485,7 @@
       ],
       "due_date_ms": 1790244000000,
       "date_updated_ms": 1789984800000,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppu5",
       "desarrollador_real": null
@@ -17500,7 +17501,7 @@
       ],
       "due_date_ms": 1790589600000,
       "date_updated_ms": 1789984800000,
-      "dias_sin_actualizar": 64,
+      "dias_sin_actualizar": 65,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppr1",
       "desarrollador_real": null
@@ -17548,7 +17549,7 @@
       ],
       "due_date_ms": 1793959200000,
       "date_updated_ms": 1793786400000,
-      "dias_sin_actualizar": 24,
+      "dias_sin_actualizar": 25,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhppj8",
       "desarrollador_real": null
@@ -17564,7 +17565,7 @@
       ],
       "due_date_ms": 1793786400000,
       "date_updated_ms": 1793613600000,
-      "dias_sin_actualizar": 24,
+      "dias_sin_actualizar": 25,
       "atrasada": true,
       "url": "https://app.clickup.com/t/86akhpnyh",
       "desarrollador_real": null
@@ -17580,7 +17581,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1790008930727,
-      "dias_sin_actualizar": 66,
+      "dias_sin_actualizar": 67,
       "atrasada": false,
       "url": "https://app.clickup.com/t/86akhpny4",
       "desarrollador_real": null
@@ -17692,7 +17693,7 @@
       ],
       "due_date_ms": null,
       "date_updated_ms": 1795624621202,
-      "dias_sin_actualizar": 1,
+      "dias_sin_actualizar": 2,
       "atrasada": false,
       "url": "https://app.clickup.com/t/17tq1ae8fjg",
       "desarrollador_real": null
@@ -36674,7 +36675,7 @@
     {
       "id_proyecto": "3465",
       "categoria": "ADM",
-      "horas": 12.75,
+      "horas": 8.75,
       "clickup_match": null
     },
     {
@@ -47612,7 +47613,7 @@
     {
       "id_proyecto": "3465",
       "categoria": "DEV",
-      "horas": 12.75,
+      "horas": 16.75,
       "clickup_match": null
     },
     {
@@ -68688,11 +68689,11 @@
     },
     {
       "fecha": "2026-11-26",
-      "horas": 50.08
+      "horas": 48.83
     },
     {
       "fecha": "2026-11-27",
-      "horas": 5.25
+      "horas": 6.5
     },
     {
       "fecha": "2026-11-28",
@@ -137785,8 +137786,8 @@
         "ANL": 116.5,
         "No aplica": 22,
         "OTR": 0.75,
-        "ADM": 12.75,
-        "DEV": 12.75,
+        "ADM": 8.75,
+        "DEV": 16.75,
         "DOC": 2.5,
         "CCI": 8
       },
@@ -137797,8 +137798,8 @@
         "ANL": 32.25,
         "No aplica": 6.09,
         "OTR": 0.21,
-        "ADM": 3.53,
-        "DEV": 3.53,
+        "ADM": 2.42,
+        "DEV": 4.64,
         "DOC": 0.69,
         "CCI": 2.21
       },
@@ -138487,10 +138488,10 @@
       "proj_code": "SCISA_03498",
       "nombre": "SCISA_03498_API PLD Compliance v2",
       "cliente": "SCISA",
-      "horas_presupuestadas": 0,
+      "horas_presupuestadas": 136,
       "horas_trabajadas": 33,
-      "desviacion": -33,
-      "pct_desviacion": null,
+      "desviacion": 103,
+      "pct_desviacion": 75.74,
       "categorias_horas": {
         "ANL": 21,
         "ADM": 9,
