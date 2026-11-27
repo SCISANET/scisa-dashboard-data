@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:43:44.682Z",
+  "generated_at": "2026-11-27T18:00:10.268Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -498,8 +498,8 @@
           "fecha_objetivo": "2027-01-29",
           "asignado": "José Celestino",
           "total_hijos": 9,
-          "hijos_cerrados": 4,
-          "pct_progreso": 44,
+          "hijos_cerrados": 5,
+          "pct_progreso": 56,
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12285"
         },
         {
@@ -676,6 +676,18 @@
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12030"
         },
         {
+          "id": 12031,
+          "titulo": "V.3.12.100: Integración y Resolución de Errores No Bloqueantes Postproducción",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-06",
+          "fecha_objetivo": "2026-10-13",
+          "asignado": "Isaid Arena",
+          "total_hijos": 18,
+          "hijos_cerrados": 17,
+          "pct_progreso": 94,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12031"
+        },
+        {
           "id": 12205,
           "titulo": "INCIDENCIAS PRODUCTIVAS",
           "estado": "Done",
@@ -688,6 +700,18 @@
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12205"
         },
         {
+          "id": 12302,
+          "titulo": "V.3.12.107: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-31",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "total_hijos": 18,
+          "hijos_cerrados": 14,
+          "pct_progreso": 78,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12302"
+        },
+        {
           "id": 12338,
           "titulo": "SCISA_03313_Creación de Pipelines",
           "estado": "Done",
@@ -698,6 +722,66 @@
           "hijos_cerrados": 2,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12338"
+        },
+        {
+          "id": 12341,
+          "titulo": "V.2.4.12: Integración y Resolución de Errores No Bloqueantes Postproducción",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-04",
+          "fecha_objetivo": "2026-11-18",
+          "asignado": "Gael Flores",
+          "total_hijos": 3,
+          "hijos_cerrados": 3,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12341"
+        },
+        {
+          "id": 12391,
+          "titulo": "V.3.12.108: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-09",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "total_hijos": 10,
+          "hijos_cerrados": 7,
+          "pct_progreso": 70,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12391"
+        },
+        {
+          "id": 12425,
+          "titulo": "V.3.12.109: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-17",
+          "fecha_objetivo": "2026-11-19",
+          "asignado": "Isaid Arena",
+          "total_hijos": 4,
+          "hijos_cerrados": 3,
+          "pct_progreso": 75,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12425"
+        },
+        {
+          "id": 12522,
+          "titulo": "V.3.12.108-fix: Integración y Resolución de Errores Críticos, Altos Postproducción",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "Isaid Arena",
+          "total_hijos": 3,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12522"
+        },
+        {
+          "id": 12553,
+          "titulo": "V.2.4.14: Integración y Resolución de Errores No Bloqueantes Postproducción",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
+          "fecha_objetivo": "2026-11-26",
+          "asignado": "Isaid Arena",
+          "total_hijos": 1,
+          "hijos_cerrados": 0,
+          "pct_progreso": 0,
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12553"
         }
       ]
     },
@@ -1063,6 +1147,18 @@
           "hijos_cerrados": 0,
           "pct_progreso": 0,
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12056"
+        },
+        {
+          "id": 12157,
+          "titulo": "Manejo de variables en memoria eFact - tareas monitor WS: Tareas cicladas sin funcionar",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-17",
+          "fecha_objetivo": "2026-10-23",
+          "asignado": "Mauricio Gonzalez",
+          "total_hijos": 0,
+          "hijos_cerrados": 0,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/12157"
         },
         {
           "id": 12370,
@@ -2697,6 +2793,7 @@
           "total_hijos": 21,
           "hijos_cerrados": 21,
           "pct_progreso": 100,
+          "tiene_reincidencia": true,
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12301"
         },
         {
@@ -3120,12 +3217,12 @@
         {
           "id": 9814,
           "titulo": "SCISA_3047_Bolsa600Horas",
-          "estado": "Done",
-          "fecha_inicio": "2026-02-06",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_objetivo": null,
           "asignado": "Orlando Ruben De la Rosa Garcia",
-          "total_hijos": 22,
-          "hijos_cerrados": 22,
+          "total_hijos": 21,
+          "hijos_cerrados": 21,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/9814"
         },
@@ -3152,6 +3249,18 @@
           "hijos_cerrados": 4,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/10996"
+        },
+        {
+          "id": 11253,
+          "titulo": "V.2.12.7",
+          "estado": "Done",
+          "fecha_inicio": "2026-06-23",
+          "fecha_objetivo": "2026-06-23",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
+          "total_hijos": 1,
+          "hijos_cerrados": 1,
+          "pct_progreso": 100,
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/11253"
         },
         {
           "id": 11276,
@@ -3197,8 +3306,8 @@
           "fecha_objetivo": "2026-11-24",
           "asignado": "Jairo Jahir Chavarria Maldonado",
           "total_hijos": 5,
-          "hijos_cerrados": 4,
-          "pct_progreso": 80,
+          "hijos_cerrados": 5,
+          "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12248"
         },
         {
