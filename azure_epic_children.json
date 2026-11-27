@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:00:15.451Z",
+  "generated_at": "2026-11-27T15:43:44.730Z",
   "epics": [
     {
       "epic_id": 170,
@@ -12463,8 +12463,8 @@
           "id": 12486,
           "titulo": "[RF-01] - Clasificación del Tipo de Persona para Beneficiarios Internacionales",
           "tipo": "Feature",
-          "estado": "New",
-          "fecha_inicio": "2026-11-26",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
           "asignado": "Andy Roberto Mesta Gonzalez",
@@ -14197,7 +14197,7 @@
           "id": 12498,
           "titulo": "CORPLD-12052 (No genera alarma al cumplir los parámetros - RF-02)",
           "tipo": "Bug",
-          "estado": "In Progress",
+          "estado": "On Hold",
           "fecha_inicio": "2026-11-23",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
@@ -14236,6 +14236,17 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Orlando Ruben De la Rosa Garcia",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12501"
+        },
+        {
+          "id": 12559,
+          "titulo": "CORPLD-11349 (No se genera la alarma Entrada y Salida Rápida de Recursos SPID - RF-07)",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-27",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-30",
+          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12559"
         }
       ]
     },
