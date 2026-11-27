@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:43:44.730Z",
+  "generated_at": "2026-11-27T18:00:10.296Z",
   "epics": [
     {
       "epic_id": 170,
@@ -3429,17 +3429,6 @@
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/11183"
         },
         {
-          "id": 11253,
-          "titulo": "v2.12.7",
-          "tipo": "Feature",
-          "estado": "Done",
-          "fecha_inicio": "2026-06-23",
-          "fecha_fin": null,
-          "fecha_objetivo": "2026-06-23",
-          "asignado": "Orlando Ruben De la Rosa Garcia",
-          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/11253"
-        },
-        {
           "id": 12436,
           "titulo": "v2.12.8",
           "tipo": "Feature",
@@ -6613,7 +6602,7 @@
           "id": 12274,
           "titulo": "V.3.21.28",
           "tipo": "Feature",
-          "estado": "Committed",
+          "estado": "Done",
           "fecha_inicio": "2026-10-28",
           "fecha_fin": "2026-11-19",
           "fecha_objetivo": "2026-10-30",
@@ -7927,6 +7916,23 @@
           "fecha_objetivo": "2026-06-19",
           "asignado": "Michelle Ramirez",
           "url": "https://dev.azure.com/scisa/BancoBase_GIT/_workitems/edit/11230"
+        }
+      ]
+    },
+    {
+      "epic_id": 11253,
+      "proyecto_azure": "PLDNET_Actinver",
+      "hijos": [
+        {
+          "id": 11226,
+          "titulo": "Error de incidencias al registrarse participantes fiduciarios",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-06-18",
+          "fecha_fin": "2026-06-23",
+          "fecha_objetivo": "2026-06-23",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
+          "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/11226"
         }
       ]
     },
@@ -11475,6 +11481,210 @@
       ]
     },
     {
+      "epic_id": 12031,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12032,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Beneficiarios - Monitor de Autorizaciones : La opción \"Ver Cambios\" no muestra los cambios de las modificaciones de beneficiarios",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-07",
+          "fecha_fin": "2026-10-07",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12032"
+        },
+        {
+          "id": 12033,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Beneficiarios - Destinatarios de pago : Los cambios registrados al modificar un beneficiario no corresponden a los campos modificados por el promotor",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-07",
+          "fecha_fin": "2026-10-07",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12033"
+        },
+        {
+          "id": 12034,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Beneficiarios - Monitor de Autorizaciones : La columna \"Usuario que Capturó\" muestra el nombre del beneficiario en lugar del promotor",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-07",
+          "fecha_fin": "2026-10-07",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12034"
+        },
+        {
+          "id": 12035,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Tesorería - Liquidaciones : Al usar el filtro de buscar por una operación específica el sistema no muestra nada si la operación ya cuenta con una pata liquidada",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-07",
+          "fecha_fin": "2026-10-07",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12035"
+        },
+        {
+          "id": 12036,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Operaciones - Monitor de autorizaciones : El sistema no está mostrando el cuadro de texto para permitirle al backoffice agregar comentarios sobre el motivo de rechazo",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-07",
+          "fecha_fin": "2026-10-08",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12036"
+        },
+        {
+          "id": 12037,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Clientes - PreCaptura de clientes : Sector contable y sector Banco de México no muestran la opción de gobierno",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-03",
+          "fecha_fin": "2026-11-03",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12037"
+        },
+        {
+          "id": 12038,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Facturación - Cancelación y sustitución : Al sustituir una factura el sistema muestra la descripción incompleta y no incluye el nombre del beneficiario como en la factura original",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-08",
+          "fecha_fin": "2026-10-08",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12038"
+        },
+        {
+          "id": 12039,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Facturación - Cancelación y sustitución : Al generar la factura sustituta de una operación con más de 72 horas el SAT la rechaza porque se emite con la fecha de liquidación original en lugar de la fecha en que se sustituye",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-08",
+          "fecha_fin": "2026-10-08",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12039"
+        },
+        {
+          "id": 12040,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Tesorería - Pagos Electrónicos : Al realizar pagos no se ve la hora del pago, la columna Hora muestra la fecha",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-08",
+          "fecha_fin": "2026-10-10",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12040"
+        },
+        {
+          "id": 12041,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Beneficiarios - Destinatarios de pago : Al filtrar beneficiarios por forma de liquidación, el detalle del beneficiario muestra formas de liquidación distintas a las del filtro",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-10",
+          "fecha_fin": "2026-10-10",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12041"
+        },
+        {
+          "id": 12042,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Estatus de cliente : La sucursal y la regional se muestran vacías para clientes con la sucursal guardada por nombre",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-10",
+          "fecha_fin": "2026-10-10",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12042"
+        },
+        {
+          "id": 12043,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Operaciones : La sucursal y la regional se muestran vacías y los filtros de sucursal y regional no incluyen a clientes con la sucursal guardada por nombre",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-10",
+          "fecha_fin": "2026-10-20",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12043"
+        },
+        {
+          "id": 12044,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Utilidad por banquero personal : La sucursal se muestra vacía para clientes con la sucursal guardada por nombre",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-10",
+          "fecha_fin": "2026-10-11",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12044"
+        },
+        {
+          "id": 12045,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Reporte de clientes : La sucursal y la regional se muestran vacías para clientes con la sucursal guardada por nombre",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-20",
+          "fecha_fin": "2026-10-29",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12045"
+        },
+        {
+          "id": 12046,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Auditoría : La sucursal del cliente se muestra vacía porque el reporte la busca por ID en lugar de código o nombre",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-29",
+          "fecha_fin": "2026-10-29",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12046"
+        },
+        {
+          "id": 12047,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Reportes - Estatus de cliente : El reporte no muestra registros a algunos promotores aunque son el promotor principal de clientes",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-30",
+          "fecha_fin": "2026-10-30",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12047"
+        },
+        {
+          "id": 12051,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Facturación - Proceso de facturación : No se envían los correos de notificación \"General\" y \"Resumen\" al terminar la facturación",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-30",
+          "fecha_fin": "2026-10-30",
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12051"
+        },
+        {
+          "id": 12052,
+          "titulo": "[BUG-SIGLONET-3.12.100] - Tesorería - Liquidaciones : Las operaciones de sucursales se muestran y se pueden liquidar en la pantalla de liquidaciones, ocasionando que lleguen al FAH",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-10-06",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-10-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12052"
+        }
+      ]
+    },
+    {
       "epic_id": 12049,
       "proyecto_azure": "SCISA SIGLO PLDNet",
       "hijos": [
@@ -11743,8 +11953,8 @@
           "id": 11904,
           "titulo": "Versionamiento de BD",
           "tipo": "Feature",
-          "estado": "On Hold",
-          "fecha_inicio": "2026-11-24",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-09-25",
           "asignado": "Emilio Graterol",
@@ -12435,7 +12645,7 @@
           "id": 12269,
           "titulo": "[RF-00] - Documentación",
           "tipo": "Feature",
-          "estado": "In Progress",
+          "estado": "Done",
           "fecha_inicio": "2026-11-26",
           "fecha_fin": "2026-11-25",
           "fecha_objetivo": "2026-11-24",
@@ -12623,9 +12833,9 @@
           "id": 12294,
           "titulo": "[OPT] - Operaciones - Búsqueda de clientes paginada en Captura Rápida y Completar Operación",
           "tipo": "Feature",
-          "estado": "New",
+          "estado": "Committed",
           "fecha_inicio": "2026-10-29",
-          "fecha_fin": null,
+          "fecha_fin": "2026-11-27",
           "fecha_objetivo": "2026-11-07",
           "asignado": "José Celestino",
           "url": "https://dev.azure.com/scisa/AFIRME_GIT/_workitems/edit/12294"
@@ -12881,6 +13091,210 @@
       ]
     },
     {
+      "epic_id": 12302,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12303,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Operaciones - Completar operaciones: Para las operaciones manuales en el apartado de cheqdolar esta aparecen los beneficiario en el extranjero esto solo debe salir en orden de pago",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-31",
+          "fecha_fin": "2026-10-31",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12303"
+        },
+        {
+          "id": 12304,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Catálogos - Paises : En el catálogo de países se tiene una columna de “Codigo ISO” con 3 caracteres, siendo que el catálogo de países que se utiliza para generar los mensajes SWIFT es de 2 caracteres",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-31",
+          "fecha_fin": "2026-11-01",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12304"
+        },
+        {
+          "id": 12305,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Autorizar Portafolios - Autorizacion de Portafolio Cliente - Promotor : Clientes dados de alta en forma manual que no permite asociar al promotor marcar error al backoffice",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-10-31",
+          "fecha_fin": "2026-10-31",
+          "fecha_objetivo": "2026-10-31",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12305"
+        },
+        {
+          "id": 12315,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Pre Captura de clientes : Pre captura de Clientes: error intermitente al guardar (FK de teléfono) y correcciones de la pantalla",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-01",
+          "fecha_fin": "2026-11-02",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12315"
+        },
+        {
+          "id": 12316,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Reportes - Reportes de Utilidad : Reporte de Resumen de Utilidad por Promotor muestra el resultado de la fecha consultada",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-02",
+          "fecha_fin": "2026-11-02",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12316"
+        },
+        {
+          "id": 12317,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Reportes - Reportes de Utilidad por banquero personal : Reporte de utilidad con BP aparecen sin sucursal asignada",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-02",
+          "fecha_fin": "2026-11-03",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12317"
+        },
+        {
+          "id": 12320,
+          "titulo": "Operaciones WEB USD/USD no abonan: cargo aplicado en OMNI queda sin su abono tras falla parcial",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-03",
+          "fecha_fin": "2026-11-11",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12320"
+        },
+        {
+          "id": 12351,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Alta y modificación de clientes: No permite editar la clave OMNI de los clientes.",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12351"
+        },
+        {
+          "id": 12352,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Destinatarios de pago: Alta de beneficiarios esta permitiendo a los promotores modificar el campo \"Banco corresponsal\" solo debe permitir al área de backoffice",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-07",
+          "fecha_fin": "2026-11-07",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12352"
+        },
+        {
+          "id": 12353,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Reportes - Reporte de operaciones por promotor con utilidad: No debe incluir las operaciones canceladas y cancelación de operaciones anteriores.",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12353"
+        },
+        {
+          "id": 12354,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Reportes - Reporte de operaciones por banquero personal: No incluye las operaciones canceladas y con cancelación de operaciones anteriores.",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12354"
+        },
+        {
+          "id": 12356,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Destinatarios de pago: Al volver a guardar un beneficiario con coincidencia en listas negras pendiente de validar, se pierde la coincidencia y deja de aparecer en el módulo de Listas Negras",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12356"
+        },
+        {
+          "id": 12357,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Destinatarios de pago: El botón Guardar permite varios clics mientras se guarda el registro",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12357"
+        },
+        {
+          "id": 12358,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Destinatarios de pago: Permite iniciar el alta de una forma de liquidación Cargo/Abono sin que el beneficiario tenga un cliente asociado",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12358"
+        },
+        {
+          "id": 12359,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Clientes - Destinatarios de pago: El aviso de corresponsal no guardado se muestra en la barra de estado y aparece un mensaje de prueba al desmarcar el estatus",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12359"
+        },
+        {
+          "id": 12360,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Operaciones - Liquidaciones: La lista de búsqueda de beneficiarios es pequeña y no responde a la rueda del mouse",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12360"
+        },
+        {
+          "id": 12361,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Reportes - Resumen de Utilidad por Promotor: El reporte tarda demasiado al consultar un mes",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-06",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-06",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12361"
+        },
+        {
+          "id": 12384,
+          "titulo": "[BUG-SIGLONET-3.12.107] - Operaciones - Las operaciones CCY con fecha valor en día hábil se rechazan por fecha valor inválida",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-07",
+          "fecha_fin": "2026-11-07",
+          "fecha_objetivo": "2026-11-07",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12384"
+        }
+      ]
+    },
+    {
       "epic_id": 12327,
       "proyecto_azure": "ACTINVER_GIT",
       "hijos": [
@@ -13038,6 +13452,45 @@
           "fecha_objetivo": "2026-11-05",
           "asignado": "Mauricio Gonzalez",
           "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12340"
+        }
+      ]
+    },
+    {
+      "epic_id": 12341,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12347,
+          "titulo": "ME - Estandarizar mapeo de SCISAApplicationException a códigos HTTP (422) y consolidar manejo de errores AJAX",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-04",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-18",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12347"
+        },
+        {
+          "id": 12349,
+          "titulo": "ME - Comprobantes fuera de Temp, evitar encolamiento de precios y 403 de BBFX en Precios",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-05",
+          "fecha_fin": "2026-11-06",
+          "fecha_objetivo": "2026-11-18",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12349"
+        },
+        {
+          "id": 12383,
+          "titulo": "ME - Ventanas de captura no se recuperan ante fallo de precio/forma de liquidación y falso logout en formas de liquidación",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-07",
+          "fecha_fin": "2026-11-07",
+          "fecha_objetivo": "2026-11-18",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12383"
         }
       ]
     },
@@ -13286,6 +13739,122 @@
       ]
     },
     {
+      "epic_id": 12391,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12392,
+          "titulo": "[BUG-SIGLONET-3.12.108] - Reportes - ACLME :: En la sección VII del Aclme, al final se generaron dos conceptos (10436 y 10636) con importe 0, estos conceptos no debieron aparecer ya que no tenían saldo.",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-09",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Rosa Lopez",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12392"
+        },
+        {
+          "id": 12393,
+          "titulo": "Bug 12392: [BUG-SIGLONET-3.12.108] - BBFX - Completar Operaciones : En algunos casos el sistema toma la misma cuenta usd para el abono",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-09",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12393"
+        },
+        {
+          "id": 12398,
+          "titulo": "[BUG-SIGLONET-3.12.108] - BBFX - Canjes USD-USD: se cobra comisión con el precio del par aunque el cliente no tenga comisión",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-11",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12398"
+        },
+        {
+          "id": 12399,
+          "titulo": "[BUG-SIGLONET-3.12.108] - BBFX - Reportes : Reporte de utilidades, COSTO DE MOVIL EN 7, DEBE SER 3.5",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-12",
+          "fecha_fin": "2026-11-13",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12399"
+        },
+        {
+          "id": 12400,
+          "titulo": "[BUG-SIGLONET-3.12.108] - Reportes - Reporte Estatus de Operaciones: con todos los promotores muestra \"No se encontraron datos\"",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-12",
+          "fecha_fin": "2026-11-13",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12400"
+        },
+        {
+          "id": 12401,
+          "titulo": "[BUG-SIGLONET-3.12.108] 8705010002 10.10.2025 tenemos 2 casos del viernes en operaciones de canje (usd-usd) que al FAH están llegando con variación en el tipo de cambio, generando un diferencial en el importe cargado al cliente y el enviado en la operación",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-10",
+          "fecha_fin": "2026-11-14",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Rosa Lopez",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12401"
+        },
+        {
+          "id": 12402,
+          "titulo": "[BUG-SIGLONET-3.12.108] - Contabilidad - Instrucciones contradictorias en operaciones enviadas al FAH",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-14",
+          "fecha_fin": "2026-11-14",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12402"
+        },
+        {
+          "id": 12403,
+          "titulo": "[BUG-SIGLONET-3.12.108] - Contabilidad - FAH: operaciones a fecha valor con instrucciones contradictorias entre el pacto y la liquidación",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-14",
+          "fecha_fin": "2026-11-14",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Rosa Lopez",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12403"
+        },
+        {
+          "id": 12404,
+          "titulo": "[BUG-SIGLONET-3.12.108] - Contabilidad - Pólizas ZG del 12/10 aplicadas a la cuenta de Banxico en lugar de la cuenta puente 8552",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-26",
+          "fecha_fin": "2026-11-26",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Rosa Lopez",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12404"
+        },
+        {
+          "id": 12405,
+          "titulo": "[BUG-SIGLONET-3.12.108] - BBFX/Móvil - Compras de divisas no asignan el producto Cheqdólar para la liquidación automática",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-11",
+          "fecha_fin": "2026-11-26",
+          "fecha_objetivo": "2026-11-12",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12405"
+        }
+      ]
+    },
+    {
       "epic_id": 12396,
       "proyecto_azure": "PLDNet Bancrea",
       "hijos": [
@@ -13362,6 +13931,56 @@
       "epic_id": 12418,
       "proyecto_azure": "BancoBase_GIT",
       "hijos": []
+    },
+    {
+      "epic_id": 12425,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12411,
+          "titulo": "[RF-01] - Solventar lentitud en el módulo de Liquidación de Operaciones (SIGLONET)",
+          "tipo": "Feature",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-17",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-13",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12411"
+        },
+        {
+          "id": 12426,
+          "titulo": "[BUG-SIGLONET-3.12.109] - SIGLONET - Solo generé el neteo, en ningún momento liquide las patas en el modulo de liquidaciones y aun asi se mandaron a SAP, cuando el deber ser es Generen neteo/ Liquidar patas/enviar a SAP",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-18",
+          "fecha_fin": "2026-11-25",
+          "fecha_objetivo": "2026-11-19",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12426"
+        },
+        {
+          "id": 12427,
+          "titulo": "[BUG-SIGLONET-3.12.109] - SIGLONET - Al descargar el reporte RESMERCA-divisa USD esta tardando 5 minutos o mas en descargarlo.",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-18",
+          "fecha_fin": "2026-11-18",
+          "fecha_objetivo": "2026-11-17",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12427"
+        },
+        {
+          "id": 12429,
+          "titulo": "Bug 12427: [BUG-SIGLONET-3.12.109] - Clientes -  Sector Contable requerido en clientes y guardado desde OMNI",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-18",
+          "fecha_fin": "2026-11-20",
+          "fecha_objetivo": "2026-11-17",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12429"
+        }
+      ]
     },
     {
       "epic_id": 12430,
@@ -14141,6 +14760,45 @@
       ]
     },
     {
+      "epic_id": 12522,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12524,
+          "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Fin de Día - Validador de operaciones web por completar considera la fecha valor",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-24",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12524"
+        },
+        {
+          "id": 12534,
+          "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Monitor de Autorizaciones - Solicitudes de precaptura de beneficiario pendientes no se muestran y detienen el fin de día",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-25",
+          "asignado": "Gael Flores",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12534"
+        },
+        {
+          "id": 12535,
+          "titulo": "[BUG-SIGLONET-3.12.108-fix-day-op] - Interfaz FAH - Operaciones web por completar fecha valor no se incluyen en el registro del FAH",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-25",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-25",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12535"
+        }
+      ]
+    },
+    {
       "epic_id": 12528,
       "proyecto_azure": "PLDNet Bancrea",
       "hijos": []
@@ -14208,11 +14866,11 @@
           "id": 12499,
           "titulo": "CORPLD-12170 (No genera alerta al cumplir los parámetros - RF-05)",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-20",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-27",
-          "asignado": "Jairo Jahir Chavarria Maldonado",
+          "asignado": "Orlando Ruben De la Rosa Garcia",
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12499"
         },
         {
@@ -14241,7 +14899,7 @@
           "id": 12559,
           "titulo": "CORPLD-11349 (No se genera la alarma Entrada y Salida Rápida de Recursos SPID - RF-07)",
           "tipo": "Bug",
-          "estado": "New",
+          "estado": "In Progress",
           "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-30",
@@ -14281,6 +14939,23 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Diego Lara",
           "url": "https://dev.azure.com/scisa/ACTINVER_GIT/_workitems/edit/12552"
+        }
+      ]
+    },
+    {
+      "epic_id": 12553,
+      "proyecto_azure": "BANBAJIO_GIT",
+      "hijos": [
+        {
+          "id": 12554,
+          "titulo": "[BUG-BBFX-2.4.14] - BBFX - Inicio de sesión: se borra el corresponsal de las formas Cargo/Abono del cliente",
+          "tipo": "Bug",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-26",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-26",
+          "asignado": "Isaid Arena",
+          "url": "https://dev.azure.com/scisa/BANBAJIO_GIT/_workitems/edit/12554"
         }
       ]
     },
