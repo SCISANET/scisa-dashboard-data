@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:09:45.001Z",
+  "generated_at": "2026-11-27T17:00:00.000Z",
   "envios": [
     {
       "cliente": "PLD SCISA",
@@ -1412,6 +1412,56 @@
       "pipe": "false"
     },
     {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
+      "version": "1.11.2",
+      "fecha_envio": "2026-11-19",
+      "producto": null,
+      "ruta_artifact": "https://scisa.visualstudio.com/ACTINVER_GIT/_git/SIGLO_BANK_WS?path=%2F&version=GBfeatures%2FSCISA_03337_360T&_a=contents",
+      "backlog": "https://scisa.visualstudio.com/ACTINVER_GIT/_workitems/edit/11859/",
+      "pipe": "false"
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
+      "version": "1.13.2",
+      "fecha_envio": "2026-11-19",
+      "producto": null,
+      "ruta_artifact": "https://scisa.visualstudio.com/ACTINVER_GIT/_git/SIGLO_CB_WS?path=%2F&version=GBfeatures%2FSCISA_03337_360T&_a=contents",
+      "backlog": "https://scisa.visualstudio.com/ACTINVER_GIT/_workitems/edit/11859/",
+      "pipe": "false"
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
+      "version": "1.000097_20261119",
+      "fecha_envio": "2026-11-19",
+      "producto": null,
+      "ruta_artifact": "\"Z:\\Aplicaciones\\SIGLO_PB_12\\ActinverBanco\\SCISA_03203\\Pruebas_1.000097_20261007 - FacturacionV3_ReferenciaISOV3_Fixes(Integracion1+2).zip\"",
+      "backlog": "https://scisa.visualstudio.com/ACTINVER_GIT/_workitems/edit/12327",
+      "pipe": "false"
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "QA",
+      "version": "1.000075_20261119",
+      "fecha_envio": "2026-11-19",
+      "producto": null,
+      "ruta_artifact": "\"Z:\\Aplicaciones\\SIGLO_PB_12\\Actinver\\SCISA_03203\\Pruebas_1.000075_20261012 - FacturacionV4_ReferenciaISOV3.1_FixReferencia(Integracion_1+2).zip\"",
+      "backlog": "https://scisa.visualstudio.com/ACTINVER_GIT/_workitems/edit/12327",
+      "pipe": "false"
+    },
+    {
+      "cliente": "ACTINVER",
+      "ambiente_cliente": "Desarrollo",
+      "version": "1.11.2-202611251810",
+      "fecha_envio": "2026-11-25",
+      "producto": null,
+      "ruta_artifact": "Versión",
+      "backlog": "https://scisa.visualstudio.com/ACTINVER_GIT/_workitems/edit/11859/",
+      "pipe": "true"
+    },
+    {
       "cliente": "BAJIO",
       "ambiente_cliente": "QA",
       "version": "2.9.38.1",
@@ -2308,7 +2358,7 @@
       "fecha_envio": "2026-09-07",
       "producto": null,
       "ruta_artifact": "Versión",
-      "backlog": null,
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/12301/",
       "pipe": null
     },
     {
@@ -2318,7 +2368,7 @@
       "fecha_envio": "2026-09-28",
       "producto": null,
       "ruta_artifact": "Versión",
-      "backlog": null,
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/11570/",
       "pipe": null
     },
     {
@@ -2328,7 +2378,7 @@
       "fecha_envio": "2026-10-01",
       "producto": null,
       "ruta_artifact": "Versión",
-      "backlog": null,
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/11570/",
       "pipe": null
     },
     {
@@ -2338,7 +2388,7 @@
       "fecha_envio": "2026-10-07",
       "producto": null,
       "ruta_artifact": "Versión",
-      "backlog": null,
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/12002/",
       "pipe": null
     },
     {
@@ -2348,7 +2398,7 @@
       "fecha_envio": "2026-10-07",
       "producto": null,
       "ruta_artifact": "Versión",
-      "backlog": null,
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/11570/",
       "pipe": null
     },
     {
@@ -2359,6 +2409,16 @@
       "producto": null,
       "ruta_artifact": "Versión",
       "backlog": null,
+      "pipe": null
+    },
+    {
+      "cliente": "MIFEL",
+      "ambiente_cliente": "Desarrollo",
+      "version": "1.5.0-20261106",
+      "fecha_envio": "2026-11-06",
+      "producto": null,
+      "ruta_artifact": "Versión",
+      "backlog": "https://scisa.visualstudio.com/MIFEL_GIT/_workitems/edit/12223/",
       "pipe": null
     },
     {
@@ -2758,7 +2818,47 @@
       "fecha_envio": "2026-09-17",
       "producto": null,
       "ruta_artifact": "💻",
-      "backlog": "📝",
+      "backlog": "https://scisa.visualstudio.com/BancoBase_GIT/_workitems/edit/11553",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BASE",
+      "ambiente_cliente": "QA",
+      "version": "2.5.0",
+      "fecha_envio": "2026-11-23",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/BancoBase_GIT/_workitems/edit/11553",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BASE",
+      "ambiente_cliente": "PreProduccion",
+      "version": "2.4.2",
+      "fecha_envio": "2026-11-23",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/BancoBase_GIT/_workitems/edit/11553",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BASE",
+      "ambiente_cliente": "Produccion",
+      "version": "3.8.1",
+      "fecha_envio": "2026-10-26",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/BancoBase_GIT/_workitems/edit/12157/",
+      "pipe": "false"
+    },
+    {
+      "cliente": "BASE",
+      "ambiente_cliente": "Produccion",
+      "version": "4.3.1",
+      "fecha_envio": "2026-10-26",
+      "producto": null,
+      "ruta_artifact": "💻",
+      "backlog": "https://scisa.visualstudio.com/BancoBase_GIT/_workitems/edit/11028",
       "pipe": "false"
     },
     {
