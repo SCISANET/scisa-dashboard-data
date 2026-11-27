@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:00:15.411Z",
+  "generated_at": "2026-11-27T15:43:44.682Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -3220,9 +3220,9 @@
           "fecha_inicio": "2026-11-25",
           "fecha_objetivo": "2026-11-27",
           "asignado": "Jairo Jahir Chavarria Maldonado",
-          "total_hijos": 4,
+          "total_hijos": 5,
           "hijos_cerrados": 2,
-          "pct_progreso": 50,
+          "pct_progreso": 40,
           "url": "https://dev.azure.com/scisa/PLDNET_Actinver/_workitems/edit/12537"
         }
       ]
