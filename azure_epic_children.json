@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:00:10.497Z",
+  "generated_at": "2026-11-28T01:00:08.550Z",
   "epics": [
     {
       "epic_id": 170,
@@ -13393,6 +13393,17 @@
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/10917"
         },
         {
+          "id": 11174,
+          "titulo": "Mapeo de campos al enviar transacciones a PLD",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-06-12",
+          "fecha_fin": "2026-06-15",
+          "fecha_objetivo": "2026-06-12",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11174"
+        },
+        {
           "id": 11190,
           "titulo": "Permitir guardado de clientes sin portafolios asignados",
           "tipo": "Bug",
@@ -13413,6 +13424,17 @@
           "fecha_objetivo": "2026-07-10",
           "asignado": "Astrid Ovalle",
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/11435"
+        },
+        {
+          "id": 12318,
+          "titulo": "Corregir el valor de ClientCode en el envío de transacciones a PLD",
+          "tipo": "Bug",
+          "estado": "Done",
+          "fecha_inicio": "2026-11-02",
+          "fecha_fin": "2026-11-11",
+          "fecha_objetivo": "2026-11-03",
+          "asignado": "Andy Roberto Mesta Gonzalez",
+          "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12318"
         },
         {
           "id": 12333,
@@ -14306,8 +14328,8 @@
           "id": 12456,
           "titulo": "Error al ejecutar Job de envió de carta de confirmación",
           "tipo": "Bug",
-          "estado": "New",
-          "fecha_inicio": "2026-11-17",
+          "estado": "In Progress",
+          "fecha_inicio": "2026-11-27",
           "fecha_fin": null,
           "fecha_objetivo": "2026-11-17",
           "asignado": "Antonio Pequeño",
@@ -14328,9 +14350,9 @@
           "id": 12458,
           "titulo": "Error cierre de día por cache",
           "tipo": "Bug",
-          "estado": "In Progress",
-          "fecha_inicio": "2026-11-27",
-          "fecha_fin": null,
+          "estado": "Done",
+          "fecha_inicio": "2026-11-18",
+          "fecha_fin": "2026-11-27",
           "fecha_objetivo": "2026-11-19",
           "asignado": "Antonio Pequeño",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12458"
@@ -14356,6 +14378,17 @@
           "fecha_objetivo": "2026-11-27",
           "asignado": "Angel Doria Moncada",
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12525"
+        },
+        {
+          "id": 12571,
+          "titulo": "Liquidación de Operaciones: el filtro \"Mifel Receives\" muestra operaciones de otro portafolio tras cambiar de portafolio",
+          "tipo": "Bug",
+          "estado": "New",
+          "fecha_inicio": "2026-11-24",
+          "fecha_fin": null,
+          "fecha_objetivo": "2026-11-26",
+          "asignado": "Antonio Pequeño",
+          "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12571"
         }
       ]
     },
