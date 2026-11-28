@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:00:10.462Z",
+  "generated_at": "2026-11-28T01:00:08.528Z",
   "organizacion_azure": "scisa",
   "proyectos": [
     {
@@ -1919,7 +1919,7 @@
           "titulo": "SCISA_03496",
           "estado": "In Progress",
           "fecha_inicio": "2026-11-26",
-          "fecha_objetivo": "2026-11-28",
+          "fecha_objetivo": "2026-12-10",
           "asignado": "Andy Roberto Mesta Gonzalez",
           "total_hijos": 8,
           "hijos_cerrados": 0,
@@ -1930,11 +1930,11 @@
           "id": 12337,
           "titulo": "V.1.1.6",
           "estado": "Done",
-          "fecha_inicio": "2026-11-26",
+          "fecha_inicio": "2026-11-28",
           "fecha_objetivo": "2026-11-06",
           "asignado": "Andy Roberto Mesta Gonzalez",
-          "total_hijos": 6,
-          "hijos_cerrados": 6,
+          "total_hijos": 8,
+          "hijos_cerrados": 8,
           "pct_progreso": 100,
           "url": "https://dev.azure.com/scisa/BANKAOOL_GIT/_workitems/edit/12337"
         },
@@ -2827,9 +2827,9 @@
           "fecha_inicio": "2026-11-18",
           "fecha_objetivo": "2026-11-20",
           "asignado": "Antonio Pequeño",
-          "total_hijos": 6,
-          "hijos_cerrados": 1,
-          "pct_progreso": 17,
+          "total_hijos": 7,
+          "hijos_cerrados": 2,
+          "pct_progreso": 29,
           "url": "https://dev.azure.com/scisa/MIFEL_GIT/_workitems/edit/12441"
         }
       ]
